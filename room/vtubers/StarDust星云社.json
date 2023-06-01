@@ -1,0 +1,63 @@
+{
+    "version": 2,
+    "name": "StarDust星云社",
+    "title": "StarDust星云社",
+    "data": [
+        {
+            "uid": 3461570239662267,
+            "room": 26059927,
+            "name": "小鸟游千岁",
+            "group": "StarDust星云社",
+            "description": "「虚拟偶像企划StarDust所属」一只异世界而来的龙崽~臣服于吾吧death！眷属群：777311975",
+            "face": "https://i0.hdslb.com/bfs/face/c80f69efcf581dc389327dc09b48763f782586e6.jpg"
+        },
+        {
+            "uid": 172427807,
+            "room": 22502982,
+            "name": "悠米Umii",
+            "group": "StarDust星云社",
+            "description": "「虚拟偶像企划StarDust所属」歌杂|祝你开心\n粉丝群：956140910  \n官网：StarDust.wiki/Umii",
+            "face": "https://i2.hdslb.com/bfs/face/1bab895e5d3e8c299c82a2b218a4b0aeabde8b00.jpg"
+        },
+        {
+            "uid": 1806974352,
+            "room": 25673615,
+            "name": "星野澪_Mio",
+            "group": "StarDust星云社",
+            "description": "希望大家都能平安健康w",
+            "face": "https://i0.hdslb.com/bfs/face/4830be9eda67e06fa8eaed6d245be11daa88cfd9.jpg"
+        },
+        {
+            "uid": 4298023,
+            "room": 13767150,
+            "name": "桃泽美羽Miyu",
+            "group": "StarDust星云社",
+            "description": "「虚拟偶像企划StarDust所属」†是天使也是恶魔† 粉丝群：191991695 StarDust.wiki/Miyu",
+            "face": "https://i1.hdslb.com/bfs/face/b253a77cc562ede7ecc898b03fd15309918be23d.jpg"
+        },
+        {
+            "uid": 501218873,
+            "room": 24381393,
+            "name": "樱吹雪_Yuki",
+            "group": "StarDust星云社",
+            "description": "「虚拟偶像企划StarDust所属」吹雪神殿的转运巫女，运势不好的时候就来找我吧~粉丝群：871304994",
+            "face": "https://i2.hdslb.com/bfs/face/fa423a8d0c4b0ff863ba102b562da7da6edd16f3.jpg"
+        },
+        {
+            "uid": 17206435,
+            "room": 27131086,
+            "name": "真白梨柚",
+            "group": "StarDust星云社",
+            "description": "「虚拟偶像企划StarDust所属」来陪梨柚一起探险吧！\n梨园门牌号：748325416 ～一起来玩呀！\n画师妈妈：@_真名_\n真仓是真的",
+            "face": "https://i1.hdslb.com/bfs/face/0ab34400bfafac48ba3800749b904c7aa11e330b.jpg"
+        },
+        {
+            "uid": 3461574394120768,
+            "room": 26204808,
+            "name": "铃音宁宁",
+            "group": "StarDust星云社",
+            "description": "「虚拟偶像企划StarDust所属」锵锵！小白虎驾到！粉丝群：467750257  StarDust.wiki/Nene",
+            "face": "https://i1.hdslb.com/bfs/face/96002b35ec54fd4408e359e0c87ead2cf2c3621b.jpg"
+        }
+    ]
+}

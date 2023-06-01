@@ -1,0 +1,47 @@
+{
+    "version": 2,
+    "name": "Tinsgoo-Project",
+    "title": "Tinsgoo-Project",
+    "data": [
+        {
+            "uid": 1186762218,
+            "room": 23599702,
+            "name": "蛇目Janome",
+            "group": "Tinsgoo-Project",
+            "description": "我是TP所属的一期生蛇目，很自由。商务联系：tinsgoo.project@gmail.com",
+            "face": "https://i0.hdslb.com/bfs/face/42703f1350c26bbf83a45abe590dcbe084078d05.jpg"
+        },
+        {
+            "uid": 1533569609,
+            "room": 23160825,
+            "name": "雨音歌恋karen",
+            "group": "Tinsgoo-Project",
+            "description": "我是TP所属的一期生魔法少女的歌恋！喜欢各种可爱的东西！商务联系：tinsgoo.project@gmail.com",
+            "face": "https://i2.hdslb.com/bfs/face/e13f2ae4ad6ac7d35d418e58511675a6759307bf.jpg"
+        },
+        {
+            "uid": 16907771,
+            "room": 23158413,
+            "name": "雪虎Black",
+            "group": "Tinsgoo-Project",
+            "description": "王是TP所属的一期生Black！性别为男，红色是王的应援色 商务联系：tinsgoo.project@gmail.com",
+            "face": "https://i2.hdslb.com/bfs/face/7f493b10da0aeff5db29928264e7a829874c3b2c.jpg"
+        },
+        {
+            "uid": 1224950348,
+            "room": 23158421,
+            "name": "鳯龙美Rumi",
+            "group": "Tinsgoo-Project",
+            "description": "妾身是Tinsgoo-Project所属的第一性感的火龙神~商务联系：tinsgoo.project@gmail.com",
+            "face": "https://i2.hdslb.com/bfs/face/9df9d7c241154af4ef14109fc04499f5ef0f10bd.jpg"
+        },
+        {
+            "uid": 1573437898,
+            "room": 23158414,
+            "name": "鹤咲花菜kana",
+            "group": "Tinsgoo-Project",
+            "description": "我是TP所属的一期生仙鹤少女-花菜~商务联系：tinsgoo.project@gmail.com",
+            "face": "https://i1.hdslb.com/bfs/face/e02f330939d5fd5dd2331c7aca70e5e117b681a3.jpg"
+        }
+    ]
+}

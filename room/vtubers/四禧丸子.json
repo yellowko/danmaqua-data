@@ -1,0 +1,39 @@
+{
+    "version": 2,
+    "name": "四禧丸子",
+    "title": "四禧丸子",
+    "data": [
+        {
+            "uid": 1129115529,
+            "room": 23770941,
+            "name": "四禧丸子_Official",
+            "group": "四禧丸子",
+            "description": "虚拟偶像团体——四禧丸子，合作洽谈请联系：business@sixiwanzi.com",
+            "face": "https://i0.hdslb.com/bfs/face/aac124657e877e84b7b1c643d465fd992f057f17.jpg"
+        },
+        {
+            "uid": 1660392980,
+            "room": 23771189,
+            "name": "恬豆发芽了",
+            "group": "四禧丸子",
+            "description": "咦？这里有颗豆豆好像快要发芽了。",
+            "face": "https://i2.hdslb.com/bfs/face/3f9ad1805c09c66bc5185cba3fb025293744839d.jpg"
+        },
+        {
+            "uid": 1900141897,
+            "room": 23770996,
+            "name": "梨安不迷路",
+            "group": "四禧丸子",
+            "description": "温柔的“高智商”美女。（店小二把引号去掉！！！）",
+            "face": "https://i1.hdslb.com/bfs/face/607a5703c92168d18acba0d5a0b18bcec3d73f16.jpg"
+        },
+        {
+            "uid": 1878154667,
+            "room": 23771139,
+            "name": "沐霂是MUMU呀",
+            "group": "四禧丸子",
+            "description": "来和我一起在雨中肆意奔跑吧！",
+            "face": "https://i2.hdslb.com/bfs/face/603ef874218e25155625aeac8c7b31c5211d24b0.jpg"
+        }
+    ]
+}

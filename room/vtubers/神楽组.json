@@ -1,0 +1,31 @@
+{
+    "version": 2,
+    "name": "神楽组",
+    "title": "神楽组",
+    "data": [
+        {
+            "uid": 527093412,
+            "room": 22095341,
+            "name": "八乙女Noe_Official",
+            "group": "神楽组",
+            "description": "我是Mea前辈的小弟八乙女Noe哦～！最喜欢吃东西了",
+            "face": "http://i0.hdslb.com/bfs/face/a7592f0eb22a0719ebfcba66d51ed8480174c311.jpg"
+        },
+        {
+            "uid": 524194761,
+            "room": 22055072,
+            "name": "如月こより_Official",
+            "group": "神楽组",
+            "description": "我是能令哭泣的孩子着迷的虚拟僵尸如月Koyori。",
+            "face": "https://i0.hdslb.com/bfs/face/3a2e264aee2dd0131070c3d59520629f46357c07.jpg"
+        },
+        {
+            "uid": 349991143,
+            "room": 12235923,
+            "name": "神楽Mea_Official",
+            "group": "神楽组",
+            "description": "",
+            "face": "https://i1.hdslb.com/bfs/face/9d7dcfe1eb2b42ab4ca7684e1c3b136372944d84.jpg"
+        }
+    ]
+}

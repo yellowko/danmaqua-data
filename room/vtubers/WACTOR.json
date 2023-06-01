@@ -1,0 +1,135 @@
+{
+    "version": 2,
+    "name": "WACTOR",
+    "title": "WACTOR",
+    "data": [
+        {
+            "uid": 486618658,
+            "room": 21720308,
+            "name": "木暮Piyoko-官方",
+            "group": "WACTOR",
+            "description": "大家好！我是超大型新人木暮piyoko!官方粉丝群是887904999",
+            "face": "http://i1.hdslb.com/bfs/face/a895066a1439ab5d665fcad2bd66c0a50bb3ebe7.jpg"
+        },
+        {
+            "uid": 391614061,
+            "room": 21300316,
+            "name": "日月咪玉-官方",
+            "group": "WACTOR",
+            "description": "META-MUSIC的虚拟歌手日月咪玉！官方粉丝群是1014648717",
+            "face": "https://i1.hdslb.com/bfs/face/2fbe0a5a52a8b717270972608233ef654981bb86.jpg"
+        },
+        {
+            "uid": 497677999,
+            "room": 21779064,
+            "name": "七葉琉伊",
+            "group": "WACTOR",
+            "description": "所属WACTOR的粉色猫咪。欢迎加入应援群（1群已满），2群:1055323137",
+            "face": "https://i1.hdslb.com/bfs/face/a23470e3447e911dd6b6ae6d92de3d32386b2cdc.jpg"
+        },
+        {
+            "uid": 1923344666,
+            "room": 24393990,
+            "name": "佐保姬夕映-官方WACTOR",
+            "group": "WACTOR",
+            "description": "来自欧洲某处深林与世隔绝的村庄的治愈系精灵。了解人类流行文化后变成了鹅心的死宅。夕映的小小村落：257219463 录播号@佐保姬夕映录播组",
+            "face": "https://i2.hdslb.com/bfs/face/64726aef20b1589eba01a94005ac341369bb8a0c.jpg"
+        },
+        {
+            "uid": 1570133561,
+            "room": 26652753,
+            "name": "兔美咪奈-星辰计划",
+            "group": "WACTOR",
+            "description": "",
+            "face": "https://i2.hdslb.com/bfs/face/5dc2ca535052d665089f8e4b094e556397d3519e.jpg"
+        },
+        {
+            "uid": 1994541396,
+            "room": 23095291,
+            "name": "库拉里罗滋-官方WACTOR",
+            "group": "WACTOR",
+            "description": "来自魔界的可爱小恶魔VUP!! 粉丝群：860734782  舰长群：753633643  录播组@罗滋的恶魔召唤阵",
+            "face": "https://i0.hdslb.com/bfs/face/ce6e2f8e7273558a365b982bd13bc2def059a8c6.jpg"
+        },
+        {
+            "uid": 517746113,
+            "room": 22055164,
+            "name": "御剣莉亚-官方",
+            "group": "WACTOR",
+            "description": "活動終了しました",
+            "face": "https://i2.hdslb.com/bfs/face/78352a8d9c99e304a1ecef7b9ed40344b9a9599b.jpg"
+        },
+        {
+            "uid": 486618656,
+            "room": 21720262,
+            "name": "心伊齐露-WACTOR官方",
+            "group": "WACTOR",
+            "description": "大家最喜欢的伪娘心伊齐露哟出道三天和富士葵酱一起合作过的备受期待的新人心 伊齐露！官方粉丝群是851770605",
+            "face": "http://i2.hdslb.com/bfs/face/e60118f3886865e1ab60d5bfcaacacb69b8864f8.jpg"
+        },
+        {
+            "uid": 1089059487,
+            "room": 23089686,
+            "name": "星奈铃-官方WACTOR",
+            "group": "WACTOR",
+            "description": "【已毕业】来自日本的中日双语VUP｜WACTOR社所属｜字幕组@黑猫铃的观星天台",
+            "face": "https://i0.hdslb.com/bfs/face/95f1507a08aa18251a75c7b4ec7a8f5b8f3488b5.jpg"
+        },
+        {
+            "uid": 486618657,
+            "room": 21720301,
+            "name": "月兔华-WACTOR官方",
+            "group": "WACTOR",
+            "description": "WACTOR所属・兔耳新人VUPPER月兔华!希望可以关注，点赞，加入QQ粉丝群哟！官方粉丝群是612779837",
+            "face": "https://i0.hdslb.com/bfs/face/328e78fdf9bcc93b67aa47b9f435ec3b4358bb80.jpg"
+        },
+        {
+            "uid": 1386545245,
+            "room": 23667609,
+            "name": "犬卷日鞠-官方WACTOR",
+            "group": "WACTOR",
+            "description": "【已毕业】为了成为爱豆露来到了这里！ 字幕组：@汪汪字幕组",
+            "face": "https://i1.hdslb.com/bfs/face/ef962cbee6179e0cdc2c57afdfb9e0b114308932.jpg"
+        },
+        {
+            "uid": 1356089080,
+            "room": 26652742,
+            "name": "猫宮悠米-星辰计划",
+            "group": "WACTOR",
+            "description": "是一只国猫但是由于系统故障降落在了西班牙所以中文不太好喵",
+            "face": "https://i1.hdslb.com/bfs/face/5df610810f8106c23c37f0dcf2c952d90db55c69.jpg"
+        },
+        {
+            "uid": 12920215,
+            "room": 8640311,
+            "name": "Lisbeth_Re",
+            "group": "WACTOR",
+            "description": "由于新生真白くま已经将名称变为真白くま，故本账号将不再拥有真白くま的官方授权，因此重新变为组长的个人号，但是视频会保留，敬请谅解。",
+            "face": "http://i1.hdslb.com/bfs/face/839d5b9a254c54ae162e05b49cc77121439ea270.jpg"
+        },
+        {
+            "uid": 1491057187,
+            "room": 25362856,
+            "name": "空真密丽-星辰计划",
+            "group": "WACTOR",
+            "description": "pew pew pew",
+            "face": "https://i1.hdslb.com/bfs/face/10e1db4ba4323b8c638bc9de533561785bafe7c0.jpg"
+        },
+        {
+            "uid": 1724136548,
+            "room": 23089693,
+            "name": "紫乃莱拉-官方WACTOR",
+            "group": "WACTOR",
+            "description": "",
+            "face": "https://i2.hdslb.com/bfs/face/a6e94e045f95a2cc58b968d79ba8e5db5ba6ccea.jpg"
+        },
+        {
+            "uid": 1589583375,
+            "room": 25483301,
+            "name": "蕾娅-官方WACTOR",
+            "group": "WACTOR",
+            "description": "我是蕾娅，WACTOR所属可爱的幽灵vtuber，请多多关照~",
+            "face": "https://i0.hdslb.com/bfs/face/2ba746a4458e665f7e55ee791c3d172051442173.jpg"
+        }
+    ]
+}

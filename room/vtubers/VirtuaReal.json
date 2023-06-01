@@ -1,0 +1,655 @@
+{
+    "version": 2,
+    "name": "VirtuaReal",
+    "title": "VirtuaReal",
+    "data": [
+        {
+            "uid": 434334701,
+            "room": 21452505,
+            "name": "七海Nana7mi",
+            "group": "VirtuaReal",
+            "description": "虚拟艺人团体VirtuaReal成员 七海Nana7mi\n商务合作：bd@vrp.live ",
+            "face": "https://i2.hdslb.com/bfs/face/ca1831b43b6aa2401c2f9be1175833dc683f430b.jpg"
+        },
+        {
+            "uid": 434401868,
+            "room": 21457197,
+            "name": "中单光一",
+            "group": "VirtuaReal",
+            "description": "虚拟艺人团体VirtuaReal成员。DOTA2/资深水友/数码/围棋等。商务合作:bd@vrp.live",
+            "face": "https://i2.hdslb.com/bfs/face/1fe2623a4847c8fdedf55b90897e968e82eb8181.jpg"
+        },
+        {
+            "uid": 690608702,
+            "room": 22778627,
+            "name": "九十九_Tsukumo",
+            "group": "VirtuaReal",
+            "description": " 虚拟艺人团体VirtuaReal成员，黑手党歌手九十九Tsukumo，商务合作:bd@vrp.live",
+            "face": "https://i2.hdslb.com/bfs/face/bb56c76adeee284713512702e850870777ad958b.jpg"
+        },
+        {
+            "uid": 690608694,
+            "room": 22605466,
+            "name": "伊深Imi",
+            "group": "VirtuaReal",
+            "description": "虚拟艺人团体VirtuaReal成员，清楚担当！本体是眼镜，书签是食材。商务合作：bd@vrp.live",
+            "face": "https://i0.hdslb.com/bfs/face/a98866c56e778098eb594098ad6f7d0f1a9324fb.jpg"
+        },
+        {
+            "uid": 1542516095,
+            "room": 26966452,
+            "name": "伊舞Eve",
+            "group": "VirtuaReal",
+            "description": "虚拟艺人团体VirtuaReal所属成员伊舞Eve ,一个喜欢看漫画的人偶魔女，商务合作请联系bd@vrp.live ",
+            "face": "https://i2.hdslb.com/bfs/face/d728b275ab4bec5168c6c3238704d0a97b4bf714.jpg"
+        },
+        {
+            "uid": 666726803,
+            "room": 22470189,
+            "name": "伊莎贝拉Official",
+            "group": "VirtuaReal",
+            "description": "已毕业",
+            "face": "https://i2.hdslb.com/bfs/face/30944ecc108ae4be9fb27e911836889b675554c9.jpg"
+        },
+        {
+            "uid": 690608711,
+            "room": 23550784,
+            "name": "克克_Keke",
+            "group": "VirtuaReal",
+            "description": "虚拟艺人团体VirtuaReal所属成员，异世界王子，KK探险队队长，商务合作请联系bd@vrp.live",
+            "face": "https://i2.hdslb.com/bfs/face/0cc8ada3d8b8d316c814ddb5725c66c5b37714f8.jpg"
+        },
+        {
+            "uid": 480675481,
+            "room": 21696929,
+            "name": "八木迪之",
+            "group": "VirtuaReal",
+            "description": "虚拟艺人团体VirtuaReal成员，臭打游戏爱好泛滥的中年人（bushi）。商务合作：bd@vrp.live",
+            "face": "https://i1.hdslb.com/bfs/face/da4ecb4f66c646e9fb520b5458da0fca9e7739a8.jpg"
+        },
+        {
+            "uid": 666726801,
+            "room": 22470208,
+            "name": "勺Shaun",
+            "group": "VirtuaReal",
+            "description": "虚拟艺人团体VirtuaReal成员∣唱拽歌的软软神明✧商务请联系bd@vrp.live",
+            "face": "https://i0.hdslb.com/bfs/face/34c5270675e9768d3fd3414547b7cc72ecf753b0.jpg"
+        },
+        {
+            "uid": 690608693,
+            "room": 22778610,
+            "name": "勾檀Mayumi",
+            "group": "VirtuaReal",
+            "description": "虚拟艺人团体VirtuaReal成员，一起逃向自由吧。商务合作：bd@vrp.live",
+            "face": "https://i2.hdslb.com/bfs/face/9b5f4ee06f12b49d3ec08e6bf3b7394ba71a8ddb.jpg"
+        },
+        {
+            "uid": 690608691,
+            "room": 22605464,
+            "name": "千幽Chiyuu",
+            "group": "VirtuaReal",
+            "description": "虚拟艺人团体VirtuaReal成员幽灵千幽，有和阳间人留下更多的回忆吗？商务合作请联系bd@vrp.live",
+            "face": "https://i0.hdslb.com/bfs/face/097a00afc2195707cd0d8474da08c4aaee4696e5.jpg"
+        },
+        {
+            "uid": 558070433,
+            "room": 22389319,
+            "name": "千春_Chiharu",
+            "group": "VirtuaReal",
+            "description": "虚拟艺人团体VirtuaReal所属的千春起哈鲁，希望能够像太阳一样照亮你的心❤️商务合作请联系bd@vrp.live",
+            "face": "https://i2.hdslb.com/bfs/face/47ac176158b33ce4a2dfd8f54b7f39600cc31f76.jpg"
+        },
+        {
+            "uid": 628292881,
+            "room": 22389314,
+            "name": "卡欧斯_Chaos",
+            "group": "VirtuaReal",
+            "description": "虚拟艺人团体VirtuaReal成员摸鱼达人卡欧斯Chaos。商务合作：bd@vrp.live",
+            "face": "https://i1.hdslb.com/bfs/face/fcdc6da4609090274398375d895098cc8730b370.jpg"
+        },
+        {
+            "uid": 690608712,
+            "room": 23550793,
+            "name": "友夏Uka",
+            "group": "VirtuaReal",
+            "description": "虚拟艺人团体VirtuaReal所属成员，一个打不开面板的废柴勇者，商务合作请联系bd@vrp.live",
+            "face": "https://i0.hdslb.com/bfs/face/c02f9206933f8436abad551f65b3c24fb0084f35.jpg"
+        },
+        {
+            "uid": 690608688,
+            "room": 23017343,
+            "name": "吉吉Kiti",
+            "group": "VirtuaReal",
+            "description": "虚拟艺人团体VirtuaReal成员，吉吉Kiti！是一只除了给自己带来好运以外无所不能的小招财猫nia！商务合作：bd@vrp.live",
+            "face": "https://i0.hdslb.com/bfs/face/b99f8d241a2048f61a9810ed98044733257e9c9c.jpg"
+        },
+        {
+            "uid": 472821519,
+            "room": 21615277,
+            "name": "喵月nyatsuki",
+            "group": "VirtuaReal",
+            "description": "虚拟艺人团体VirtuaReal成员喵月nyatsuki，百年后在月球上相见吧！商务合作：bd@vrp.live",
+            "face": "https://i0.hdslb.com/bfs/face/f85f8ab3616497d5bc75368982bdb6de116ff394.jpg"
+        },
+        {
+            "uid": 596141957,
+            "room": 22459141,
+            "name": "声优鱼片娘",
+            "group": "VirtuaReal",
+            "description": "VirtuaReal所属的声优鱼片娘，也叫笙妤Syo。我的目标是成为一名优秀的配音演员！",
+            "face": "http://i2.hdslb.com/bfs/face/9b5e621c2900d5c47b3af0a4e9f1e7de2e6e48dc.jpg"
+        },
+        {
+            "uid": 690608689,
+            "room": 23260856,
+            "name": "夜宫Yomiya",
+            "group": "VirtuaReal",
+            "description": "虚拟艺人团体VirtuaReal成员，商务合作：要先去看U149才有商务合作哦～",
+            "face": "https://i1.hdslb.com/bfs/face/46902eacf0b5779814ccbdeb5281cdefc2f4cef9.jpg"
+        },
+        {
+            "uid": 392505232,
+            "room": 21224291,
+            "name": "安堂いなり_official",
+            "group": "VirtuaReal",
+            "description": "虚拟艺人团体VirtuaReal成员，玩游戏的机器狐狸安堂いなり。商务合作：bd@vrp.live",
+            "face": "https://i1.hdslb.com/bfs/face/ad7464941000379d8088ccbd44b10e5d5435af7b.jpg"
+        },
+        {
+            "uid": 12485637,
+            "room": 784734,
+            "name": "宫园凛RinMiyazono",
+            "group": "VirtuaReal",
+            "description": "虚拟艺人团体VirtuaReal成员✨认真唱歌✨愿我更加温暖坚强 成为自己和大家的光✨商务合作请联系bd@vrp.live",
+            "face": "https://i0.hdslb.com/bfs/face/c28fb8696bbbd1e223a2de0bea48e0315be4e256.jpg"
+        },
+        {
+            "uid": 14387072,
+            "room": 6374209,
+            "name": "小可学妹",
+            "group": "VirtuaReal",
+            "description": "虚拟艺人团体VirtuaReal成员 商务合作：bd@vrp.live",
+            "face": "https://i2.hdslb.com/bfs/face/50bec7d47935d0660c7174e7c075d38f259e8d15.jpg"
+        },
+        {
+            "uid": 690608709,
+            "room": 23550749,
+            "name": "尤格Yog",
+            "group": "VirtuaReal",
+            "description": "虚拟艺人团体VirtuaReal成员，普通的高中打工宅男！商务合作联系bd@vrp.live",
+            "face": "https://i0.hdslb.com/bfs/face/98e96729ce19b05132002be6d198b53a5b881c06.jpg"
+        },
+        {
+            "uid": 1954091502,
+            "room": 25788785,
+            "name": "岁己SUI",
+            "group": "VirtuaReal",
+            "description": "虚拟艺人团体VirtuaReal成员，喜欢唱歌的叽叽喳喳的小鸟！合作请联系bd@vrp.live",
+            "face": "https://i0.hdslb.com/bfs/face/b544536e863a6d2973f02b400d3e2102c93b2ccc.jpg"
+        },
+        {
+            "uid": 1155425566,
+            "room": 23805066,
+            "name": "希侑Kiyuu",
+            "group": "VirtuaReal",
+            "description": "虚拟艺人团体VirtuaReal所属成员，爱好打游戏的蓝粉电竞猫猫！合作请联系bd@vrp.live",
+            "face": "https://i1.hdslb.com/bfs/face/0747edc947b80d560c5d64bffdb9a407fee7e686.jpg"
+        },
+        {
+            "uid": 1405589619,
+            "room": 23805059,
+            "name": "希维Sybil",
+            "group": "VirtuaReal",
+            "description": "虚拟艺人团体VirtuaReal所属新成员 黄油之神希维sybil，商务合作请联系bd@vrp.live",
+            "face": "https://i0.hdslb.com/bfs/face/76a22ba27cbe3468fd65e1234f38d18b553cbe85.jpg"
+        },
+        {
+            "uid": 1481781085,
+            "room": 24102587,
+            "name": "幽乐咩Ureme",
+            "group": "VirtuaReal",
+            "description": "虚拟艺人团体VirtuaReal所属新成员，人类脑内灵感与情感聚合产生的混沌山羊，精分警告！商务合作请联系bd@vrp.live",
+            "face": "https://i1.hdslb.com/bfs/face/944b7f2fde9b0bd459378e457f1199e2d624968b.jpg"
+        },
+        {
+            "uid": 690608695,
+            "room": 23260979,
+            "name": "库伽Hakuja",
+            "group": "VirtuaReal",
+            "description": "虚拟艺人团体VirtuaReal所属成员，未来镜城的蛇族刺客库伽，小蛇叫『尾子』~商务合作请联系bd@vrp.live～",
+            "face": "https://i1.hdslb.com/bfs/face/9c58f2eb50d25e57b934915321056d4bdce8e0c8.jpg"
+        },
+        {
+            "uid": 474369808,
+            "room": 21696957,
+            "name": "度人Tabibito",
+            "group": "VirtuaReal",
+            "description": "虚拟艺人团体VirtuaReal成员，热爱推理解谜与卡牌游戏，邀你见证一个不幸之人反抗命运的故事，商务合作：bd@vrp.live",
+            "face": "https://i1.hdslb.com/bfs/face/c7e2936ea9e2c6c132920e9a1e63b6142abe4130.jpg"
+        },
+        {
+            "uid": 477317922,
+            "room": 21672023,
+            "name": "弥希Miki",
+            "group": "VirtuaReal",
+            "description": "记录副会长轻松愉快的每一天，如果看到在无关地方提及我，及骚扰拉踩他人的麻烦举报，请勿争吵（商业合作：bd@vrp.live）",
+            "face": "https://i0.hdslb.com/bfs/face/58b8ecf4df30320c9fddbd5f085001a650243fee.jpg"
+        },
+        {
+            "uid": 690608690,
+            "room": 23260932,
+            "name": "恋诗夜Koxia",
+            "group": "VirtuaReal",
+            "description": "高冷装高手。商务合作:bd@vrp.live",
+            "face": "https://i2.hdslb.com/bfs/face/f272fe894aee8bb1eba413d31b69e9c73457b2f8.jpg"
+        },
+        {
+            "uid": 666726799,
+            "room": 22470216,
+            "name": "悠亚Yua",
+            "group": "VirtuaReal",
+            "description": " 虚拟艺人团体VirtuaReal成员，悠亚Yua030谢谢你发现了ua！变成uuq吧!商务合作：bd@vrp.live",
+            "face": "https://i1.hdslb.com/bfs/face/4d8bfb56ce431953151c1e85f27379b441d8a639.jpg"
+        },
+        {
+            "uid": 472877684,
+            "room": 21613356,
+            "name": "惑姬Waku",
+            "group": "VirtuaReal",
+            "description": " 虚拟艺人团体VirtuaReal成员，一只来自神舟泽国的文盲，商务合作：bd@vrp.live\n",
+            "face": "https://i2.hdslb.com/bfs/face/78bd7724f0b1cf9bdf9afa10c56d4137ff667c58.jpg"
+        },
+        {
+            "uid": 455916618,
+            "room": 21571739,
+            "name": "无理MURI",
+            "group": "VirtuaReal",
+            "description": "虚拟艺人团体VirtuaReal成员，无理MURI，商务合作：bd@vrp.live。本来讨厌下雨的天空。",
+            "face": "https://i0.hdslb.com/bfs/face/5c21a39e52a491bfb599cc9645d506090e87b3ef.jpg"
+        },
+        {
+            "uid": 319810877,
+            "room": 21763337,
+            "name": "星也seiya",
+            "group": "VirtuaReal",
+            "description": "VirtuaReal所属七期生Liver，不是宅神，我不是我没有.jpg ",
+            "face": "https://i2.hdslb.com/bfs/face/bc7a90c312763d253b187f8afb36728e58f4e59b.jpg"
+        },
+        {
+            "uid": 666726800,
+            "room": 22470210,
+            "name": "星宸Sirius",
+            "group": "VirtuaReal",
+            "description": "虚拟艺人团体VirtuaReal成员Sirius。商务合作：bd@vrp.live",
+            "face": "https://i2.hdslb.com/bfs/face/092426b31071b1226ddc6c6262bb563f8d6caf61.jpg"
+        },
+        {
+            "uid": 477342747,
+            "room": 21672022,
+            "name": "星弥Hoshimi",
+            "group": "VirtuaReal",
+            "description": "认真去做每一件事！⭐你的心意一定会得到回应 | 虚拟艺人团体VirtuaReal成员 ｜商务合作：bd@vrp.live",
+            "face": "https://i0.hdslb.com/bfs/face/2356aabd5be54199ca006145fa0c886d2cf3493b.jpg"
+        },
+        {
+            "uid": 690608710,
+            "room": 23550773,
+            "name": "暴食Hunger",
+            "group": "VirtuaReal",
+            "description": "虚拟艺人团体VirtuaReal成员，是一个超级无敌搞笑大魔王！商务合作请联系bd@vrp.live",
+            "face": "https://i1.hdslb.com/bfs/face/c49fc6a04de165c74013e8accec7b21ea61acf8b.jpg"
+        },
+        {
+            "uid": 472845978,
+            "room": 21613353,
+            "name": "有加plus",
+            "group": "VirtuaReal",
+            "description": "虚拟艺人团体VirtuaReal成员｜催眠歌声の见习付丧神，靠太近会使坏哦～代号plus，集合吧小纽扣｜合作bd@vrp.live",
+            "face": "https://i0.hdslb.com/bfs/face/78ad870ac3ff00fd79e4ac33606a2cff59ceed72.jpg"
+        },
+        {
+            "uid": 690608692,
+            "room": 23260965,
+            "name": "未羽Miyu",
+            "group": "VirtuaReal",
+            "description": "虚拟艺人团体VirtuaReal成员，未羽miyu，商务合作请联系bd@vrp.live  ",
+            "face": "http://i1.hdslb.com/bfs/face/9b6d335d87d38f08125f37dd48b48ca87d963829.jpg"
+        },
+        {
+            "uid": 1609526545,
+            "room": 26966466,
+            "name": "栞栞Shiori",
+            "group": "VirtuaReal",
+            "description": "虚拟艺人团体VirtuaReal所属成员，干饭第一名的海獭～商务合作请联系bd@vrp.live",
+            "face": "https://i1.hdslb.com/bfs/face/add5f1847ad3655a37b85549e99a0df75e45e070.jpg"
+        },
+        {
+            "uid": 690608704,
+            "room": 23017349,
+            "name": "桃星Tocci",
+            "group": "VirtuaReal",
+            "description": "虚拟艺人团体VirtuaReal成员，外星小孩（叛逆期），忧伤公主。商务合作请联系bd@vrp.live",
+            "face": "https://i1.hdslb.com/bfs/face/04ab5cbc21708c89bde1e7b2b0ee5d3b18d7aad6.jpg"
+        },
+        {
+            "uid": 1827139579,
+            "room": 25762103,
+            "name": "欧珀Opal",
+            "group": "VirtuaReal",
+            "description": "虚拟艺人团体VirtuaReal所属成员欧珀Opal，商务合作请联系bd@vrp.live",
+            "face": "https://i1.hdslb.com/bfs/face/2d57e4bb268f85ce8216dd98493b0e78a035c571.jpg"
+        },
+        {
+            "uid": 1739085910,
+            "room": 25788830,
+            "name": "江乱Era",
+            "group": "VirtuaReal",
+            "description": "虚拟艺人团体VirtuaReal成员，爱睡觉的千年狐狸！商务合作请联系bd@vrp.live",
+            "face": "https://i1.hdslb.com/bfs/face/97a2344c71f86e202c92768740923b1fc9db6ea5.jpg"
+        },
+        {
+            "uid": 490331391,
+            "room": 21763344,
+            "name": "沙夜_Saya",
+            "group": "VirtuaReal",
+            "description": "虚拟艺人团体VirtuaReal成员，虚拟小学男茄子沙夜Saya，商务合作：bd@vrp.live",
+            "face": "https://i0.hdslb.com/bfs/face/6e7bb9dafb591f77fd7d89a6c8bf617132100dfe.jpg"
+        },
+        {
+            "uid": 282994,
+            "room": 47377,
+            "name": "泠鸢yousa",
+            "group": "VirtuaReal",
+            "description": "VirtuaReal Star成员，周六晚八点半直播。商务lujingyang@bilibili.com",
+            "face": "https://i1.hdslb.com/bfs/face/42f49f91edd6a868b508fb0482dcff8fb6c74aaa.jpg"
+        },
+        {
+            "uid": 558070436,
+            "room": 22389323,
+            "name": "清良Kiyora",
+            "group": "VirtuaReal",
+            "description": "大家状态良好吗！我是来自异世界的火之艺术家kiyora！晚安！！！",
+            "face": "https://i2.hdslb.com/bfs/face/b2f1927a0177be5458d999b56a1c1dc5dcb58299.jpg"
+        },
+        {
+            "uid": 690608701,
+            "room": 22778617,
+            "name": "犬童Kendou",
+            "group": "VirtuaReal",
+            "description": "我是一个音库。",
+            "face": "http://i1.hdslb.com/bfs/face/1539ab989a3b070d45117d29fdc471d7b0d1147d.jpg"
+        },
+        {
+            "uid": 690608714,
+            "room": 23805078,
+            "name": "狩砂Karisa",
+            "group": "VirtuaReal",
+            "description": "虚拟艺人团体VirtuaReal所属人类成员狩砂karisa，喜欢学习了解新事物！商务合作请联系bd@vrp.live",
+            "face": "https://i2.hdslb.com/bfs/face/46f39098487d163554bd8fb590a2c8803f43b6f8.jpg"
+        },
+        {
+            "uid": 420249427,
+            "room": 21403609,
+            "name": "琉绮Ruki",
+            "group": "VirtuaReal",
+            "description": "虚拟艺人团体VirtuaReal成员 / 去摘遥不可及的星⭐/ 商务合作：bd@vrp.live\n",
+            "face": "https://i1.hdslb.com/bfs/face/e094f351a11ce2a327c72c922460b2b102cffd83.jpg"
+        },
+        {
+            "uid": 690608698,
+            "room": 23260993,
+            "name": "瑞娅_Rhea",
+            "group": "VirtuaReal",
+            "description": "虚拟艺人团体VirtuaReal成员，瑞娅Rhea。希望我的魔法能拨动你的心✨！合作请联系bd@vrp.live",
+            "face": "https://i1.hdslb.com/bfs/face/bdafd97295fcb56ae3aeae3cfbc967ca9e4b533e.jpg"
+        },
+        {
+            "uid": 666726802,
+            "room": 22470204,
+            "name": "瑞芙Reve",
+            "group": "VirtuaReal",
+            "description": "虚拟艺人团体VirtuaReal成员，我在春夏的交接绽放，商务合作：bd@vrp.live",
+            "face": "https://i1.hdslb.com/bfs/face/b3de428777ea0538b1d33968c510971d0e3050b9.jpg"
+        },
+        {
+            "uid": 690608706,
+            "room": 22605469,
+            "name": "田野柴Tanoshiba",
+            "group": "VirtuaReal",
+            "description": " 虚拟艺人团体VirtuaReal成员，阿柴帮的老大Tanoshiba，梦想是开酒吧！商务合作：bd@",
+            "face": "https://i0.hdslb.com/bfs/face/66c8884f5b1bd11cec856c66ba5cb869d25c40bc.jpg"
+        },
+        {
+            "uid": 477306079,
+            "room": 21672024,
+            "name": "真绯瑠mahiru",
+            "group": "VirtuaReal",
+            "description": "虚拟艺人团体VirtuaReal成员，真绯瑠mahiru，デビル日々進化中！商务合作：bd@vrp.live",
+            "face": "https://i1.hdslb.com/bfs/face/6958d76ac636ea2a5b18a1927446dcb0b722bb1c.jpg"
+        },
+        {
+            "uid": 3046429,
+            "room": 938957,
+            "name": "祖娅纳惜",
+            "group": "VirtuaReal",
+            "description": "VirtuaReal Star成员。商务/非商合作请联系邮箱trinety@foxmail.com  QQ24982271",
+            "face": "https://i1.hdslb.com/bfs/face/a030f22e9b9ecc044f38d64b5800a1b9d31f5a91.jpg"
+        },
+        {
+            "uid": 36795838,
+            "room": 1573301,
+            "name": "KINGSK科科_Channel",
+            "group": "VirtuaReal",
+            "description": "【已停止活动】在遥远的鹅鹅国，我们一定会再次相见",
+            "face": "http://i1.hdslb.com/bfs/face/d5cf3e682b04300756ea2b7846d8dcea92fad8ed.jpg"
+        },
+        {
+            "uid": 176836079,
+            "room": 6068126,
+            "name": "糯依Noi",
+            "group": "VirtuaReal",
+            "description": "虚拟艺人团体VirtuaReal成员_虚拟醉酒老板 唱歌 配音\n想成为一体机_与其做唱见，不如做沙雕up主。\n承蒙厚爱",
+            "face": "https://i2.hdslb.com/bfs/face/4e9999ca4d45247621bb697ffcf98f76e9e251a5.jpg"
+        },
+        {
+            "uid": 370687372,
+            "room": 22111414,
+            "name": "紫纪Shiki",
+            "group": "VirtuaReal",
+            "description": "您好，我是VirtuaReal所属虚拟大学生紫纪Shiki。商务合作邮箱：bd@vrp.live",
+            "face": "http://i1.hdslb.com/bfs/face/798bee5d66232ea981b741c0aafe2d0f293930c8.jpg"
+        },
+        {
+            "uid": 690608696,
+            "room": 23017346,
+            "name": "绮楼Qilou",
+            "group": "VirtuaReal",
+            "description": "虚拟艺人团体VirtuaReal成员。云上泥里，浪漫自由。",
+            "face": "https://i2.hdslb.com/bfs/face/ce8e11f5657b866c17bb14d4de69d76b920030de.jpg"
+        },
+        {
+            "uid": 480745939,
+            "room": 21696953,
+            "name": "罗伊_Roi",
+            "group": "VirtuaReal",
+            "description": "虚拟艺人团体VirtuaReal成员，总是被钻石和星光围绕着的异世界的王子，商务合作bd@vrp.live",
+            "face": "https://i1.hdslb.com/bfs/face/b3371c562fd1c81df86af7213f318cfad96010b8.jpg"
+        },
+        {
+            "uid": 455965041,
+            "room": 21669084,
+            "name": "羽音Hanon",
+            "group": "VirtuaReal",
+            "description": "42",
+            "face": "http://i0.hdslb.com/bfs/face/3a227f0b6ff689669f2efe6abc52350970a03a00.jpg"
+        },
+        {
+            "uid": 6853766,
+            "room": 3032130,
+            "name": "舒三妈Susam",
+            "group": "VirtuaReal",
+            "description": "虚拟艺人团体VirtuaReal成员丨随心而动的人 随性而动的人  一般通过BOT丨商务合作联系bd@vrp.live",
+            "face": "https://i2.hdslb.com/bfs/face/e70053ae0e7bca0f8c5acd3b6027345ef7b25e97.jpg"
+        },
+        {
+            "uid": 421267475,
+            "room": 21403601,
+            "name": "艾因Eine",
+            "group": "VirtuaReal",
+            "description": "虚拟艺人团体VirtuaReal成员。异世界！永远19岁！魔法师！歌与魔法改变世界！商务合作：bd@vrp.live",
+            "face": "https://i2.hdslb.com/bfs/face/192951a5ed432428542b5051f673105d87723cf6.jpg"
+        },
+        {
+            "uid": 370687588,
+            "room": 22111428,
+            "name": "花留Karu",
+            "group": "VirtuaReal",
+            "description": "雪国出身的贵族大小姐，喜欢料理！虚拟艺人团体VirtuaReal成员，商务合作bd@vrp.live",
+            "face": "https://i1.hdslb.com/bfs/face/b1fafc27b231fb006f21b96d4efaee9567e43f4f.jpg"
+        },
+        {
+            "uid": 690608686,
+            "room": 22605463,
+            "name": "茉里Mari",
+            "group": "VirtuaReal",
+            "description": "虚拟艺人团体VirtuaReal成员，Good茉里！吸血鬼也能和身为人类的你在一起吗。商务合作：bd@vrp.live",
+            "face": "https://i1.hdslb.com/bfs/face/6ed2a201de43418f50c6394a101031f7d76c9169.jpg"
+        },
+        {
+            "uid": 741520,
+            "room": 33942,
+            "name": "茶冷_Channel",
+            "group": "VirtuaReal",
+            "description": "虚拟艺人团体VirtuaReal成员，平平无常的绘画UP主，商务合作：bd@vrp.live【暂不接非熟人推荐稿】",
+            "face": "https://i1.hdslb.com/bfs/face/ce70fda0fd1c7537b3e8503698f3d77cb20874be.jpg"
+        },
+        {
+            "uid": 1116072703,
+            "room": 25788858,
+            "name": "莱恩Leo",
+            "group": "VirtuaReal",
+            "description": "虚拟艺人团体VirtuaReal成员。穿越到人类世界，爱吃肉爱唱歌的大嗓门白狮子(≧ω≦)/ 合作请联系bd@vrp.live",
+            "face": "https://i1.hdslb.com/bfs/face/79a9e656b100cc906deec2cda69c0597810f0e84.jpg"
+        },
+        {
+            "uid": 595407557,
+            "room": 22359795,
+            "name": "菜菜子Nanako",
+            "group": "VirtuaReal",
+            "description": "治愈系小萌神 菜菜子Nanako会出现在充满苦恼需要帮助的人们身边哦～VirtuaReal成员",
+            "face": "http://i2.hdslb.com/bfs/face/dfc62a6e1b9305d143c6d26ec6fd5e7bef897933.jpg"
+        },
+        {
+            "uid": 98181,
+            "room": 4418655,
+            "name": "菫妃奈Official",
+            "group": "VirtuaReal",
+            "description": "个人势vup，妈妈是Paryi,想要人间观察\n推特@sumirehina微博@菫妃奈",
+            "face": "https://i0.hdslb.com/bfs/face/d144bb159b9bb03b4b768a575f5534f3bb6c6187.jpg"
+        },
+        {
+            "uid": 370689210,
+            "room": 22111450,
+            "name": "萨麦尔_Samael",
+            "group": "VirtuaReal",
+            "description": "VirtuaReal所属怒之撒旦萨麦尔samael。喂？在吗？我馋你魂；商务合作邮箱：bd@vrp.live",
+            "face": "http://i0.hdslb.com/bfs/face/9f3f19b7e3a51d70ce211e4cd9e2609919260575.jpg"
+        },
+        {
+            "uid": 690608687,
+            "room": 22778596,
+            "name": "蕾米Remi",
+            "group": "VirtuaReal",
+            "description": "虚拟艺人团体VirtuaReal成员，爱配音哒小海兔，微博@蕾米_Remi，商务合作：bd@vrp.live",
+            "face": "https://i2.hdslb.com/bfs/face/dca9bdc80464a6ff09676cff15407d306f0e17b0.jpg"
+        },
+        {
+            "uid": 1750561,
+            "room": 8721033,
+            "name": "蜜球兔",
+            "group": "VirtuaReal",
+            "description": "虚拟艺人团体VirtuaReal成员，微博@蜜球兔，商务合作：bd@vrp.live",
+            "face": "https://i1.hdslb.com/bfs/face/7d39ade117c67d4e3d2319eec7f338c478798730.jpg"
+        },
+        {
+            "uid": 529249,
+            "room": 282208,
+            "name": "诺莺Nox",
+            "group": "VirtuaReal",
+            "description": "虚拟艺人团体VirtuaReal成员，唱歌和说屁话都很一流的意识体，非著名评论区活动家，商务合作：bd@vrp.live ",
+            "face": "https://i1.hdslb.com/bfs/face/aeeae5b4ca9105419f562a105e6513249f9e30db.jpg"
+        },
+        {
+            "uid": 61639371,
+            "room": 21484828,
+            "name": "轴伊Joi_Channel",
+            "group": "VirtuaReal",
+            "description": "虚拟艺人团体VirtuaReal成员轴伊Joi，无感情一般小女孩。橘子是最完美的水果～商务合作请联系bd@vrp.live",
+            "face": "https://i0.hdslb.com/bfs/face/6c8b3130aa9bed0e4625aa09a3ce53d85ea12f3e.jpg"
+        },
+        {
+            "uid": 628292885,
+            "room": 22459139,
+            "name": "金克茜Jinxy",
+            "group": "VirtuaReal",
+            "description": "战舰维修中",
+            "face": "https://i2.hdslb.com/bfs/face/bb9887c4c38127692c99b7971095fa79e36351e5.jpg"
+        },
+        {
+            "uid": 7706705,
+            "room": 80397,
+            "name": "阿梓从小就很可爱",
+            "group": "VirtuaReal",
+            "description": "虚拟艺人团体VirtuaReal成员，喜欢宅在家唱歌打游戏的梓宝！\n商务合作：bd@vrp.live",
+            "face": "https://i2.hdslb.com/bfs/face/ba9ce36ef60a53e24a97f54429e62bdb951530a0.jpg"
+        },
+        {
+            "uid": 480680646,
+            "room": 21696950,
+            "name": "阿萨Aza",
+            "group": "VirtuaReal",
+            "description": "虚拟主播团体VirtuaReal成员。你好！我喜欢唱歌打游戏。商务合作请联系bd@vrp.live",
+            "face": "https://i0.hdslb.com/bfs/face/d92f3bea64c4bac4e80909405bd126b8666e012d.jpg"
+        },
+        {
+            "uid": 56748733,
+            "room": 21756924,
+            "name": "雪绘Yukie",
+            "group": "VirtuaReal",
+            "description": "虚拟艺人团体VirtuaReal成员，法之律者桃濑雪绘~商务合作：bd@vrp.live",
+            "face": "https://i1.hdslb.com/bfs/face/2f5e547fb17451bba2776f66c8bbc9b512b48cff.jpg"
+        },
+        {
+            "uid": 1484169431,
+            "room": 23805029,
+            "name": "雾深Girimi",
+            "group": "VirtuaReal",
+            "description": "虚拟艺人团体VirtuaReal所属成员雾深Girimi，我正在看————着你！商务合作请联系bd@vrp.live",
+            "face": "https://i2.hdslb.com/bfs/face/57f7d96aef1f8b649bb0b5704a2567df9a929eee.jpg"
+        },
+        {
+            "uid": 558070434,
+            "room": 22459102,
+            "name": "露露娜Ruruna",
+            "group": "VirtuaReal",
+            "description": "虚拟艺人团体VirtuaReal成员，喜欢穿正装打枪的家庭教师，商务合作：bd@vrp.live",
+            "face": "https://i0.hdslb.com/bfs/face/083fa515a645b0131444442e20eb83d721574173.jpg"
+        },
+        {
+            "uid": 322210278,
+            "room": 21736138,
+            "name": "魔魔マラ",
+            "group": "VirtuaReal",
+            "description": "外星图一乐行为艺术家 清楚妹系VirtuaReal link所属联动势  商务联系：bd@vrp.live",
+            "face": "http://i0.hdslb.com/bfs/face/8a3eaf0b8bf0d95fbaf7a479a197f388fdbf1bf9.jpg"
+        },
+        {
+            "uid": 558070435,
+            "room": 22459095,
+            "name": "鹤森Mori",
+            "group": "VirtuaReal",
+            "description": "虚拟艺人团体VirtuaReal、J.R.M成员，歌势舞担的鹤鹤女侠，伞是本体？商合联系bd@vrp.live",
+            "face": "http://i1.hdslb.com/bfs/face/c5d2c3c37b11c32cd80d0fe485f8f4cb9f700fd6.jpg"
+        }
+    ]
+}

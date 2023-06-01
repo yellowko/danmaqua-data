@@ -1,0 +1,31 @@
+{
+    "version": 2,
+    "name": "空白社",
+    "title": "空白社",
+    "data": [
+        {
+            "uid": 734133,
+            "room": 590990,
+            "name": "吸溜君",
+            "group": "空白社",
+            "description": "小vup、东方mmd创作者",
+            "face": "https://i0.hdslb.com/bfs/face/1e6600a1e6bde9c59bcf640cd07524715e3da814.jpg"
+        },
+        {
+            "uid": 185388428,
+            "room": 5393827,
+            "name": "羲乐-Seali",
+            "group": "空白社",
+            "description": "独立音乐人，在学画画，不接商稿，网易云搜索\n羲乐-Seali",
+            "face": "https://i2.hdslb.com/bfs/face/97068fc2bcd5524cccd957ffd1361112e0997951.jpg"
+        },
+        {
+            "uid": 3020880,
+            "room": 135895,
+            "name": "里荼院双星",
+            "group": "空白社",
+            "description": "Vup up主竟是我自己     FPS爱好者！ 其实啥游戏都能上手快！就是不精。",
+            "face": "http://i1.hdslb.com/bfs/face/f1cde0405eab511513e8d2d871fbfc8c5e1c13da.jpg"
+        }
+    ]
+}

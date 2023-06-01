@@ -1,0 +1,31 @@
+{
+    "version": 2,
+    "name": "浅海Project",
+    "title": "浅海Project",
+    "data": [
+        {
+            "uid": 1957630985,
+            "room": 23884293,
+            "name": "是白宝吖",
+            "group": "浅海Project",
+            "description": "梦想能成为大家的爱豆露～拥有属于自己的家人，开播是每日10点，还会不定时掉落……群号：735210802",
+            "face": "https://i2.hdslb.com/bfs/face/67d534897a0ee5611c34cfe5037d785120df02c4.jpg"
+        },
+        {
+            "uid": 1824597784,
+            "room": 23212019,
+            "name": "米露提亚Official",
+            "group": "浅海Project",
+            "description": "「浅海Project」企划所属，集慈祥与和蔼于一身的执灯人米露提亚！让我们一同成长吧，我的未来引途人~录播：哈密瓜字幕组",
+            "face": "https://i1.hdslb.com/bfs/face/5671d4832ea7327c317a4b33bef3a426988bb32b.jpg"
+        },
+        {
+            "uid": 1027973491,
+            "room": 23884290,
+            "name": "维多利亚official",
+            "group": "浅海Project",
+            "description": "「浅海Project」企划所属二期生，点亮时间的灯塔，白金女王——维多利亚！通常晚9点直播！粉丝群：670774139",
+            "face": "https://i1.hdslb.com/bfs/face/500f01609a39d5a7bafaa8868bd24845e0426118.jpg"
+        }
+    ]
+}

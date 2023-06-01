@@ -1,0 +1,31 @@
+{
+    "version": 2,
+    "name": "neko贩卖机",
+    "title": "neko贩卖机",
+    "data": [
+        {
+            "uid": 2004784439,
+            "room": 25386814,
+            "name": "梦野Ayanna",
+            "group": "neko贩卖机",
+            "description": "已停播。",
+            "face": "https://i2.hdslb.com/bfs/face/deb9a6df7db43d53b4c7ce99a0808870fe2aa6ae.jpg"
+        },
+        {
+            "uid": 3493110608825275,
+            "room": 27121256,
+            "name": "烛雾Brume",
+            "group": "neko贩卖机",
+            "description": "杂谈电台学歌势｜香火烟雾妖怪｜要为成为财神努力中！｜Neko贩卖机所属",
+            "face": "https://i1.hdslb.com/bfs/face/bc9db442f2b487df18bfaa98e356880c847e05c3.jpg"
+        },
+        {
+            "uid": 475481230,
+            "room": 26743881,
+            "name": "瑞希Roxie",
+            "group": "neko贩卖机",
+            "description": "已毕业。",
+            "face": "https://i1.hdslb.com/bfs/face/7c315e0ce5b850257c783133d36ce9c44e68f322.jpg"
+        }
+    ]
+}

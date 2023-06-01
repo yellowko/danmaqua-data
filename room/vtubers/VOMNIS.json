@@ -1,0 +1,31 @@
+{
+    "version": 2,
+    "name": "VOMNIS",
+    "title": "VOMNIS",
+    "data": [
+        {
+            "uid": 565286306,
+            "room": 22261334,
+            "name": "时堇_Tokki",
+            "group": "VOMNIS",
+            "description": "烤肉的唱歌的没脑子的成分复杂的",
+            "face": "https://i2.hdslb.com/bfs/face/d427648d4ea00249c14ace15a953f7f95859eb84.jpg"
+        },
+        {
+            "uid": 1910639,
+            "room": 10143,
+            "name": "染谷杏",
+            "group": "VOMNIS",
+            "description": "是vomnis一期生杏喵！感谢大家收看！",
+            "face": "https://i2.hdslb.com/bfs/face/0a22eae2e3903c043ec5a668c7bca6c3e7d96bcc.jpg"
+        },
+        {
+            "uid": 49694204,
+            "room": 3590295,
+            "name": "转圈再转个圈",
+            "group": "VOMNIS",
+            "description": "这里转圈，画点画做点模，有没有妹妹想和我一起玩ow的",
+            "face": "https://i2.hdslb.com/bfs/face/cdf4ad42d907826e5c8ced2489b60a475bd6c933.jpg"
+        }
+    ]
+}

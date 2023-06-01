@@ -1,0 +1,23 @@
+{
+    "version": 2,
+    "name": "ColorLink",
+    "title": "ColorLink",
+    "data": [
+        {
+            "uid": 1927037753,
+            "room": 23261911,
+            "name": "纱鱼sayu",
+            "group": "ColorLink",
+            "description": "Colorlink 所属新鱼 主歌势（中英日韩）|杂谈势（讲相声整活）|偶尔摸鱼游戏丨粉丝群：719240716",
+            "face": "https://i2.hdslb.com/bfs/face/731a93abff7c8bfe6f02007c0cba205b4a8c9598.jpg"
+        },
+        {
+            "uid": 1091531216,
+            "room": 23750078,
+            "name": "雪璃是只雪貂",
+            "group": "ColorLink",
+            "description": "ColorLink所属，画师麻麻@月灰灰，建模麻麻@艾尔希娅_channel。\n",
+            "face": "https://i2.hdslb.com/bfs/face/98294dd4674a726bb349d9d514fefafcd61c8464.jpg"
+        }
+    ]
+}

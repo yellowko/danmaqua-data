@@ -1,0 +1,55 @@
+{
+    "version": 2,
+    "name": "NoriPro",
+    "title": "NoriPro",
+    "data": [
+        {
+            "uid": 419429042,
+            "room": 22111399,
+            "name": "爱宫Milk_Official",
+            "group": "NoriPro",
+            "description": "大家好，这里是见习偶像Vtuber 爱宫Milk的说~ ❖担当画师：佃煮海苔男(佃煮のりお)。",
+            "face": "https://i2.hdslb.com/bfs/face/64dc8cbb3568b05cba853845c6162514e9bba9b1.jpg"
+        },
+        {
+            "uid": 12362451,
+            "room": 4634167,
+            "name": "犬山玉姬Official",
+            "group": "NoriPro",
+            "description": "这里是NoriPro所属个人势，伪娘Vtuber的犬山玉姬！❖担当画师：佃煮海苔男。字幕组工作审核群：572299025",
+            "face": "https://i0.hdslb.com/bfs/face/5cdaacc212742f3bb9d0e7b83122bd6c86cbc26a.jpg"
+        },
+        {
+            "uid": 405981431,
+            "room": 21708004,
+            "name": "白雪深白Official",
+            "group": "NoriPro",
+            "description": "这里是NoriPro所属的虚拟女仆白雪深白~工作审核群:572299025 粉丝群号在右下公告（简介）处",
+            "face": "http://i2.hdslb.com/bfs/face/65e3a862d8193df40aea1806e02828512faba058.jpg"
+        },
+        {
+            "uid": 1848591458,
+            "room": 23116035,
+            "name": "胡桃泽桃搬运",
+            "group": "NoriPro",
+            "description": "个人势VTuber胡桃泽桃 最喜欢的妈妈：さくらしおり先生",
+            "face": "https://i2.hdslb.com/bfs/face/6fd37dd132f1bbfd5ea6c68e005ba8ee91b01bef.jpg"
+        },
+        {
+            "uid": 471934420,
+            "room": 22982155,
+            "name": "逢魔琪拉拉搬运",
+            "group": "NoriPro",
+            "description": "个人势VTuber逢魔琪拉拉搬运号 画师:necomi先生",
+            "face": "https://i1.hdslb.com/bfs/face/fbf1f20df152ba6e03472b4f0a6b3f4beca35082.jpg"
+        },
+        {
+            "uid": 1644476000,
+            "room": 22733662,
+            "name": "鬼灯童搬运",
+            "group": "NoriPro",
+            "description": "NoriProGamers鬼灯童搬运号 画师:やすゆき",
+            "face": "https://i2.hdslb.com/bfs/face/dabb967538f9b90d4fd13a68e3b4af53c9914403.jpg"
+        }
+    ]
+}

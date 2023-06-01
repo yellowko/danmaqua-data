@@ -1,0 +1,31 @@
+{
+    "version": 2,
+    "name": "ZEROproject",
+    "title": "ZEROproject",
+    "data": [
+        {
+            "uid": 690147772,
+            "room": 22538603,
+            "name": "熊野ぽえみOfficial",
+            "group": "ZEROproject",
+            "description": "zero project所属 　",
+            "face": "http://i1.hdslb.com/bfs/face/2056f5997d18ff8a481e27574b41bc886ed539b3.jpg"
+        },
+        {
+            "uid": 517028633,
+            "room": 22552250,
+            "name": "紡音零official",
+            "group": "ZEROproject",
+            "description": "zeroproject所属，天才美少女mix師也　插画家：空4",
+            "face": "http://i2.hdslb.com/bfs/face/637f5ac8fdaf32c28e517ae0638d42c33ab348e3.jpg"
+        },
+        {
+            "uid": 690147773,
+            "room": 22538636,
+            "name": "黄ノ星つくりOfficial",
+            "group": "ZEROproject",
+            "description": "TSUKURI！zeroproject所属，黄松鼠！喜欢唱歌，画绘画的事情！友好相处的话感到高兴！插画家：空4",
+            "face": "https://i2.hdslb.com/bfs/face/d2f27341816071c6a90b84ddd4a45c62e5cac7a4.jpg"
+        }
+    ]
+}

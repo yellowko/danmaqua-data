@@ -1,0 +1,47 @@
+{
+    "version": 2,
+    "name": "YOLO",
+    "title": "YOLO",
+    "data": [
+        {
+            "uid": 1918837081,
+            "room": 26197914,
+            "name": "佑灯Akashi",
+            "group": "YOLO",
+            "description": "歌杂势！爱唱歌！粉丝/直播通知群：727711063",
+            "face": "https://i1.hdslb.com/bfs/face/43b37cb6df514878018374cadfd71b8f69e122c2.jpg"
+        },
+        {
+            "uid": 1085546349,
+            "room": 26003107,
+            "name": "柠伊Lei",
+            "group": "YOLO",
+            "description": "平凡个人势，爱电竞和唱歌的网瘾少女，新形象制作中，约歌贴贴联动私信哦！粉丝群：152575956",
+            "face": "https://i0.hdslb.com/bfs/face/487929892ffa11c4be24eaf0422371428dec5c56.jpg"
+        },
+        {
+            "uid": 1790657636,
+            "room": 26635832,
+            "name": "抓住一只柴柴",
+            "group": "YOLO",
+            "description": "暴躁小狗！看什么看，再看咬你，嗷呜！粉丝/直播通知群：746915978",
+            "face": "https://i2.hdslb.com/bfs/face/397596bc6327576bbadae4fb1fc10d60dfb2e8d2.jpg"
+        },
+        {
+            "uid": 3461577879587672,
+            "room": 26196781,
+            "name": "花音璃",
+            "group": "YOLO",
+            "description": "喜欢音乐的温柔少女 | 个人势偶像努力中~欢迎加群：537801512",
+            "face": "https://i2.hdslb.com/bfs/face/1cf00b6191b6d1f63171398cfd52918f5667e11d.jpg"
+        },
+        {
+            "uid": 1369650463,
+            "room": 26019348,
+            "name": "阿枣超难哄",
+            "group": "YOLO",
+            "description": "个人想要唱跳势~谢谢枣到我~我能成为你的光吗？",
+            "face": "https://i1.hdslb.com/bfs/face/73f44c8a3740a23a470ba373c64f1081e21cb23e.jpg"
+        }
+    ]
+}

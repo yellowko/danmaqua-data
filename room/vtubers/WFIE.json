@@ -1,0 +1,15 @@
+{
+    "version": 2,
+    "name": "WFIE",
+    "title": "WFIE",
+    "data": [
+        {
+            "uid": 390155514,
+            "room": 21117073,
+            "name": "REALITY_official",
+            "group": "WFIE",
+            "description": "这里是可以变成你想成为的自己的直播平台 会有各种VTuber过来直播哦",
+            "face": "http://i0.hdslb.com/bfs/face/da8958397c02fddde250a80ae9c5a91290c6cd90.jpg"
+        }
+    ]
+}

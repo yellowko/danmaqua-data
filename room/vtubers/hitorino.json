@@ -1,0 +1,23 @@
+{
+    "version": 2,
+    "name": "hitorino",
+    "title": "hitorino",
+    "data": [
+        {
+            "uid": 1968806678,
+            "room": 25803437,
+            "name": "洲上光_hitorino",
+            "group": "hitorino",
+            "description": "（蓝方）hitorino.tv 所属叙事导向虚拟偶像，瑞文生物制药/家族企业的继承人，字幕组：Ocean",
+            "face": "https://i2.hdslb.com/bfs/face/c72fa009f826c273b8a82e5b1d4a3275aa392dfd.jpg"
+        },
+        {
+            "uid": 15973647,
+            "room": 595837,
+            "name": "猫竹璃星_hitorino",
+            "group": "hitorino",
+            "description": "（红方）hitorino.tv 所属叙事导向虚拟偶像，安隐王国的王子，字幕组：Ocean",
+            "face": "https://i0.hdslb.com/bfs/face/b9875fc391ae81bf25e44c25f050e4554f4f790c.jpg"
+        }
+    ]
+}

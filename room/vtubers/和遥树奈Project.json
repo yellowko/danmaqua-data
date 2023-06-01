@@ -1,0 +1,31 @@
+{
+    "version": 2,
+    "name": "和遥树奈Project",
+    "title": "和遥树奈Project",
+    "data": [
+        {
+            "uid": 454101028,
+            "room": 22118705,
+            "name": "真島えまOfficial",
+            "group": "和遥树奈Project",
+            "description": "和遥树奈Project所属，真島えま(Majima_ema)，喜欢玩游戏、唱歌、画画的JK。担当画师：和遥キナ",
+            "face": "http://i1.hdslb.com/bfs/face/76d926423a8b9b11e61dceedb33a6e88f3038133.jpg"
+        },
+        {
+            "uid": 470473531,
+            "room": 23113394,
+            "name": "紫吹真雪Official",
+            "group": "和遥树奈Project",
+            "description": "半音阶口琴Vtuber！来自异世界的中日双语V，和遥树奈Project所属但是个人势！平时在日本活动，b限是休闲…！",
+            "face": "https://i1.hdslb.com/bfs/face/5ca0dc4a8ba457f63e8d17c70cf6a3424122abeb.jpg"
+        },
+        {
+            "uid": 454109173,
+            "room": 22663280,
+            "name": "電波ちゃんOfficial",
+            "group": "和遥树奈Project",
+            "description": "和遥树奈Project所属，電波ちゃん(电波酱)，同桌JK系VTuber，今天也在家宅一天吧！担当画师：和遥キナ",
+            "face": "http://i1.hdslb.com/bfs/face/2199e14388eb1cb8bb3ffac53ed12280cb60dac0.jpg"
+        }
+    ]
+}

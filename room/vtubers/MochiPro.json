@@ -1,0 +1,23 @@
+{
+    "version": 2,
+    "name": "MochiPro",
+    "title": "MochiPro",
+    "data": [
+        {
+            "uid": 20709396,
+            "room": 3657657,
+            "name": "饼叽Official",
+            "group": "MochiPro",
+            "description": "这里是mochipro创始人、虚拟创作者兼3D建模师饼叽\n所属官方字幕组\n粉丝：361235705 工作：962698869\n",
+            "face": "http://i0.hdslb.com/bfs/face/bb0ae17fbb68b0028aaa1fada8e73d246fa9157b.jpg"
+        },
+        {
+            "uid": 354142359,
+            "room": 22299192,
+            "name": "狸猫花生搬运组",
+            "group": "MochiPro",
+            "description": "个人势VTuber狸猫&花生兄妹搬运，已授权。招各种职务，交流群646244221【非公式、転載許可済、無収益】",
+            "face": "https://i0.hdslb.com/bfs/face/657dfa4530f044dc49368d208bf322c119463805.jpg"
+        }
+    ]
+}

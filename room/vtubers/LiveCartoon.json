@@ -1,0 +1,23 @@
+{
+    "version": 2,
+    "name": "LiveCartoon",
+    "title": "LiveCartoon",
+    "data": [
+        {
+            "uid": 1277504905,
+            "room": 22782230,
+            "name": "美波八海-official",
+            "group": "LiveCartoon",
+            "description": "Vtuber 美波八海 官方。Twitter@37383vv　",
+            "face": "http://i1.hdslb.com/bfs/face/56357794838ad974139db2b79d5cf97d160f1994.jpg"
+        },
+        {
+            "uid": 456749835,
+            "room": 22782192,
+            "name": "阳夏诺诺Official",
+            "group": "LiveCartoon",
+            "description": "Vtuber 陽夏のの/HinatsuNono  TwitterID → @HinatsuNono",
+            "face": "https://i0.hdslb.com/bfs/face/8dc81c18d8e213c854cdc7e9b0fcab90f60620ed.jpg"
+        }
+    ]
+}

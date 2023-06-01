@@ -1,0 +1,39 @@
+{
+    "version": 2,
+    "name": "Lounge_LUTUBO",
+    "title": "Lounge_LUTUBO",
+    "data": [
+        {
+            "uid": 22411036,
+            "room": 271754,
+            "name": "桥A_channel",
+            "group": "Lounge_LUTUBO",
+            "description": "('-')住在扫地机器人里的个人势虚拟AI，努力让自己变得有趣～桥A的数据库：818562808",
+            "face": "https://i1.hdslb.com/bfs/face/2615a7237cd33bca729eb46e18bc822d70c352a1.jpg"
+        },
+        {
+            "uid": 124177,
+            "room": 1299321,
+            "name": "森ノ目律channel",
+            "group": "Lounge_LUTUBO",
+            "description": "变成浣熊啦！ 麻麻是缇娅达契娅！qq群175193622！",
+            "face": "https://i1.hdslb.com/bfs/face/edc98d1eadecf1b158a0828030c87d4905e727b6.jpg"
+        },
+        {
+            "uid": 1308393,
+            "room": 91073,
+            "name": "紅_Kurenai",
+            "group": "Lounge_LUTUBO",
+            "description": "刚刚起床的上古吸血鬼。",
+            "face": "https://i0.hdslb.com/bfs/face/b676b3a3ec8f66e07f29aa60c74e6ad0200f7a1a.jpg"
+        },
+        {
+            "uid": 2123631024,
+            "room": 22865391,
+            "name": "辻蓝佳音瑠_channel",
+            "group": "Lounge_LUTUBO",
+            "description": "✝SwordUnionProject✝来自日本的德国混血吸血鬼（人間と吸血鬼の子！）✝︎某个酒吧的代理店长✝︎联系方法见公告",
+            "face": "https://i0.hdslb.com/bfs/face/2a3e655a04468d6ef837ed365ee25ee768fd4fb3.jpg"
+        }
+    ]
+}

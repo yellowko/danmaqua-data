@@ -1,0 +1,31 @@
+{
+    "version": 2,
+    "name": "Re.Eden伊甸园",
+    "title": "Re.Eden伊甸园",
+    "data": [
+        {
+            "uid": 8936337,
+            "room": 625805,
+            "name": "夕莉official",
+            "group": "Re.Eden伊甸园",
+            "description": "",
+            "face": "https://i0.hdslb.com/bfs/face/7ce5953656e26b3a51160707d2c265d8851edead.jpg"
+        },
+        {
+            "uid": 34002950,
+            "room": 1540751,
+            "name": "大葱要蘸三月酱",
+            "group": "Re.Eden伊甸园",
+            "description": "千丝牵绪心不印，万缕系情鸳无吟 提糯Tino的史莱姆崽子~Niki的单推人",
+            "face": "https://i2.hdslb.com/bfs/face/cda2d748e3c07adc0b83712765faa2eb1847bf56.jpg"
+        },
+        {
+            "uid": 4097824,
+            "room": 291163,
+            "name": "豆沙包包包_OvO",
+            "group": "Re.Eden伊甸园",
+            "description": "ʕ •ᴥ•ʔ谢谢一直听我唱歌的大家～",
+            "face": "https://i1.hdslb.com/bfs/face/9b2fd496a61671d22deb44550e6b9f065dcfa5bb.jpg"
+        }
+    ]
+}

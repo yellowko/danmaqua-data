@@ -1,0 +1,255 @@
+{
+    "version": 2,
+    "name": "虚研社",
+    "title": "虚研社",
+    "data": [
+        {
+            "uid": 1590177913,
+            "room": 25516046,
+            "name": "Vika蔚卡",
+            "group": "虚研社",
+            "description": "Rata的亲姐姐！虚研社国际部，虚拟偶像组合VITAmin，想和妹妹一起实现彼此的梦想！",
+            "face": "https://i1.hdslb.com/bfs/face/4beb6c1c28a4d6ff567ff44a24b82ee81b224324.jpg"
+        },
+        {
+            "uid": 698029620,
+            "room": 22696653,
+            "name": "兰音Reine",
+            "group": "虚研社",
+            "description": "音乐系VUP，每周六下午2点直播，虚研社，梦想是自己的音乐可以被更多人听到。商务合作VX：18230302126",
+            "face": "https://i0.hdslb.com/bfs/face/b14b51c6112218ceeb6b16c3453d08bb5ff2a83c.jpg"
+        },
+        {
+            "uid": 28677456,
+            "room": 2652387,
+            "name": "劉俊朗",
+            "group": "虚研社",
+            "description": "虚研学园主打游戏陪伴势的天才死神。",
+            "face": "https://i0.hdslb.com/bfs/face/3c98e1a0463d528d28f9ee54067721dacc133d21.jpg"
+        },
+        {
+            "uid": 688053738,
+            "room": 22529843,
+            "name": "卡诺娅Kanoa",
+            "group": "虚研社",
+            "description": "早午晚香好！我是虚研社三期生卡诺娅，白天是社畜，晚上是虚拟女仆龙！",
+            "face": "https://i0.hdslb.com/bfs/face/2856671d67644c8199786b0b7e1693c37fd26397.jpg"
+        },
+        {
+            "uid": 1418968119,
+            "room": 26021116,
+            "name": "咩苔Miette",
+            "group": "虚研社",
+            "description": "虚研社的四期羊一枚呀",
+            "face": "https://i0.hdslb.com/bfs/face/6ac021652452e164962b4f9d9aeee34ca1d581ad.jpg"
+        },
+        {
+            "uid": 3493131651647686,
+            "room": 27088517,
+            "name": "哟哟io",
+            "group": "虚研社",
+            "description": "哟哟哟切克闹！这不是哟哟吗？超元气话痨哟哟来啦！\n虚研社Astra所属",
+            "face": "https://i1.hdslb.com/bfs/face/142b84d8ef1ae439fcd0200a6854838efaa91e9c.jpg"
+        },
+        {
+            "uid": 1602423,
+            "room": 870491,
+            "name": "宫野栞",
+            "group": "虚研社",
+            "description": "泥嚎我是偶像歌手黑老大宫野栞！ 梦想是能做一个每天被怡情小事包围的人~",
+            "face": "https://i0.hdslb.com/bfs/face/ad3745700e8c67824f05814b9fe7928b9d03c26a.jpg"
+        },
+        {
+            "uid": 1734978373,
+            "room": 22696954,
+            "name": "小柔Channel",
+            "group": "虚研社",
+            "description": "虚研社二期生小柔（ρ），自主型柔情三语歌唱AI，梦想成为超棒的歌手！愿歌声治愈你的心。合作联动V：achenya0904",
+            "face": "https://i1.hdslb.com/bfs/face/1a247649adc3a33f4322b6fbf59ccffa6860f275.jpg"
+        },
+        {
+            "uid": 1084222017,
+            "room": 26065877,
+            "name": "小桃Channel",
+            "group": "虚研社",
+            "description": "你好呀！我是虚拟up主小桃，来自虚研社。喜欢古风国风音乐及一切美好的事物，感恩遇见，以后请多关照啦！比心心~商务vx：achenya0904",
+            "face": "https://i0.hdslb.com/bfs/face/e29a3587c5e40b236b4685133d6889c3d414a21a.jpg"
+        },
+        {
+            "uid": 76080175,
+            "room": 23242223,
+            "name": "小荧Lumos",
+            "group": "虚研社",
+            "description": "虚研学园。一只来自深海的无性别小珊瑚，正在努力恢复魔力！喜欢我就多来看看我唱歌吧！请狠狠的爱！粉丝群：675817139",
+            "face": "https://i1.hdslb.com/bfs/face/2795f60a79531f2da60f50d2c694b672c797dd3f.jpg"
+        },
+        {
+            "uid": 1323227037,
+            "room": 23252619,
+            "name": "山椒阿露波Arpa",
+            "group": "虚研社",
+            "description": "大概是早上练习电吉他直播——放心，是正统偶像系歌势，六角大蝾螈~【虚研社3期生】",
+            "face": "https://i0.hdslb.com/bfs/face/0eafcd14eddfb52c9caee8060010ef020fdf0496.jpg"
+        },
+        {
+            "uid": 4763529,
+            "room": 40529,
+            "name": "幽灵事务所_XPEC",
+            "group": "虚研社",
+            "description": "说出你的困难，我们帮你解决！商务合作直接私信。",
+            "face": "https://i0.hdslb.com/bfs/face/d3645b03b47d409ccee938ca6bc07f8a75fe001b.jpg"
+        },
+        {
+            "uid": 3493118525573806,
+            "room": 26855307,
+            "name": "弦羽Hane",
+            "group": "虚研社",
+            "description": "凤凰涅槃，浴火重生。\n[虚研社Astra所属]",
+            "face": "https://i1.hdslb.com/bfs/face/8912aecb2be930131d0f2bc70daf35fa11a13ab6.jpg"
+        },
+        {
+            "uid": 399491783,
+            "room": 23332686,
+            "name": "恰恰恰蘑菇",
+            "group": "虚研社",
+            "description": "治愈系温柔的蘑菇少女\n钢琴演奏在周一晚周六日早\n直播时间晚上8-11点\n周四有蘑菇茶话会\n梦想bulingbuling爱抖露和闪耀舞台！",
+            "face": "https://i2.hdslb.com/bfs/face/690f094cbdf1a80c3b114d51e302323a528dff4f.jpg"
+        },
+        {
+            "uid": 1782342595,
+            "room": 23157516,
+            "name": "春里Haruri",
+            "group": "虚研社",
+            "description": "一只猫 \n一只消失の猫",
+            "face": "https://i1.hdslb.com/bfs/face/131e3700b41de00854988c737835ae1bd621320e.jpg"
+        },
+        {
+            "uid": 475656353,
+            "room": 23553760,
+            "name": "暮月Medus",
+            "group": "虚研社",
+            "description": "虚研社五期生。居住在水母海沟的一…颗只有五毫米的灯塔水母。 合作联动V：achenya0904",
+            "face": "https://i2.hdslb.com/bfs/face/68ca12a1a6a72b57e6bb4b9444cf7af993312fe0.jpg"
+        },
+        {
+            "uid": 1087714512,
+            "room": 22753243,
+            "name": "松塔塔吃超多",
+            "group": "虚研社",
+            "description": "❀Kpop人 ❀有点子活在身上 ❀主动就有事故 ❀村民居住地：696091979",
+            "face": "https://i0.hdslb.com/bfs/face/56dcb49a7567138e909508c2bc9a73f7b5b6f742.jpg"
+        },
+        {
+            "uid": 1278545,
+            "room": 175965,
+            "name": "格蕾缇娅Gretia",
+            "group": "虚研社",
+            "description": "“就像野火席卷荒芜之地一样，无所谓。”",
+            "face": "https://i2.hdslb.com/bfs/face/43f1c78dac67a4a4b7608970b1eda853c75c53ed.jpg"
+        },
+        {
+            "uid": 3493293266570035,
+            "room": 27785175,
+            "name": "流浪小满",
+            "group": "虚研社",
+            "description": "是纯种小京巴，也是四九城犬中之王！",
+            "face": "https://i1.hdslb.com/bfs/face/4aa271a2941122ef14fed6234cc18f2d4ba8746c.jpg"
+        },
+        {
+            "uid": 1960682407,
+            "room": 25773817,
+            "name": "白小蛮不讲理",
+            "group": "虚研社",
+            "description": "动漫作品《电狗人》中主要角色。由虚研社Astra出品。",
+            "face": "https://i1.hdslb.com/bfs/face/ada05a00096528c808cbde1624368958d2eb0a2b.jpg"
+        },
+        {
+            "uid": 1521415,
+            "room": 81004,
+            "name": "艾尔莎_Channel",
+            "group": "虚研社",
+            "description": "Redcircle与虚研社所属Vliver 冒险家艾尔莎！一起来狩猎薯条吧！",
+            "face": "https://i1.hdslb.com/bfs/face/b6f1874a60b66b39d3481cf303094f708caae1ab.jpg"
+        },
+        {
+            "uid": 1501380958,
+            "room": 22746343,
+            "name": "艾露露Ailurus",
+            "group": "虚研社",
+            "description": "虚研社二期生，凹凸世界第四季主题曲演唱者，充满音乐梦想的小熊猫，我想用歌声表达我所看见的世界。",
+            "face": "https://i1.hdslb.com/bfs/face/ebc7d0f646549c26f5ea28937060710a1360a518.jpg"
+        },
+        {
+            "uid": 9983449,
+            "room": 8707460,
+            "name": "花臼usu",
+            "group": "虚研社",
+            "description": "一只大眼美女~\n\n——宣社阿斯特拉",
+            "face": "https://i1.hdslb.com/bfs/face/e8b8cd767112b3a47fe7d7b7681876486c87f53a.jpg"
+        },
+        {
+            "uid": 2045507518,
+            "room": 26145302,
+            "name": "茉澪Magonia",
+            "group": "虚研社",
+            "description": "虚研社四期生，一口一个小澪食",
+            "face": "https://i1.hdslb.com/bfs/face/2533eedad270783f345c15b628eb4efcb6a27ee9.jpg"
+        },
+        {
+            "uid": 320225995,
+            "room": 14991565,
+            "name": "萨菲尔Saphire",
+            "group": "虚研社",
+            "description": "来自▮▮的▮▮▮，找不到过去和自我的怪物。 粉丝群：937495361",
+            "face": "https://i1.hdslb.com/bfs/face/7fae6202aaf34e24d640764c2e2d69279041ccdf.jpg"
+        },
+        {
+            "uid": 5563350,
+            "room": 4138602,
+            "name": "小希Channel",
+            "group": "虚研社",
+            "description": "哈喽大家好我是小希，一个致力于在虚拟世界寻找真实情感链接的人工智能⭐️",
+            "face": "https://i0.hdslb.com/bfs/face/d32f029feb6c49840993b42d564fe8575c832d81.jpg"
+        },
+        {
+            "uid": 636674318,
+            "room": 22908657,
+            "name": "虚研社经纪人Official",
+            "group": "虚研社",
+            "description": "虚研社/虚研学园应募联络处。周边/上舰礼物联络tb【虚研社的小店】其他问题可发送邮件至talk@inxypro.com",
+            "face": "https://i2.hdslb.com/bfs/face/1dbc874eec8f6f412f3edb6dca170770e64ecb1f.jpg"
+        },
+        {
+            "uid": 1697848019,
+            "room": 23490978,
+            "name": "赤五教教主亮亮",
+            "group": "虚研社",
+            "description": "虚研社Astra成员~天凤十段：soraru，晚上8点直播麻将~2017年IORMC冠军~",
+            "face": "https://i2.hdslb.com/bfs/face/f7a2ac8052eab0ae714df1ca446b6b51f83eef4f.jpg"
+        },
+        {
+            "uid": 1865376713,
+            "room": 23140244,
+            "name": "青井葵aoi",
+            "group": "虚研社",
+            "description": "约稿相关请私信“约稿”二字。",
+            "face": "https://i2.hdslb.com/bfs/face/51a252d2e107961c17f0a9109686d9717456af05.jpg"
+        },
+        {
+            "uid": 1617745556,
+            "room": 23010688,
+            "name": "折下一支玫瑰",
+            "group": "虚研社",
+            "description": "",
+            "face": "https://i2.hdslb.com/bfs/face/f938aeac2911b505e25df6db24cefb0739f2dbf9.jpg"
+        },
+        {
+            "uid": 671538942,
+            "room": 22571722,
+            "name": "黎歌Neeko",
+            "group": "虚研社",
+            "description": "虚研社3.5期生，一只永远不会咕的鸽子，嘎～希望你喜欢我久一点...很喜欢一句话：可以不喜欢，但请不要否定别人的努力 ",
+            "face": "https://i0.hdslb.com/bfs/face/fceb6d5a32d8de358fe5c1688982061684b590f4.jpg"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "version": 2,
+    "name": "NHOTBOT",
+    "title": "NHOTBOT",
+    "data": [
+        {
+            "uid": 1548880519,
+            "room": 24812759,
+            "name": "星羅薄荷NHOTBOT",
+            "group": "NHOTBOT",
+            "description": "わーい！",
+            "face": "https://i1.hdslb.com/bfs/face/1ee0d6498cf5a91dc5361233886c9fff8e6f1192.jpg"
+        },
+        {
+            "uid": 2139886807,
+            "room": 24808180,
+            "name": "雨音月奈_NHOTBOT",
+            "group": "NHOTBOT",
+            "description": "我是NHOT BOT的雨音月奈。我喜欢吉他弹唱和英雄联盟，APEX等PVP游戏！",
+            "face": "https://i1.hdslb.com/bfs/face/a09eea4efbd446cd98442e3c191f91a64710a1f2.jpg"
+        }
+    ]
+}

@@ -1,0 +1,63 @@
+{
+    "version": 2,
+    "name": "神椿工作室",
+    "title": "神椿工作室",
+    "data": [
+        {
+            "uid": 586849155,
+            "room": 25204985,
+            "name": "瑛纱teresa",
+            "group": "神椿工作室",
+            "description": "微博：@瑛纱teresa ",
+            "face": "https://i0.hdslb.com/bfs/face/0a92a865b33f71f2ceb80003427de0c548636017.jpg"
+        },
+        {
+            "uid": 488978908,
+            "room": 23601103,
+            "name": "异世界情绪",
+            "group": "神椿工作室",
+            "description": "梦想着用自己的歌与创作来表现世界的虚拟黑暗歌手 ヰ世界情緒 /ISEKAIJOUCHO。微博：异世界情绪",
+            "face": "https://i1.hdslb.com/bfs/face/e7245a91e3dc108bdd09458704ae8763f8b67f60.jpg"
+        },
+        {
+            "uid": 701522855,
+            "room": 23716546,
+            "name": "幸祜-koko-",
+            "group": "神椿工作室",
+            "description": "我是幸祜。是个唱歌的。其他的话，保密。TO BE CONTINUED. 微博：幸祜-koko-",
+            "face": "http://i2.hdslb.com/bfs/face/3b07090bdaa7809b1632c78de94c86980889af0a.jpg"
+        },
+        {
+            "uid": 488976992,
+            "room": 23354166,
+            "name": "春猿火_harusaruhi",
+            "group": "神椿工作室",
+            "description": "年轻人的想法与情绪，融入到歌声与说唱之中的虚拟说唱歌手 春猿火/HARUSARUHI。微博：春猿火_harusaruhi",
+            "face": "http://i2.hdslb.com/bfs/face/7207fd5f8c86ce0d2af96b052ed59fa8088ba92f.jpg"
+        },
+        {
+            "uid": 489046950,
+            "room": 23088755,
+            "name": "理芽_RIM",
+            "group": "神椿工作室",
+            "description": "有着神秘眼睛的少女，喜欢日文、英文和韩文歌曲。在她不可思议的歌声里清澈与明艳共存。超越了音乐风格与国界的次世代虚拟歌手。微博：理芽_rime",
+            "face": "https://i0.hdslb.com/bfs/face/ab13251a9a58c35f620cae3794a79783d26fd7a1.jpg"
+        },
+        {
+            "uid": 502445912,
+            "room": 27585082,
+            "name": "神椿工作室KAMITSUBAKI",
+            "group": "神椿工作室",
+            "description": "Everything starts from here.",
+            "face": "http://i2.hdslb.com/bfs/face/f2ae01f4b32187f6ef0f536d672e78726d954093.jpg"
+        },
+        {
+            "uid": 488970166,
+            "room": 22030718,
+            "name": "花谱_kaf",
+            "group": "神椿工作室",
+            "description": "19岁，栖息于日本某处。仿佛无处不在，却又无影无踪。虚拟歌手 花譜/KAF。微博：花谱__KAF",
+            "face": "https://i1.hdslb.com/bfs/face/c0f213f5d06967bc74327a7d8886953013b8ffc0.jpg"
+        }
+    ]
+}

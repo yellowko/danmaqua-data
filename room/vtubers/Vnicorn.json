@@ -1,0 +1,47 @@
+{
+    "version": 2,
+    "name": "Vnicorn",
+    "title": "Vnicorn",
+    "data": [
+        {
+            "uid": 1202138437,
+            "room": 22677566,
+            "name": "烁Akira_Official",
+            "group": "Vnicorn",
+            "description": "喜欢大家，也想要更多人喜欢我！           粉丝群594351882",
+            "face": "https://i1.hdslb.com/bfs/face/f5344594aa7cad758c33fbf5c19ae4788b43267f.jpg"
+        },
+        {
+            "uid": 1010318732,
+            "room": 22686795,
+            "name": "蒲公英_Tannpopo",
+            "group": "Vnicorn",
+            "description": "✨个鹅势✨是名叫蒲公英的小天鹅????叫我popo就可以????",
+            "face": "https://i2.hdslb.com/bfs/face/33499b1237d1b9e41e72b12d891bfcfaf68f0269.jpg"
+        },
+        {
+            "uid": 652571677,
+            "room": 22480186,
+            "name": "走Kakeru_Official",
+            "group": "Vnicorn",
+            "description": "Vnicorn所属，Noise主唱，自分なりになりたい.",
+            "face": "https://i1.hdslb.com/bfs/face/b8f71a71c88605b5772006ca7a3e67b678acc351.jpg"
+        },
+        {
+            "uid": 652240042,
+            "room": 22485731,
+            "name": "闪光Pika_Official",
+            "group": "Vnicorn",
+            "description": "Vnicorn所属！ ",
+            "face": "http://i1.hdslb.com/bfs/face/1983802810f21ca41d685e9771327c6b3ae3e479.jpg"
+        },
+        {
+            "uid": 1530499388,
+            "room": 22677560,
+            "name": "Kam1nar1",
+            "group": "Vnicorn",
+            "description": "寄！",
+            "face": "https://i2.hdslb.com/bfs/face/d6e9d8d0efeaff92064e126ac260ca7bdc5355f4.jpg"
+        }
+    ]
+}

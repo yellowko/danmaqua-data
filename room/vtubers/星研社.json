@@ -1,0 +1,71 @@
+{
+    "version": 2,
+    "name": "星研社",
+    "title": "星研社",
+    "data": [
+        {
+            "uid": 2005932785,
+            "room": 23359755,
+            "name": "天草ミライ",
+            "group": "星研社",
+            "description": "星研社所属、日本で声優として活動しています。粉丝群128374553",
+            "face": "https://i2.hdslb.com/bfs/face/52522ef1a2d78733c11bdbad4cb32ec56eed4449.jpg"
+        },
+        {
+            "uid": 77575804,
+            "room": 21688663,
+            "name": "我蕾子的修勾娜",
+            "group": "星研社",
+            "description": "主当观众，副做主播，别问我啦",
+            "face": "https://i1.hdslb.com/bfs/face/99c1e088e9d05d3cd6d3a2696860fe669fa503f3.jpg"
+        },
+        {
+            "uid": 1555453291,
+            "room": 22749172,
+            "name": "库莉姆Cream",
+            "group": "星研社",
+            "description": "꒰ঌ Bi ro ri ro rin ໒꒱ 喜欢我可是很辛苦的哦，可能会被别人嘲笑哦，你确定吗？",
+            "face": "https://i1.hdslb.com/bfs/face/8941dce0387eae66170b7e9590cef9360c1c758c.jpg"
+        },
+        {
+            "uid": 679945,
+            "room": 892957,
+            "name": "肆肆_Official",
+            "group": "星研社",
+            "description": "个人势，0.5歌势，随缘直播，真的非常谢谢大家的喜欢 录播组：八里山项目组  切片：ヤッホー_肆Hinata哟",
+            "face": "https://i1.hdslb.com/bfs/face/64e58be10c6874756ec267fce1fe3eeb52d9c08c.jpg"
+        },
+        {
+            "uid": 5963844,
+            "room": 8112629,
+            "name": "苏了个妹",
+            "group": "星研社",
+            "description": "雪狼来了~嗷呜",
+            "face": "https://i0.hdslb.com/bfs/face/c331ea126fa2ec20c0517d54ae89dc3ade8779f4.jpg"
+        },
+        {
+            "uid": 195742895,
+            "room": 8797139,
+            "name": "陆千_Rikusen",
+            "group": "星研社",
+            "description": "岭上开花！",
+            "face": "https://i2.hdslb.com/bfs/face/a455bcf8c053af4cd0d21d1e46dd69a01dcafbdd.jpg"
+        },
+        {
+            "uid": 98780343,
+            "room": 22143799,
+            "name": "青木狐王",
+            "group": "星研社",
+            "description": "青鸟传芳细细语，木石不动悠悠心。",
+            "face": "https://i0.hdslb.com/bfs/face/8f9416b99d98fd60d60606fc7d59fc45387932c3.jpg"
+        },
+        {
+            "uid": 225243410,
+            "room": 6406821,
+            "name": "伊欧娜齐柏林伯爵",
+            "group": "星研社",
+            "description": "来自海雾的齐柏林伯爵！粉丝群1103174257战舰世界亚服ZEPPY会长，GGD的队长（那个羞耻到爆的图就是我）。近期苦练炮术中～",
+            "face": "https://i2.hdslb.com/bfs/face/7611a68e821bff7b0594b898d0ec6fc34de674df.jpg"
+        }
+    ]
+}

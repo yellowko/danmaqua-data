@@ -1,0 +1,55 @@
+{
+    "version": 2,
+    "name": "风云社",
+    "title": "风云社",
+    "data": [
+        {
+            "uid": 1298993,
+            "room": 594511,
+            "name": "修格_Sugars",
+            "group": "风云社",
+            "description": "不知道什么势，史莱姆小朋友！！！！！（爆筋）",
+            "face": "https://i2.hdslb.com/bfs/face/a4a167a43a389e4ca04097c2deb7966be7692f37.jpg"
+        },
+        {
+            "uid": 58226190,
+            "room": 12443363,
+            "name": "Hakuyaaaaa",
+            "group": "风云社",
+            "description": "柏喙攻略组摸鱼后期Hakuyaです～//日常分享一些游戏生活，祝大家天天开心！",
+            "face": "https://i0.hdslb.com/bfs/face/ea74687985eb7aea7750ab3f89d7eb8b2e71ecc7.jpg"
+        },
+        {
+            "uid": 50350903,
+            "room": 4722118,
+            "name": "爱蕾尔eller",
+            "group": "风云社",
+            "description": "  ",
+            "face": "https://i1.hdslb.com/bfs/face/b5fea60304f3c6b655fd326405a05d234d8c74d0.jpg"
+        },
+        {
+            "uid": 516641409,
+            "room": 22016027,
+            "name": "爱里亚Aria",
+            "group": "风云社",
+            "description": "",
+            "face": "http://i0.hdslb.com/bfs/face/543ae03f3967ec7ecab6fd6ea22e25b2936f029e.jpg"
+        },
+        {
+            "uid": 592354538,
+            "room": 22509409,
+            "name": "风云社",
+            "group": "风云社",
+            "description": "虚拟主播社团-风云社，一起创建温馨家园。",
+            "face": "https://i2.hdslb.com/bfs/face/5794e1d91a8ab6c9a48dfa97c20c420ef95782a8.jpg"
+        },
+        {
+            "uid": 2615352,
+            "room": 5131782,
+            "name": "飕鹿法_SO",
+            "group": "风云社",
+            "description": "一个穿越到人类界的魔女SO。游戏势，主机白金党一枚。",
+            "face": "https://i0.hdslb.com/bfs/face/2e8a6932fced90a96294edebf35422757d93e402.jpg"
+        }
+    ]
+}

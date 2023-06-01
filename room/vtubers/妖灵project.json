@@ -1,0 +1,63 @@
+{
+    "version": 2,
+    "name": "妖灵project",
+    "title": "妖灵project",
+    "data": [
+        {
+            "uid": 3633644,
+            "room": 1662599,
+            "name": "雪音-ゆきね",
+            "group": "妖灵project",
+            "description": "无所属Vup，居住在水晶球里的炼金猫猫，喜欢甜点和Game。请不要骚扰中之人。本形象已申请版权请勿盗用套用。",
+            "face": "https://i2.hdslb.com/bfs/face/7247e9ff5112efc6c6e371d99448778d764fdb42.jpg"
+        },
+        {
+            "uid": 289584842,
+            "room": 10674313,
+            "name": "咕咕蓝某人",
+            "group": "妖灵project",
+            "description": "吸溜~想觅食了",
+            "face": "https://i2.hdslb.com/bfs/face/f66387c0cb5e9c3ac7778a10cbe39882e8e6629b.jpg"
+        },
+        {
+            "uid": 11693346,
+            "room": 215272,
+            "name": "琳德Channel",
+            "group": "妖灵project",
+            "description": "喜欢游戏音乐，超佛系，不定期直播，喜欢的话关注一下吧～群号1071685160",
+            "face": "https://i0.hdslb.com/bfs/face/a644e57f9d7c4af75b5acfb7fcafbd6289141119.jpg"
+        },
+        {
+            "uid": 86234074,
+            "room": 11704612,
+            "name": "界小陨Dilima",
+            "group": "妖灵project",
+            "description": "妖灵project所属 神界天使小魔女 让我背负所有罪吧 画师 @抹茶巧克力九分甜 欢迎来访",
+            "face": "https://i1.hdslb.com/bfs/face/89e64c69ed33fe5175241626630fe6083a5e85f4.jpg"
+        },
+        {
+            "uid": 8039394,
+            "room": 6747467,
+            "name": "艾冰Phoenix",
+            "group": "妖灵project",
+            "description": "单机联机游戏视频&直播  艾冰の妖灵馆：1170207008",
+            "face": "https://i0.hdslb.com/bfs/face/79d6c68abcc99bf41255dd5cd6a3b05def7c4109.jpg"
+        },
+        {
+            "uid": 16478884,
+            "room": 307757,
+            "name": "鹿月_mojia",
+            "group": "妖灵project",
+            "description": "QvQ",
+            "face": "https://i1.hdslb.com/bfs/face/c054a1455b31fc1fcd36a892a676061300789a19.jpg"
+        },
+        {
+            "uid": 10397182,
+            "room": 950576,
+            "name": "骨头BoNe_",
+            "group": "妖灵project",
+            "description": "逃亡",
+            "face": "https://i1.hdslb.com/bfs/face/7ba236b5d8c19dfadabef6b1ec719087f5aa0f63.jpg"
+        }
+    ]
+}

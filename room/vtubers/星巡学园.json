@@ -1,0 +1,103 @@
+{
+    "version": 2,
+    "name": "星巡学园",
+    "title": "星巡学园",
+    "data": [
+        {
+            "uid": 2103347358,
+            "room": 22671741,
+            "name": "丝可蒂official",
+            "group": "星巡学园",
+            "description": "",
+            "face": "http://i0.hdslb.com/bfs/face/add7aeceb621f93c21c95ccd077efbacce9fe4a0.jpg"
+        },
+        {
+            "uid": 692283835,
+            "room": 22571941,
+            "name": "仓持京子official",
+            "group": "星巡学园",
+            "description": "隶属于星巡学园的妈妈，为了满足全世界男女老幼的撒娇欲而活动。",
+            "face": "http://i1.hdslb.com/bfs/face/1b0b95f6c1db3df53f2b5241ba576c476773e401.jpg"
+        },
+        {
+            "uid": 1460363504,
+            "room": 22671762,
+            "name": "冰置八茅official",
+            "group": "星巡学园",
+            "description": "星巡学园的企鹅。喜欢音乐和游戏。",
+            "face": "http://i2.hdslb.com/bfs/face/272e7ba045ed73f52b3ce798ec5fda172e4d8b27.jpg"
+        },
+        {
+            "uid": 2021127699,
+            "room": 22671771,
+            "name": "副学园长official",
+            "group": "星巡学园",
+            "description": "星巡学园副学园长，目标是鸠占鹊巢，登上学园长的宝座。",
+            "face": "http://i1.hdslb.com/bfs/face/cd36b0572a9ce5ca0be35a953038b5199ff21071.jpg"
+        },
+        {
+            "uid": 692283836,
+            "room": 22571945,
+            "name": "奥格丽梅露official",
+            "group": "星巡学园",
+            "description": "星巡学园所属，来自魔界的恶魔邮差。最喜欢的动物是马。",
+            "face": "http://i2.hdslb.com/bfs/face/8e727e303b967fd60334b2184c5d18771749f551.jpg"
+        },
+        {
+            "uid": 533193038,
+            "room": 22111720,
+            "name": "幽ヶ崎海愛official",
+            "group": "星巡学园",
+            "description": "幽ヶ崎海愛官方频道 Twitter @Yuugasakiumi  三色字幕组协力\n审核群1093283723\n粉丝群704937373",
+            "face": "https://i2.hdslb.com/bfs/face/e33f1a80845b8daa89f2d5a43e6e603c0ee480d2.jpg"
+        },
+        {
+            "uid": 1863599414,
+            "room": 22671750,
+            "name": "星姫绮罗official",
+            "group": "星巡学园",
+            "description": "初次见面，我是星巡学园的星姫绮罗！能够说中日英三语。目标是治愈世上所有的人。",
+            "face": "http://i2.hdslb.com/bfs/face/8a02b6bbd438a8aa4f9165bb7fd437800f58cec2.jpg"
+        },
+        {
+            "uid": 533193036,
+            "room": 22111713,
+            "name": "楪帆波official",
+            "group": "星巡学园",
+            "description": "星巡学园・楪 帆波　官方频道 Twitter @Yuzuriha_honami 商务 hoshimeguri.camp",
+            "face": "http://i0.hdslb.com/bfs/face/4c1c977698ccd7eb58cf49a38940ff83dca706d7.jpg"
+        },
+        {
+            "uid": 1506615770,
+            "room": 22671757,
+            "name": "神乃光official",
+            "group": "星巡学园",
+            "description": "星巡学园所属，是神。吾名神乃光，厄运傍身。目标乃成为威土鳖界知名人士重返天界。但路漫漫其修远兮，在此之前得赚钱果腹才行！",
+            "face": "http://i2.hdslb.com/bfs/face/b94a1a2d735364debaac7d68db2b2a92aef9daa0.jpg"
+        },
+        {
+            "uid": 533193037,
+            "room": 22111716,
+            "name": "花雲燻official",
+            "group": "星巡学园",
+            "description": "花雲くゆり????  @HanagumoKuyuri 商务 hoshimeguri.campus@gmail.com",
+            "face": "http://i1.hdslb.com/bfs/face/b313fce8fd667b1320cd5483cfb9ddddc1830e58.jpg"
+        },
+        {
+            "uid": 1471531748,
+            "room": 22671754,
+            "name": "響由依official",
+            "group": "星巡学园",
+            "description": "初次见面，我是響由依！\n希望通过投稿游戏相关的视频，能够和各种前辈们邂逅，大家一起来讨论游戏！",
+            "face": "http://i2.hdslb.com/bfs/face/2cd88b64ca5671e432dfaba325860654a0d6f7b7.jpg"
+        },
+        {
+            "uid": 692283833,
+            "room": 22571932,
+            "name": "风纸七鸣official",
+            "group": "星巡学园",
+            "description": "星巡学园所属，爱吃拉面的腐女子，风纸七鸣！担当画师：dodge",
+            "face": "http://i2.hdslb.com/bfs/face/107d721fefc28ad37767890f5c4852eaa7007e0e.jpg"
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "version": 2,
+    "name": "StarrySky战姬学院",
+    "title": "StarrySky战姬学院",
+    "data": [
+        {
+            "uid": 550655637,
+            "room": 22193067,
+            "name": "小琉璃录播组w",
+            "group": "StarrySky战姬学院",
+            "description": "菠萝包～菠萝包～菠萝包夹煤油～suki ₍ᐢ⸝⸝›   ̫ ‹⸝⸝ᐢ₎群：1082672715",
+            "face": "https://i0.hdslb.com/bfs/face/fef45c96a6e3737694872459e6fb5ec2d5ee8ada.jpg"
+        },
+        {
+            "uid": 576806445,
+            "room": 22223331,
+            "name": "F娘娘official",
+            "group": "StarrySky战姬学院",
+            "description": "starrysky战姬学院✈️大小姐F娘娘驾到，统统闪开！\n飞行员们速来 群952228358",
+            "face": "http://i0.hdslb.com/bfs/face/303028005e159ccb9546c718431ed50d0b7aff89.jpg"
+        },
+        {
+            "uid": 3259819,
+            "room": 866709,
+            "name": "凛酱的B站号",
+            "group": "StarrySky战姬学院",
+            "description": "成都自营地下偶像「流星パレット」成员Rin酱，粉丝群：716797977",
+            "face": "https://i1.hdslb.com/bfs/face/1d58cfc718bee55823e774d82dfceb341856af38.jpg"
+        }
+    ]
+}

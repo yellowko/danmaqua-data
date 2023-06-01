@@ -1,0 +1,31 @@
+{
+    "version": 2,
+    "name": "電子妖精",
+    "title": "電子妖精",
+    "data": [
+        {
+            "uid": 670241922,
+            "room": 22485818,
+            "name": "流琉蒼Official",
+            "group": "電子妖精",
+            "description": "",
+            "face": "http://i0.hdslb.com/bfs/face/7e816816bc88fb8ac74a200c63c46df3b9e60f24.jpg"
+        },
+        {
+            "uid": 670241923,
+            "room": 22485828,
+            "name": "花草ふしぎOfficial",
+            "group": "電子妖精",
+            "description": "花草 ふしぎ\nHANAKUSA FUSHIGI\n誕生日   ：4月5日(開発リリース)\n身　長   ：157cm\n体　重   ：49kg",
+            "face": "https://i1.hdslb.com/bfs/face/77118cbbb7e1256f4012a78e6b257c90e7ff3880.jpg"
+        },
+        {
+            "uid": 670241921,
+            "room": 22485816,
+            "name": "香桃紅Official",
+            "group": "電子妖精",
+            "description": "",
+            "face": "http://i2.hdslb.com/bfs/face/140a35f9d0cae8b9ce338b8da85d3663ecc3f8ad.jpg"
+        }
+    ]
+}

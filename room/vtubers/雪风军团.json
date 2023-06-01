@@ -1,0 +1,55 @@
+{
+    "version": 2,
+    "name": "雪风军团",
+    "title": "雪风军团",
+    "data": [
+        {
+            "uid": 328284808,
+            "room": 13342325,
+            "name": "伊恩姬_故障Ai",
+            "group": "雪风军团",
+            "description": "Bilibili 知名白日梦up主  无情的三连收割姬  故障军基地793097820欢迎你",
+            "face": "https://i1.hdslb.com/bfs/face/0a902434cd5fc714849839d38e3ce5461592a061.jpg"
+        },
+        {
+            "uid": 1699152346,
+            "room": 22852412,
+            "name": "奈芙Nieve",
+            "group": "雪风军团",
+            "description": "已毕业，感谢陪伴",
+            "face": "https://i1.hdslb.com/bfs/face/6faf8c27f7c6842c5d91a7600a8a391594522f84.jpg"
+        },
+        {
+            "uid": 358695457,
+            "room": 13576775,
+            "name": "小虾鱼Official",
+            "group": "雪风军团",
+            "description": "谢谢大家的陪伴，再见啦",
+            "face": "https://i1.hdslb.com/bfs/face/8e20c0c172d03fdda36612283337cd9fd277505f.jpg"
+        },
+        {
+            "uid": 473764233,
+            "room": 21627536,
+            "name": "田汐汐_Official",
+            "group": "雪风军团",
+            "description": "谢谢你们。",
+            "face": "https://i0.hdslb.com/bfs/face/1b1d45c7272ec76ae03b082268424ba533d10060.jpg"
+        },
+        {
+            "uid": 646432928,
+            "room": 22918711,
+            "name": "路理Kuri",
+            "group": "雪风军团",
+            "description": "雪风军团*画师麻麻@Rero貝",
+            "face": "https://i2.hdslb.com/bfs/face/6c0d86a6f8e532717f66864c465683cc8a7978fc.jpg"
+        },
+        {
+            "uid": 405281700,
+            "room": 21744235,
+            "name": "雪风军团",
+            "group": "雪风军团",
+            "description": "那黑的终点可有光？\n合作请私信。",
+            "face": "https://i0.hdslb.com/bfs/face/7a3e0f808634c58a497ec0edf66c01e4f80e6f9c.jpg"
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "version": 2,
+    "name": "雪域Provealms",
+    "title": "雪域Provealms",
+    "data": [
+        {
+            "uid": 12939237,
+            "room": 264788,
+            "name": "有棵里里",
+            "group": "雪域Provealms",
+            "description": "雪域Provealms所属小妹魔！\n粉丝群：660702422\n合作请联系provealms@foxmail.com",
+            "face": "https://i0.hdslb.com/bfs/face/be058ce1aa77aea9545b7665afb5f1eb83371c25.jpg"
+        },
+        {
+            "uid": 3461576189282324,
+            "room": 26168663,
+            "name": "纱依shayi",
+            "group": "雪域Provealms",
+            "description": "雪域provealms所属的闲散魔女 / 合作请联系provealms@foxmail.com",
+            "face": "https://i2.hdslb.com/bfs/face/c5caa02103cc6d3a71297d58da67c9df97d73a12.jpg"
+        },
+        {
+            "uid": 3493078891497932,
+            "room": 27206038,
+            "name": "雾氧Uo",
+            "group": "雪域Provealms",
+            "description": "雪域provealms所属的夜族指挥官 / 合作provealms@foxmail.com",
+            "face": "https://i2.hdslb.com/bfs/face/9cc770fab42c6dfc8e29398252aa20a45802e8ac.jpg"
+        }
+    ]
+}

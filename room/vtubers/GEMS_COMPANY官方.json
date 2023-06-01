@@ -1,0 +1,31 @@
+{
+    "version": 2,
+    "name": "GEMS_COMPANY官方",
+    "title": "GEMS_COMPANY官方",
+    "data": [
+        {
+            "uid": 1802613870,
+            "room": 22993398,
+            "name": "星菜日向夏_official",
+            "group": "GEMS_COMPANY官方",
+            "description": "我是出生于宫崎县的元气120％的阳光少女星菜日向夏，虽然现在还没成熟，但是会为了梦想一直努力，将来的梦想就是成为一名声优",
+            "face": "https://i0.hdslb.com/bfs/face/184beec548227a06990a7a865c62dbd2d2863ce5.jpg"
+        },
+        {
+            "uid": 355810003,
+            "room": 13307515,
+            "name": "水科葵搬运",
+            "group": "GEMS_COMPANY官方",
+            "description": "宝石社的猫耳虚拟偶像搬运。欢迎加入粉丝群：858547295",
+            "face": "http://i2.hdslb.com/bfs/face/02bcc44c95501845b2d15c05ec03530706e0606d.jpg"
+        },
+        {
+            "uid": 1205886701,
+            "room": 22891675,
+            "name": "水科葵_official",
+            "group": "GEMS_COMPANY官方",
+            "description": "我是出生于大阪府的喜欢音乐的猫耳少女水科葵，喜欢豆沙，特长是弹唱，“自宅警备员”一名。",
+            "face": "https://i2.hdslb.com/bfs/face/7cbdc864b651b41c29f32b47c695e5b5924cf0db.jpg"
+        }
+    ]
+}

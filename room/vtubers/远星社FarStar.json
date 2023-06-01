@@ -1,0 +1,47 @@
+{
+    "version": 2,
+    "name": "远星社FarStar",
+    "title": "远星社FarStar",
+    "data": [
+        {
+            "uid": 33697714,
+            "room": 21235263,
+            "name": "佚名ANO_",
+            "group": "远星社FarStar",
+            "description": "摸了",
+            "face": "https://i1.hdslb.com/bfs/face/80564bc055e14db1ecc7b3cfbd75d6642815cb83.jpg"
+        },
+        {
+            "uid": 130097809,
+            "room": 12476524,
+            "name": "羽生初云_cloud",
+            "group": "远星社FarStar",
+            "description": "不止步于发展vup的vup社团远星社farstar底成员工兼社长\n粉丝群：1067552361\n画师麻麻：Ruby_呜哔",
+            "face": "https://i1.hdslb.com/bfs/face/9e4bb9af59fd972ffe727f3dbd7aea2fc6824086.jpg"
+        },
+        {
+            "uid": 86233678,
+            "room": 3484243,
+            "name": "露尼亚Endias",
+            "group": "远星社FarStar",
+            "description": "个人势清楚系vup, [其实是男孩子]拂晓帝国的灭世王女，但愿拂晓之光能指引未来个人粉丝群号码：530309299\n",
+            "face": "https://i1.hdslb.com/bfs/face/f18999384a7443952567d6b57d40648fce2c86d8.jpg"
+        },
+        {
+            "uid": 281317344,
+            "room": 9962313,
+            "name": "涼宮琉璃_HotaRu",
+            "group": "远星社FarStar",
+            "description": "深海是沉默的地基，我是团队的屁股。",
+            "face": "https://i0.hdslb.com/bfs/face/486e13864db0edb58409348b5d916f582e954842.jpg"
+        },
+        {
+            "uid": 47226193,
+            "room": 8679716,
+            "name": "羽生泷暮_Kogure",
+            "group": "远星社FarStar",
+            "description": "总之，啊，麻烦",
+            "face": "https://i1.hdslb.com/bfs/face/965d5a063dde948ebf15208d5f76079ac408784f.jpg"
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "version": 2,
+    "name": "A-SOUL",
+    "title": "A-SOUL",
+    "data": [
+        {
+            "uid": 672346917,
+            "room": 22625025,
+            "name": "向晚大魔王",
+            "group": "A-SOUL",
+            "description": "关注...也不是不可以啦！",
+            "face": "https://i0.hdslb.com/bfs/face/566078c52b408571d8ae5e3bcdf57b2283024c27.jpg"
+        },
+        {
+            "uid": 672328094,
+            "room": 22637261,
+            "name": "嘉然今天吃什么",
+            "group": "A-SOUL",
+            "description": "这里是嘉然！别看我小小的，我超能吃还超可爱的哦~",
+            "face": "https://i2.hdslb.com/bfs/face/d399d6f5cf7943a996ae96999ba3e6ae2a2988de.jpg"
+        },
+        {
+            "uid": 351609538,
+            "room": 22634198,
+            "name": "珈乐Carol",
+            "group": "A-SOUL",
+            "description": "休眠。独一无二的小狼公主，晚安。",
+            "face": "https://i1.hdslb.com/bfs/face/a7fea00016a8d3ffb015b6ed8647cc3ed89cbc63.jpg"
+        },
+        {
+            "uid": 672353429,
+            "room": 22632424,
+            "name": "贝拉kira",
+            "group": "A-SOUL",
+            "description": "元气满满的A-SOUL舞担参上~目标TOP IDOL，一起加油！",
+            "face": "https://i2.hdslb.com/bfs/face/31b0d4177a204e95e3489d5c420cea8d53c93fae.jpg"
+        }
+    ]
+}

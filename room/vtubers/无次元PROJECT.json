@@ -1,0 +1,31 @@
+{
+    "version": 2,
+    "name": "无次元PROJECT",
+    "title": "无次元PROJECT",
+    "data": [
+        {
+            "uid": 10979361,
+            "room": 883747,
+            "name": "斯塔夫_天梦",
+            "group": "无次元PROJECT",
+            "description": "无次元PROJECT的工具人",
+            "face": "https://i0.hdslb.com/bfs/face/e575bf49232abe1d6ad0db7cb9eccb4a4b26899b.jpg"
+        },
+        {
+            "uid": 431311100,
+            "room": 21417013,
+            "name": "月见_tsuki",
+            "group": "无次元PROJECT",
+            "description": "*:..ﾞ((ε(*´･ω･)っ†*ﾟ¨ﾟﾟ･*变开心魔法",
+            "face": "https://i2.hdslb.com/bfs/face/9ba9b6d19d679b728e5ac191fb4b75e106d2082d.jpg"
+        },
+        {
+            "uid": 337827661,
+            "room": 11575621,
+            "name": "陆婉莹GodRiku",
+            "group": "无次元PROJECT",
+            "description": "粉丝群：754278929",
+            "face": "https://i1.hdslb.com/bfs/face/6669310ac3036cd2a76d92246694bfad669b23a8.jpg"
+        }
+    ]
+}

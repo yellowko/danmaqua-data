@@ -1,0 +1,39 @@
+{
+    "version": 2,
+    "name": "cesirelive",
+    "title": "cesirelive",
+    "data": [
+        {
+            "uid": 490794838,
+            "room": 23451190,
+            "name": "铃木桃织Suzuki",
+            "group": "cesirelive",
+            "description": "cesirelive二期生，兴趣直播快乐就好",
+            "face": "https://i1.hdslb.com/bfs/face/6342457f65bc3cba9a8e0d08a93f985303c84891.jpg"
+        },
+        {
+            "uid": 6483250,
+            "room": 7200259,
+            "name": "向空气挥拳",
+            "group": "cesirelive",
+            "description": "哈！",
+            "face": "https://i1.hdslb.com/bfs/face/479938e03ba153a0ea7be39806da2f3350b09f88.jpg"
+        },
+        {
+            "uid": 229874516,
+            "room": 5864099,
+            "name": "音羽_YYu",
+            "group": "cesirelive",
+            "description": "/Cesirelive所属/ \n谢谢",
+            "face": "https://i2.hdslb.com/bfs/face/410cfd586707bbfccde90b4458499e2f343c5b55.jpg"
+        },
+        {
+            "uid": 65463088,
+            "room": 23868048,
+            "name": "鹿伶儿",
+            "group": "cesirelive",
+            "description": "cesirelive三期生！粉丝群:871453138 接后期混音（戳企鹅3538183647）\n网易云/酷狗：鹿伶儿",
+            "face": "https://i1.hdslb.com/bfs/face/a37b11b926c91443f6d49cf1769e72e86b5ce3e6.jpg"
+        }
+    ]
+}

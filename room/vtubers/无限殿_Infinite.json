@@ -1,0 +1,23 @@
+{
+    "version": 2,
+    "name": "无限殿_Infinite",
+    "title": "无限殿_Infinite",
+    "data": [
+        {
+            "uid": 686145957,
+            "room": 22530528,
+            "name": "星娅_Cinya",
+            "group": "无限殿_Infinite",
+            "description": "Metaplanes所属，无限殿星灵。一闪一闪小星娅",
+            "face": "https://i0.hdslb.com/bfs/face/e5dff70dcecba3c774330017ecbc7d63b619d80d.jpg"
+        },
+        {
+            "uid": 407220789,
+            "room": 22859141,
+            "name": "沙织Saori",
+            "group": "无限殿_Infinite",
+            "description": "奶茶一杯 快乐起飞",
+            "face": "https://i0.hdslb.com/bfs/face/ffab35c5f865414a7c2fcd4b87a5f43e663d6d26.jpg"
+        }
+    ]
+}

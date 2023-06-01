@@ -1,0 +1,31 @@
+{
+    "version": 2,
+    "name": "MiosLive",
+    "title": "MiosLive",
+    "data": [
+        {
+            "uid": 1999095012,
+            "room": 24629856,
+            "name": "卡米尔doffy",
+            "group": "MiosLive",
+            "description": "mioslive一期生✨希望我的歌声能给你带来片刻的安宁卡米尔小馆门牌号：271388640",
+            "face": "https://i0.hdslb.com/bfs/face/2cf1fb7a46a27704356a0084ae8e8af92552ced8.jpg"
+        },
+        {
+            "uid": 350764795,
+            "room": 24567147,
+            "name": "花楓kae",
+            "group": "MiosLive",
+            "description": "mioslive一期生花楓！よろしく～阴阳寮门牌：976776992，网易云：花楓kae",
+            "face": "https://i1.hdslb.com/bfs/face/c64e2aedbbaeaecaf2b1a476b10523e10830051b.jpg"
+        },
+        {
+            "uid": 571454,
+            "room": 5864437,
+            "name": "菲诺尔noel",
+            "group": "MiosLive",
+            "description": "mioslive一期生。是求知魔女不是混沌魔女！菲诺尔的魔法小屋：584824996",
+            "face": "https://i2.hdslb.com/bfs/face/7cbf84ee51e77be9a1474c4312ebaa35c3cb09d4.jpg"
+        }
+    ]
+}

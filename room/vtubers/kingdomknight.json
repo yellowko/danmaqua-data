@@ -1,0 +1,31 @@
+{
+    "version": 2,
+    "name": "kingdomknight",
+    "title": "kingdomknight",
+    "data": [
+        {
+            "uid": 14280897,
+            "room": 45746,
+            "name": "是伊梵娜呀",
+            "group": "kingdomknight",
+            "description": "伊梵娜Ivana的录播账号！营业账号指路→伊梵娜_Ivana",
+            "face": "https://i0.hdslb.com/bfs/face/4212dcb89b1b0e1b1bda93f36d0cd5298f09dcba.jpg"
+        },
+        {
+            "uid": 341122517,
+            "room": 23896124,
+            "name": "芊绫喵",
+            "group": "kingdomknight",
+            "description": "“想要站在聚光灯下，人群中央”\n»未出道个人势蓝猫«\n喵窝群：953418982",
+            "face": "https://i2.hdslb.com/bfs/face/80099d6e393bedc227a1904d8dfebc5e71dcef7c.jpg"
+        },
+        {
+            "uid": 1905040380,
+            "room": 23161121,
+            "name": "龙王本王梓璃璃",
+            "group": "kingdomknight",
+            "description": "国粤英多语系，歌势（鸽势）vup，笑～",
+            "face": "https://i0.hdslb.com/bfs/face/11394a412e3adee86629e701314a5eccfaf6e582.jpg"
+        }
+    ]
+}

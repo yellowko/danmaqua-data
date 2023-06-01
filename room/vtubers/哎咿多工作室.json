@@ -1,0 +1,23 @@
+{
+    "version": 2,
+    "name": "哎咿多工作室",
+    "title": "哎咿多工作室",
+    "data": [
+        {
+            "uid": 11673035,
+            "room": 22784346,
+            "name": "哎咿多工作室",
+            "group": "哎咿多工作室",
+            "description": "Misson AYD 001进行中||  商务合作专用邮箱：business@a1duo.com ",
+            "face": "https://i2.hdslb.com/bfs/face/b34ae6c8434f16159403b0d19781331e04cf8ec0.jpg"
+        },
+        {
+            "uid": 535102427,
+            "room": 22183870,
+            "name": "栗子酱RIKO",
+            "group": "哎咿多工作室",
+            "description": "SMC超级机甲联赛主播，励志成为百大UP的新人虚拟主播",
+            "face": "https://i2.hdslb.com/bfs/face/80c13d483cb2ba83b621c296ae41370d44f52a59.jpg"
+        }
+    ]
+}

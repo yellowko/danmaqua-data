@@ -1,0 +1,79 @@
+{
+    "version": 2,
+    "name": "C-Live_Project",
+    "title": "C-Live_Project",
+    "data": [
+        {
+            "uid": 1342050054,
+            "room": 25985019,
+            "name": "安西娅Anthea",
+            "group": "C-Live_Project",
+            "description": "C-Live的看板娘之一，非专业歌势，希望我笨拙的歌声也能带给你感动",
+            "face": "https://i0.hdslb.com/bfs/face/5c3a27972527ff04525688f251642730acedcd3e.jpg"
+        },
+        {
+            "uid": 1578580407,
+            "room": 25985006,
+            "name": "希芙莉Sifly",
+            "group": "C-Live_Project",
+            "description": "降临于世间的小恶魔！才不是屑恶魔！C-Live社团看板娘之一，超级爱打游戏——",
+            "face": "https://i0.hdslb.com/bfs/face/607023427ad0cebbb7a9d62d5d4a668ba0f843cb.jpg"
+        },
+        {
+            "uid": 1395549000,
+            "room": 25655651,
+            "name": "时柒_Nana",
+            "group": "C-Live_Project",
+            "description": "✦✦温柔の病娇女仆，杂谈势vup ✦✦ 偶尔拔刀，偶尔屑，偶尔攻击性极强，粉丝群：788753313。乖乖听话，我将爱你直至死亡。",
+            "face": "https://i0.hdslb.com/bfs/face/c2788951b7bee2958b480225f03df30d2d5d21e5.jpg"
+        },
+        {
+            "uid": 313064642,
+            "room": 25367094,
+            "name": "桃唯Yui",
+            "group": "C-Live_Project",
+            "description": "是只会弹唱的修勾！所属C-live，我才不是笨笨的呢，唱歌的时候最聪明了！",
+            "face": "https://i2.hdslb.com/bfs/face/562397a55bb15413f2a286ec4f427e5145752275.jpg"
+        },
+        {
+            "uid": 1627197427,
+            "room": 26093585,
+            "name": "舞-Mai",
+            "group": "C-Live_Project",
+            "description": "嗷呜～有没有被我吓到呀～？",
+            "face": "https://i1.hdslb.com/bfs/face/03d838cb3fb8faaba012f81cecbae6fea50db0fd.jpg"
+        },
+        {
+            "uid": 1599964809,
+            "room": 26511839,
+            "name": "裁月电量百分百",
+            "group": "C-Live_Project",
+            "description": "傻子猫，没有智商，好看好养活，会自己上厕所\n粉丝群：281259916 ",
+            "face": "https://i0.hdslb.com/bfs/face/1adc3cd3aec96ade9968e8c6ada25a3726c85cd6.jpg"
+        },
+        {
+            "uid": 3493090323073043,
+            "room": 26552829,
+            "name": "言玉楼Yulo",
+            "group": "C-Live_Project",
+            "description": "C-Live所属全能歌v，欢迎来我的茶馆小坐。录播请关注：C-Live录播组，商务合作：c-live@qq.com",
+            "face": "https://i2.hdslb.com/bfs/face/ebaabb7254599e3956bc6eb001d9492f5d3eb71e.jpg"
+        },
+        {
+            "uid": 3493124934470587,
+            "room": 26951599,
+            "name": "豹豹达凛",
+            "group": "C-Live_Project",
+            "description": "量产系甜甜地下偶像｜紫色雪豹｜交流群：653189863\n来自@C-liveProject",
+            "face": "https://i1.hdslb.com/bfs/face/313bb5aeb7f97f853c81d37c2fa969b7dbb9868a.jpg"
+        },
+        {
+            "uid": 650363356,
+            "room": 26855029,
+            "name": "馍馍Pann",
+            "group": "C-Live_Project",
+            "description": "你小子别太爱了！粉丝群：285533236",
+            "face": "https://i1.hdslb.com/bfs/face/36fccb220452df7237458adaa1237eb310b5c254.jpg"
+        }
+    ]
+}

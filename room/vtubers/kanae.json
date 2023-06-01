@@ -1,0 +1,31 @@
+{
+    "version": 2,
+    "name": "kanae",
+    "title": "kanae",
+    "data": [
+        {
+            "uid": 3951862,
+            "room": 824121,
+            "name": "安黛莉-米拉Official",
+            "group": "kanae",
+            "description": "Kanae社团/五年二班公会所属，唱歌/玩游戏/杂谈/背景小故事，骑士应援团：1007985337",
+            "face": "https://i1.hdslb.com/bfs/face/68e7d3bf3d48518be55cc97ea12d8823cd49c134.jpg"
+        },
+        {
+            "uid": 395426377,
+            "room": 21318388,
+            "name": "今夭的平行世界",
+            "group": "kanae",
+            "description": "因为深信 所以存在         Kanae所属虚拟up主      今夭的小桃园：1020803337",
+            "face": "https://i1.hdslb.com/bfs/face/0f3d26f059f22cd696e01826db892107780e5b2b.jpg"
+        },
+        {
+            "uid": 90820845,
+            "room": 5372011,
+            "name": "染崎绿Midori",
+            "group": "kanae",
+            "description": "因此，我们杀死那些谈论我们沉默的面孔的金翅鸟。\n谁谈论石头？\n谁想知道白浪，黄昏和天空对我们的意义？",
+            "face": "https://i0.hdslb.com/bfs/face/49a00ee3ab292c80ef803e46c442276408445b62.jpg"
+        }
+    ]
+}

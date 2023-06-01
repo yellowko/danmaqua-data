@@ -1,0 +1,31 @@
+{
+    "version": 2,
+    "name": "花寄女子寮",
+    "title": "花寄女子寮",
+    "data": [
+        {
+            "uid": 441381282,
+            "room": 21547895,
+            "name": "花丸晴琉Official",
+            "group": "花寄女子寮",
+            "description": "我是虚拟主播花丸晴琉！我最喜欢唱歌了！和我做朋友吧！",
+            "face": "http://i0.hdslb.com/bfs/face/7328c4d2bd7f59a10be61589d3595880a8ebcff5.jpg"
+        },
+        {
+            "uid": 441403698,
+            "room": 21671418,
+            "name": "野野宫のののOfficial",
+            "group": "花寄女子寮",
+            "description": "我是虚拟偶像组合“花寄女生宿舍”的成员、Vtuber野野宫ののの！我最喜欢唱歌了，请多关照！",
+            "face": "http://i0.hdslb.com/bfs/face/8037cdff57e6164c0e53b9b6e161f84cd88ca976.jpg"
+        },
+        {
+            "uid": 316381099,
+            "room": 15152878,
+            "name": "鹿乃ちゃん",
+            "group": "花寄女子寮",
+            "description": "bambikano.info@gmail.com",
+            "face": "https://i1.hdslb.com/bfs/face/92a10e8467e7e5a757ded5c7b36b21d1de7275f2.jpg"
+        }
+    ]
+}

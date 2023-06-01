@@ -1,0 +1,31 @@
+{
+    "version": 2,
+    "name": "魂喵Official",
+    "title": "魂喵Official",
+    "data": [
+        {
+            "uid": 320740464,
+            "room": 12386041,
+            "name": "兰若_Ruo",
+            "group": "魂喵Official",
+            "description": "破产在逃大小姐 为了东山再起每天拼命打工搬砖 接配音养家糊口 有钱了一定要开家幼儿园 ＼(*T▽T*)／ ",
+            "face": "https://i0.hdslb.com/bfs/face/833a21bdfdff0d7437f1f1a1ff9b63b6419f32b9.jpg"
+        },
+        {
+            "uid": 373493702,
+            "room": 14110147,
+            "name": "兰若_Re",
+            "group": "魂喵Official",
+            "description": "来自成都的虚拟up主，青城山扛把子兰若_Re~～  ",
+            "face": "https://i2.hdslb.com/bfs/face/817e1017732dd6566b7d137215af5664bb22aeb3.jpg"
+        },
+        {
+            "uid": 480536263,
+            "room": 21768883,
+            "name": "魂喵喵Official",
+            "group": "魂喵Official",
+            "description": "魂喵科技所属吉祥物/来人间拯救大家的不开心/合作请注明来意QQ2124342319",
+            "face": "https://i1.hdslb.com/bfs/face/a11e30793983dcc15ab0051365d9607701e6801e.jpg"
+        }
+    ]
+}

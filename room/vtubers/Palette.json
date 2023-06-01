@@ -1,0 +1,87 @@
+{
+    "version": 2,
+    "name": "Palette",
+    "title": "Palette",
+    "data": [
+        {
+            "uid": 526402222,
+            "room": 25878452,
+            "name": "Epoch_Link",
+            "group": "Palette",
+            "description": "这里是Epoch Link企划官方账号，一起让这个未来世纪于我们链接 合作或咨询请联系QQ3606420488",
+            "face": "https://i1.hdslb.com/bfs/face/6c99518423206ac4a65ef4901e949eecdbad6229.jpg"
+        },
+        {
+            "uid": 50754735,
+            "room": 22547204,
+            "name": "千辉Nina_Official",
+            "group": "Palette",
+            "description": "Palette社团所属，经常观众进行耳膜爆破的小裁缝，喜欢在中午直播，please多多关注！粉丝群：1146155565 ",
+            "face": "https://i0.hdslb.com/bfs/face/4944f8e818b4b50212b79f8670ac92d84191106f.jpg"
+        },
+        {
+            "uid": 49142760,
+            "room": 22815234,
+            "name": "咪诺今天也要元气满满",
+            "group": "Palette",
+            "description": "会者定离，一期一祈",
+            "face": "https://i0.hdslb.com/bfs/face/2cf5a0284aa606d69a85dc7be4172ed6e7b985b1.jpg"
+        },
+        {
+            "uid": 4929299,
+            "room": 185572,
+            "name": "托莉Tauri_Channel",
+            "group": "Palette",
+            "description": "Epoch Link所属，从虚拟世界下凡来扯淡的码字摸鱼牛，生活不易，且摸且珍惜。录播号：托莉の奶制品加工车间",
+            "face": "https://i2.hdslb.com/bfs/face/b01030b75b5b75538ba7d29ed80564daf3bc2242.jpg"
+        },
+        {
+            "uid": 11537944,
+            "room": 23986450,
+            "name": "梨子_Riko",
+            "group": "Palette",
+            "description": "Epoch link所属，以游戏杂谈势活动的可爱猫猫梨子喵！性格声音大概是邻家妹妹型，但其实内心是细腻的大姐姐。粉丝群：904319567",
+            "face": "https://i1.hdslb.com/bfs/face/0347e4375c8f7f3897c2cf16bbca05b5cbd22cf1.jpg"
+        },
+        {
+            "uid": 361546291,
+            "room": 22188042,
+            "name": "花茶C-ya",
+            "group": "Palette",
+            "description": "再见了，所有属于花茶C-ya的时光",
+            "face": "https://i1.hdslb.com/bfs/face/939baa10ba17a3c83d744e76462ade198c5a7087.jpg"
+        },
+        {
+            "uid": 603372954,
+            "room": 22769032,
+            "name": "可爱玥宝",
+            "group": "Palette",
+            "description": "天天开心",
+            "face": "https://i0.hdslb.com/bfs/face/b2a7b0373c661424669a608da3cf4bb209189db1.jpg"
+        },
+        {
+            "uid": 1376650682,
+            "room": 22857429,
+            "name": "葡冷尔子gagako",
+            "group": "Palette",
+            "description": "来自精灵国的蛾子精歌势vup、翻唱唱见/epoch link社团所属/ Qq群：233746070/ 网易云b站同名/ 商务音乐合作私信。",
+            "face": "https://i2.hdslb.com/bfs/face/92fca11d5ed4728f08bee0764a5241d7a010fe2a.jpg"
+        },
+        {
+            "uid": 393885664,
+            "room": 22882574,
+            "name": "诺可Noko",
+            "group": "Palette",
+            "description": "沦落人类世界的恶魔歌势，Epoch link所属，商务合作联系 jiujiuPalett。Q群:1074482253 ",
+            "face": "https://i1.hdslb.com/bfs/face/04297bfa06c4759fefbfce65628ad137ebd61873.jpg"
+        },
+        {
+            "uid": 2103954767,
+            "room": 22846258,
+            "name": "阿莳Komaki",
+            "group": "Palette",
+            "description": "",
+            "face": "https://i2.hdslb.com/bfs/face/bc432d9a5b7c8f160ea5c05a676d8f2f37a906a2.jpg"
+        }
+    ]
+}

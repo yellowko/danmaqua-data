@@ -1,0 +1,39 @@
+{
+    "version": 2,
+    "name": "千鸟战队",
+    "title": "千鸟战队",
+    "data": [
+        {
+            "uid": 667526012,
+            "room": 22622535,
+            "name": "文静_千鸟Official",
+            "group": "千鸟战队",
+            "description": "千鸟永远的18岁美少女(⁎⁍̴̛ᴗ⁍̴̛⁎)",
+            "face": "https://i2.hdslb.com/bfs/face/ac7482ed1b9a7f203dc68c0c4a77c488a27b108a.jpg"
+        },
+        {
+            "uid": 1620923329,
+            "room": 22622469,
+            "name": "琳_千鸟Official",
+            "group": "千鸟战队",
+            "description": "有始有终，方不辜负相遇。解琳自是需要系琳人。",
+            "face": "https://i1.hdslb.com/bfs/face/c0a88f85ebd0d056f37b114e0748e69556c8b488.jpg"
+        },
+        {
+            "uid": 1090010845,
+            "room": 22622290,
+            "name": "艾瑞思_千鸟Official",
+            "group": "千鸟战队",
+            "description": "大家好，我是艾瑞思~思念的思哦~*",
+            "face": "https://i1.hdslb.com/bfs/face/7e08840c56f251de28bdf766b647bd5fe9a5d50a.jpg"
+        },
+        {
+            "uid": 334537711,
+            "room": 13747625,
+            "name": "艾白_千鸟Official",
+            "group": "千鸟战队",
+            "description": "吃饱饱，睡好好，万事顺遂！",
+            "face": "https://i1.hdslb.com/bfs/face/9ae8b9445fd0665cc014d9080156a45271be73c6.jpg"
+        }
+    ]
+}

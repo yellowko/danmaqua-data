@@ -1,0 +1,39 @@
+{
+    "version": 2,
+    "name": "EOE组合",
+    "title": "EOE组合",
+    "data": [
+        {
+            "uid": 1778026586,
+            "room": 25512465,
+            "name": "米诺高分少女",
+            "group": "EOE组合",
+            "description": "这里介绍不了我，请你多看。合作洽谈：eoe@yuehuamusic.com",
+            "face": "https://i2.hdslb.com/bfs/face/3da6145e81745cabd1f79b9c61772f884e783b7e.jpg"
+        },
+        {
+            "uid": 1875044092,
+            "room": 25512476,
+            "name": "莞儿睡不醒",
+            "group": "EOE组合",
+            "description": "天才小厨娘也要做偶像！合作洽谈：eoe@yuehuamusic.com",
+            "face": "https://i1.hdslb.com/bfs/face/4d36b041654ef91a0b2f7f34ca9ade33cdbf837e.jpg"
+        },
+        {
+            "uid": 1811071010,
+            "room": 25512485,
+            "name": "虞莫MOMO",
+            "group": "EOE组合",
+            "description": "又在看我？合作洽谈：eoe@yuehuamusic.com",
+            "face": "https://i2.hdslb.com/bfs/face/139f2dbd62f9f9343c1ace6c1b49c38a630bf0c7.jpg"
+        },
+        {
+            "uid": 1669777785,
+            "room": 25512443,
+            "name": "露早GOGO",
+            "group": "EOE组合",
+            "description": "嗨大家好，我是可爱迷人的汪汪殿下露早！^ - ^汪汪汪汪汪汪汪汪！合作洽谈：eoe@yuehuamusic.com",
+            "face": "https://i0.hdslb.com/bfs/face/5d699ce6f66ce4770092ba19fcf7caec82e8f736.jpg"
+        }
+    ]
+}

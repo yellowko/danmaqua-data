@@ -1,0 +1,23 @@
+{
+    "version": 2,
+    "name": "Wildfire野火企划",
+    "title": "Wildfire野火企划",
+    "data": [
+        {
+            "uid": 1881110844,
+            "room": 25591054,
+            "name": "辻音Rosely",
+            "group": "Wildfire野火企划",
+            "description": "很高兴认识你！我是辻（shi二声）音!",
+            "face": "https://i0.hdslb.com/bfs/face/9360907f18184d7abf73f713c8614e7ad11a5cbf.jpg"
+        },
+        {
+            "uid": 3461576453524173,
+            "room": 26189402,
+            "name": "鹤鸣Crene",
+            "group": "Wildfire野火企划",
+            "description": "有事无事，都可以来我的茶馆小坐，开心的不开心的都能告诉我",
+            "face": "https://i0.hdslb.com/bfs/face/eb0191aa2301f24a4f9a2f7d8391780905e937b5.jpg"
+        }
+    ]
+}

@@ -1,0 +1,55 @@
+{
+    "version": 2,
+    "name": "コーロンサス学園",
+    "title": "コーロンサス学園",
+    "data": [
+        {
+            "uid": 18391386,
+            "room": 2040456,
+            "name": "冷雨sama",
+            "group": "コーロンサス学園",
+            "description": "",
+            "face": "https://i0.hdslb.com/bfs/face/1ca075608f8e878e2d4f01e4c5d1cade640a5f8b.jpg"
+        },
+        {
+            "uid": 3393365,
+            "room": 377563,
+            "name": "柯洛Kuro",
+            "group": "コーロンサス学園",
+            "description": "属于猫草们的柯洛，居住于海洋公馆，是家中友爱善良的小弟，目前家中有美丽温柔的尤利娅大姐、万能无敌的蕾切尔姐姐",
+            "face": "https://i2.hdslb.com/bfs/face/ae93cab0fe6c26260484a22d75f8c9e55e1e4b22.jpg"
+        },
+        {
+            "uid": 8435856,
+            "room": 7404017,
+            "name": "熊木兔Kumagi",
+            "group": "コーロンサス学園",
+            "description": "是画师，live2D模型师，不是单身 >< 虚拟女儿们：宫园凛、Ash冴雪、雅ん，鸢鸟夜 .etc",
+            "face": "https://i0.hdslb.com/bfs/face/7315b53c99bae24183c75dd32dfe0e8dad0c8b03.jpg"
+        },
+        {
+            "uid": 158636881,
+            "room": 4984404,
+            "name": "达不溜寄寄",
+            "group": "コーロンサス学園",
+            "description": "皖鸽鸽的二创切片号。关注皖鸽鸽wgg谢谢喵。直播通知群：228755381 ",
+            "face": "https://i1.hdslb.com/bfs/face/8a93f8d6a8c1025efda47787f291d0deb808cc50.jpg"
+        },
+        {
+            "uid": 547115793,
+            "room": 23053580,
+            "name": "赤冢一华Ichika",
+            "group": "コーロンサス学園",
+            "description": "コーロンサス学園所属 这里是学生会会长赤冢一华！",
+            "face": "https://i0.hdslb.com/bfs/face/ce865a0992f3078f3824d6af62c8d3aa68a4f38e.jpg"
+        },
+        {
+            "uid": 414840678,
+            "room": 21401343,
+            "name": "青木ルアOfficial",
+            "group": "コーロンサス学園",
+            "description": "你好！我是新人Vtuber!所属于コーロンサス学園零班の青木ルア！正在学习中文！",
+            "face": "http://i0.hdslb.com/bfs/face/770455b1294bd6032e905b9a6dd377c242202fac.jpg"
+        }
+    ]
+}

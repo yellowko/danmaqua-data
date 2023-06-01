@@ -1,0 +1,63 @@
+{
+    "version": 2,
+    "name": "夕映结社",
+    "title": "夕映结社",
+    "data": [
+        {
+            "uid": 27961340,
+            "room": 414081,
+            "name": "白榆泽",
+            "group": "夕映结社",
+            "description": "远离网络，健康生活",
+            "face": "https://i2.hdslb.com/bfs/face/a3ded663a2d5515e9d74a1eb6c99d22ee66e2671.jpg"
+        },
+        {
+            "uid": 623039484,
+            "room": 22398048,
+            "name": "星奏郁兔_Channel",
+            "group": "夕映结社",
+            "description": "个人势✦Hoshikana_Ikuto✦录播号：星奏郁兔Blu-rayDisc",
+            "face": "https://i0.hdslb.com/bfs/face/6bde5b8ee4553533ad486013d0936e89954081c1.jpg"
+        },
+        {
+            "uid": 4675985,
+            "room": 448176,
+            "name": "시물",
+            "group": "夕映结社",
+            "description": "本人已死.逝者安息",
+            "face": "https://i2.hdslb.com/bfs/face/74f606de0004c7c7a1788c0c3b6427be7bba5f48.jpg"
+        },
+        {
+            "uid": 474103425,
+            "room": 21618572,
+            "name": "梦宫Yoyu_Channel",
+            "group": "夕映结社",
+            "description": "Warudo技术开发中，请关注白夜Tira！ （本号停止直播中）",
+            "face": "https://i0.hdslb.com/bfs/face/70ffc9e1889b7ec13689d9965660ae38ff426794.jpg"
+        },
+        {
+            "uid": 500451641,
+            "room": 22023331,
+            "name": "狸花もこ_Channel",
+            "group": "夕映结社",
+            "description": "こんなにかわいいのにどうして見てくれないの/不参与任何社团工会/虚拟形象，不当虚拟主播。",
+            "face": "https://i2.hdslb.com/bfs/face/657f75fc3fbec0372472a8f710cf4635faa4f5be.jpg"
+        },
+        {
+            "uid": 535848,
+            "room": 66061,
+            "name": "西困シークン",
+            "group": "夕映结社",
+            "description": "◇ 纸片小男孩爱好者 个人势赛博孤魂 三分钟热度怪人 ◇ 直播通知群:891266657 Pixiv:4763818",
+            "face": "https://i0.hdslb.com/bfs/face/036bb95e412cfb76fc5980d9061d3f4188b87976.jpg"
+        },
+        {
+            "uid": 477948447,
+            "room": 21657501,
+            "name": "鬼麻弥火度_Channel",
+            "group": "夕映结社",
+            "description": "个人势，目前只播七圣召唤！欢迎大家找我玩，找我打牌！",
+            "face": "https://i0.hdslb.com/bfs/face/45fd6a9af5c148bd7d783aa826d2c313329ffbfb.jpg"
+        }
+    ]
+}

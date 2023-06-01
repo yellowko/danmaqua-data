@@ -1,0 +1,39 @@
+{
+    "version": 2,
+    "name": "月光社",
+    "title": "月光社",
+    "data": [
+        {
+            "uid": 1877063,
+            "room": 52951,
+            "name": "祈加紫",
+            "group": "月光社",
+            "description": "咸鱼系VUP，画画的，萝太，約稿私我～",
+            "face": "https://i2.hdslb.com/bfs/face/009a1778fb5945adee3291aa720f20336cdda36d.jpg"
+        },
+        {
+            "uid": 390043592,
+            "room": 21077527,
+            "name": "是秋殇呀",
+            "group": "月光社",
+            "description": "大家好！这里是秋殇！个人势vup，虽然说咱是吸血鬼但已经很久没吸过血啦~  虽然是笨比但喜欢玩推理游戏！",
+            "face": "https://i2.hdslb.com/bfs/face/912a65318d48ede0216305e9b2de760685c88c71.jpg"
+        },
+        {
+            "uid": 6856415,
+            "room": 9570062,
+            "name": "白小雪の私人帐号",
+            "group": "月光社",
+            "description": "vtb相关活跃迁移至@白小雪Official\n私人号请勿打扰啦w\n谢谢一直以来的支持~",
+            "face": "http://i2.hdslb.com/bfs/face/b15f76bdee3843c857ab6e52c8de3c688da85c63.jpg"
+        },
+        {
+            "uid": 39978581,
+            "room": 12194885,
+            "name": "白风浅羽",
+            "group": "月光社",
+            "description": "冬眠系vup，暂时不会有活动。还在成长的萌新画师，真的很萌很新x\n",
+            "face": "https://i2.hdslb.com/bfs/face/01b1afd4999f72dc33f86e7714904a9e57bfb467.jpg"
+        }
+    ]
+}

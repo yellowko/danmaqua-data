@@ -1,0 +1,39 @@
+{
+    "version": 2,
+    "name": "P.K.S",
+    "title": "P.K.S",
+    "data": [
+        {
+            "uid": 646278631,
+            "room": 22542037,
+            "name": "月坂Reko",
+            "group": "P.K.S",
+            "description": "",
+            "face": "https://i1.hdslb.com/bfs/face/b2d30032dc00acb5f5ed0a3aabcb6af5f9374840.jpg"
+        },
+        {
+            "uid": 565227904,
+            "room": 22196167,
+            "name": "小魔-Chima",
+            "group": "P.K.S",
+            "description": "跟魔女村的伙伴们一起在人界成为偶像组合！ QQ应援群：902023030 魔法工坊：witchstudio.net/CN",
+            "face": "https://i1.hdslb.com/bfs/face/3ba59169fba6ca1ec3bd817a63ff266343d56052.jpg"
+        },
+        {
+            "uid": 13178002,
+            "room": 199140,
+            "name": "璃璃觉得不错",
+            "group": "P.K.S",
+            "description": "建模咨询：2586441646",
+            "face": "https://i1.hdslb.com/bfs/face/aaebd54eb5e3533ed76029905f5e949910289e3c.jpg"
+        },
+        {
+            "uid": 628276383,
+            "room": 22409465,
+            "name": "莓露莎Official",
+            "group": "P.K.S",
+            "description": "<P.K.S所属>高级文职人员，卑微社畜希望今天也能安全存活。应援群号：1135943445",
+            "face": "https://i0.hdslb.com/bfs/face/636bdf78a290a8bb0c12a33736daff7707244e02.jpg"
+        }
+    ]
+}

@@ -1,0 +1,143 @@
+{
+    "version": 2,
+    "name": "hOuOu_Project",
+    "title": "hOuOu_Project",
+    "data": [
+        {
+            "uid": 9066351,
+            "room": 21737386,
+            "name": "塔克Tako",
+            "group": "hOuOu_Project",
+            "description": "hOuOu虚拟艺人团体成员。全地要放声高呼，要击鼓，跳舞，要享乐，要歌。商务：houou_project@163.com",
+            "face": "https://i0.hdslb.com/bfs/face/17430dccfe1c7ecab179ef291d874a157d13b1e2.jpg"
+        },
+        {
+            "uid": 53536596,
+            "room": 25038353,
+            "name": "岐夭夭",
+            "group": "hOuOu_Project",
+            "description": "话很多的爱死机模人/什么都会一点的小神仙/姑且还算是个Vup/当神仙嘛，开心就好啦~【人财两空cp头子2号】",
+            "face": "https://i0.hdslb.com/bfs/face/c93655f0bf80b6ead04939639af0ca7ce55457c3.jpg"
+        },
+        {
+            "uid": 752015,
+            "room": 21756256,
+            "name": "希尔维娅-Sylvia",
+            "group": "hOuOu_Project",
+            "description": "hOuOu虚拟艺人团体成员。「你我在此的相遇，是既定的命运。」商务：houou_project@163.com",
+            "face": "https://i2.hdslb.com/bfs/face/d7f33c938dcca92a5a78bc767ecae9bf3e1da86d.jpg"
+        },
+        {
+            "uid": 1306091103,
+            "room": 24494586,
+            "name": "库若米Kuromi",
+            "group": "hOuOu_Project",
+            "description": "hOuOu虚拟艺人团体成员。我只需要从你身上获得一点点魔力就行啦~商务：houou_project@163.com",
+            "face": "https://i0.hdslb.com/bfs/face/bc3620fb3e63c66ad428bec2bfa8dab76746a527.jpg"
+        },
+        {
+            "uid": 1993395129,
+            "room": 22967698,
+            "name": "散华蓝SankaAI",
+            "group": "hOuOu_Project",
+            "description": "hOuOu虚拟艺人团体成员。 -夜空总有最大密度的蓝- 商务：houou_project@163.com",
+            "face": "https://i0.hdslb.com/bfs/face/40eb85ef45d2bac99c342e671f234799c77a3cec.jpg"
+        },
+        {
+            "uid": 1123156073,
+            "room": 24454136,
+            "name": "犬蛾灯里KengaAkari",
+            "group": "hOuOu_Project",
+            "description": "搬家了，新家@阿卡莉Akari，这里是坟头，可以听歌，但不要蹦迪",
+            "face": "https://i2.hdslb.com/bfs/face/dbe2a40959c74ab13316debab4f0883de3cc0254.jpg"
+        },
+        {
+            "uid": 612823436,
+            "room": 22330815,
+            "name": "白鸟Asuta_Channel",
+            "group": "hOuOu_Project",
+            "description": "hOuOu虚拟艺人团体成员。就像是打开菠萝汽水的那一瞬间~ 商务：houou_project@163.com ",
+            "face": "https://i2.hdslb.com/bfs/face/9b768b11fd0080c3826aaa1ab3a6cc0ef6e0d74a.jpg"
+        },
+        {
+            "uid": 1202416628,
+            "room": 24255210,
+            "name": "眠特Mint",
+            "group": "hOuOu_Project",
+            "description": "hOuOu虚拟艺人团体成员。直播安排见置顶动态~商务：houou_project@163.com",
+            "face": "https://i2.hdslb.com/bfs/face/03ca68df93fd6dd88a6229db02df48d4b70b8464.jpg"
+        },
+        {
+            "uid": 2114905950,
+            "room": 24145047,
+            "name": "石榴ZaKuRo_Channel",
+            "group": "hOuOu_Project",
+            "description": "不被定义的新·昭和宅女偶像，在此！平时一生悬命打工中！晚上活动！hOuOu虚拟艺人团体成员。商务：houou_project@163.com",
+            "face": "https://i0.hdslb.com/bfs/face/b29f7e118b794158b06b86d1ae759f08c8f1d287.jpg"
+        },
+        {
+            "uid": 1381403831,
+            "room": 24488842,
+            "name": "索托斯Sothoth",
+            "group": "hOuOu_Project",
+            "description": "hOuOu虛拟艺人团体成员。构成怪诞的谎言与妄想。商务：houou_project@163.com【人财两空cp头子】",
+            "face": "https://i2.hdslb.com/bfs/face/a19cad9f15b472114e47315a8f70e3eba9ba2a8b.jpg"
+        },
+        {
+            "uid": 2064389464,
+            "room": 25669748,
+            "name": "芋言Lila",
+            "group": "hOuOu_Project",
+            "description": "hOuOu虚拟艺人团体成员。「听完这首歌，要陪我回月宫种芋头吗？」 商务：houou_project@163.com",
+            "face": "https://i1.hdslb.com/bfs/face/15ea0424a9868b0fe995e4694d2d366ea1570944.jpg"
+        },
+        {
+            "uid": 2064099563,
+            "room": 24762598,
+            "name": "茂Sigeru",
+            "group": "hOuOu_Project",
+            "description": "hOuOu虚拟艺人团体成员。 在星空的舞台下放声歌唱—— 商务：houou_project@163.com",
+            "face": "https://i2.hdslb.com/bfs/face/7ba205eb42fe9b336e6e92b3958442f22c4360d6.jpg"
+        },
+        {
+            "uid": 1267348553,
+            "room": 24223148,
+            "name": "蜜瓜Melo_Channel",
+            "group": "hOuOu_Project",
+            "description": "hOuOu虚拟艺人团体成员。“我走得很慢，但绝不后退。”商务：houou_project@163.com",
+            "face": "https://i2.hdslb.com/bfs/face/76977294534bfbea7ff8379b8f4b11141502df6a.jpg"
+        },
+        {
+            "uid": 1326080431,
+            "room": 24792424,
+            "name": "赤伞kasa",
+            "group": "hOuOu_Project",
+            "description": "hOuOu虚拟艺人团体成员。-怪谈里流淌着二十一种情绪，没有一种是餍足-商务：houou_project@163.com",
+            "face": "https://i1.hdslb.com/bfs/face/4fa2c011435f4e23eec01c583a40acbf9f540191.jpg"
+        },
+        {
+            "uid": 1573017790,
+            "room": 23904225,
+            "name": "野野垣蓝理",
+            "group": "hOuOu_Project",
+            "description": "hOuOu虚拟艺人团体成员。「宇宙虽有开端，却没有终结，無限。」商务：houou_project@163.com",
+            "face": "https://i1.hdslb.com/bfs/face/af455e40e546a46c27f8f4bf7eb6690ee859feea.jpg"
+        },
+        {
+            "uid": 3493075747867553,
+            "room": 26312997,
+            "name": "青月AO",
+            "group": "hOuOu_Project",
+            "description": "hOuOu虚拟艺人团体成员。   嗷嗷嗷嗷嗷嗷呜呜呜呜      商务：houou_project@163.com",
+            "face": "https://i2.hdslb.com/bfs/face/f87b07f09d4e9c3c9663129891310d1febcdda67.jpg"
+        },
+        {
+            "uid": 1550656130,
+            "room": 24492970,
+            "name": "鹿卡上学不迟到",
+            "group": "hOuOu_Project",
+            "description": "hOuOu虚拟艺人团体成员。这孩子打小就聪明！现就读于厚欧高中！联动/商务：houou_project@163.com",
+            "face": "https://i2.hdslb.com/bfs/face/ed70629511c364e2c84eeecd3f78e23a86cf75b5.jpg"
+        }
+    ]
+}

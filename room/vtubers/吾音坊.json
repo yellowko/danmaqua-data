@@ -1,0 +1,39 @@
+{
+    "version": 2,
+    "name": "吾音坊",
+    "title": "吾音坊",
+    "data": [
+        {
+            "uid": 3493083742210681,
+            "room": 26805080,
+            "name": "吾音-宫雅",
+            "group": "吾音坊",
+            "description": "我是宫雅，吾音乐团的队长，请大家多多关照",
+            "face": "https://i1.hdslb.com/bfs/face/86574ef912d4ef71c4a0c48e9e4ac6531266609d.jpg"
+        },
+        {
+            "uid": 3493105508550977,
+            "room": 26863985,
+            "name": "吾音-徵呛呛",
+            "group": "吾音坊",
+            "description": "哈喽，我是徵呛呛，不是徽呛呛，也不是微呛呛哦~",
+            "face": "https://i2.hdslb.com/bfs/face/8c71f5cae60818432856ad36f4cee1aaf62d6115.jpg"
+        },
+        {
+            "uid": 3493108442466769,
+            "room": 26863991,
+            "name": "吾音-羽真",
+            "group": "吾音坊",
+            "description": "我真的是真的羽真...",
+            "face": "https://i1.hdslb.com/bfs/face/b0dff7ce3fee85cbeeb39ca1a2a73b36597924eb.jpg"
+        },
+        {
+            "uid": 3493093668031093,
+            "room": 26864017,
+            "name": "吾音-角鸣",
+            "group": "吾音坊",
+            "description": "欢迎诸位来此，角鸣在此谢过~",
+            "face": "https://i1.hdslb.com/bfs/face/0f0d4263c3e2be3bd788cb4a67b448d56cede707.jpg"
+        }
+    ]
+}

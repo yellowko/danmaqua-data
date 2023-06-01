@@ -1,0 +1,15 @@
+{
+    "version": 2,
+    "name": "VGaming",
+    "title": "VGaming",
+    "data": [
+        {
+            "uid": 13479495,
+            "room": 21568673,
+            "name": "姹萝搬运人",
+            "group": "VGaming",
+            "description": "搬运哦？如果可能的话可能会将现在的视频搬过来.jpg",
+            "face": "http://i0.hdslb.com/bfs/face/28470bfecfc5bb7bdc0f1595417e4b05793bb1a0.jpg"
+        }
+    ]
+}

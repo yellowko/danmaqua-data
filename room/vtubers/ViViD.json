@@ -1,0 +1,23 @@
+{
+    "version": 2,
+    "name": "ViViD",
+    "title": "ViViD",
+    "data": [
+        {
+            "uid": 487550002,
+            "room": 21811136,
+            "name": "猫芒ベル_Official",
+            "group": "ViViD",
+            "description": " ViViD所属的Vtuber。见习魔女。‍#猫芒照相馆#",
+            "face": "https://i1.hdslb.com/bfs/face/652385c47e4742b6e26e19995a2407c83756b1f7.jpg"
+        },
+        {
+            "uid": 421347849,
+            "room": 21415012,
+            "name": "白百合リリィOfficial",
+            "group": "ViViD",
+            "description": "ViViD所属，不管是你们还是money都最喜欢的守财天使！字幕组审核群685228392",
+            "face": "http://i0.hdslb.com/bfs/face/236f74251b9ac820908db1e0d2f09d46057cb7fe.jpg"
+        }
+    ]
+}

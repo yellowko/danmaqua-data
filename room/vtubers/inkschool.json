@@ -1,0 +1,71 @@
+{
+    "version": 2,
+    "name": "inkschool",
+    "title": "inkschool",
+    "data": [
+        {
+            "uid": 479689815,
+            "room": 21684058,
+            "name": "InkSchool",
+            "group": "inkschool",
+            "description": "Ink School企划官方账号。一切以平和的态度去对待。",
+            "face": "http://i0.hdslb.com/bfs/face/ddf5dfa3c610a72e031c8062abd29f8683fe8dcc.jpg"
+        },
+        {
+            "uid": 52859361,
+            "room": 4457411,
+            "name": "恋和_Koi",
+            "group": "inkschool",
+            "description": "到底还要经历多少，我才可以成为最棒的主角?我会的。",
+            "face": "https://i0.hdslb.com/bfs/face/9352371bada38b2d311c75e4ea1adedc3aaa51fb.jpg"
+        },
+        {
+            "uid": 8492335,
+            "room": 811216,
+            "name": "日向葵_Aoi",
+            "group": "inkschool",
+            "description": "日向葵/咸咸かれん，紫外线过敏的葵花精，兴趣使然的翻唱/绘画爱好者，始于热情。我是超级大阴角",
+            "face": "https://i1.hdslb.com/bfs/face/b11c817ef42dae136fa0aa4743221459a4361a4d.jpg"
+        },
+        {
+            "uid": 10999516,
+            "room": 22471477,
+            "name": "染瞳__official",
+            "group": "inkschool",
+            "description": "米兰诺普斯所属，双性医疗人偶染瞳。今夜鸢塔之门为您打开。",
+            "face": "https://i1.hdslb.com/bfs/face/61b38e72033de733401c2b89bc227b417f8a1488.jpg"
+        },
+        {
+            "uid": 4537059,
+            "room": 80184,
+            "name": "相沢光_Hikari",
+            "group": "inkschool",
+            "description": "你好，我是相沢光，是一名侦探，感谢大家的相伴！さよなら！",
+            "face": "https://i0.hdslb.com/bfs/face/61486b7b839ada61fda3e54b95a00c3bdc4d12db.jpg"
+        },
+        {
+            "uid": 113956408,
+            "room": 7410193,
+            "name": "蒲夏绫九",
+            "group": "inkschool",
+            "description": "个人势vup橘猫～欢迎来入我猫猫教(≧ω≦)粉丝群：1139282150",
+            "face": "https://i1.hdslb.com/bfs/face/344f7aa7682b96994c7ff6861fa6b3a18c05028c.jpg"
+        },
+        {
+            "uid": 31093572,
+            "room": 5341853,
+            "name": "阿尤里Ayu",
+            "group": "inkschool",
+            "description": "个人势小恶魔阿尤里，希望可以给大家带来片刻的宁静。交流群：517575061",
+            "face": "https://i0.hdslb.com/bfs/face/73f6d92445ecbfc6dbd2aff2611476dfb5f756e1.jpg"
+        },
+        {
+            "uid": 32344331,
+            "room": 343638,
+            "name": "鸩_zzz",
+            "group": "inkschool",
+            "description": "鸩，一般路过肉食爱好者。群：635826789",
+            "face": "https://i2.hdslb.com/bfs/face/e7dcd36f1a45cc790ac6dac1b7554c277f0dd87e.jpg"
+        }
+    ]
+}

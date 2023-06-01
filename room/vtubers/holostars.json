@@ -1,0 +1,31 @@
+{
+    "version": 2,
+    "name": "holostars",
+    "title": "holostars",
+    "data": [
+        {
+            "uid": 350631685,
+            "room": 13009645,
+            "name": "Rikka搬运号",
+            "group": "holostars",
+            "description": "律可（Rikka）的非官方搬运站！\n※本账号已关闭视频收益化。",
+            "face": "https://i0.hdslb.com/bfs/face/member/noface.jpg"
+        },
+        {
+            "uid": 551114700,
+            "room": 22171183,
+            "name": "阿尔兰蒂斯Official",
+            "group": "holostars",
+            "description": "holostars所属一期生，喜欢披萨和肉肉的意大利人。担当画师：lack",
+            "face": "http://i0.hdslb.com/bfs/face/f25615045fb5363f6fe5d9bfde5b15c6ba49cf2e.jpg"
+        },
+        {
+            "uid": 551114698,
+            "room": 22171189,
+            "name": "阿斯特尔瑞达Official",
+            "group": "holostars",
+            "description": "holostars所属二期生，来侵略地球的外星人。担当画师：中村エイト",
+            "face": "http://i1.hdslb.com/bfs/face/9c41ed50cc15b103f82765089d830e96a9e925d8.jpg"
+        }
+    ]
+}

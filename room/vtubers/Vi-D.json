@@ -1,0 +1,231 @@
+{
+    "version": 2,
+    "name": "Vi-D",
+    "title": "Vi-D",
+    "data": [
+        {
+            "uid": 209306657,
+            "room": 9538065,
+            "name": "奈克斯Nex",
+            "group": "Vi-D",
+            "description": "群1053121462 复播中",
+            "face": "https://i2.hdslb.com/bfs/face/488cf120f3b54a263cd2d99d6eb24e2bab671a6f.jpg"
+        },
+        {
+            "uid": 356957842,
+            "room": 21533123,
+            "name": "Yog犹格",
+            "group": "Vi-D",
+            "description": "这里是犹格，请多指教！",
+            "face": "https://i1.hdslb.com/bfs/face/6685817b67875f7bfb804de5d0d842d0f951ce8f.jpg"
+        },
+        {
+            "uid": 4280541,
+            "room": 454154,
+            "name": "七海幽娴Official",
+            "group": "Vi-D",
+            "description": "✈️虚拟飞行员七海幽娴,湛蓝苍穹的守护天使,颂赞无限希望的未来! <画师: Eir;希卡Shika.><ViD鸽舍社员>",
+            "face": "https://i0.hdslb.com/bfs/face/72355bcd570086e7e17957b9470b409731375a10.jpg"
+        },
+        {
+            "uid": 894610,
+            "room": 109860,
+            "name": "包子侯爵",
+            "group": "Vi-D",
+            "description": "非主流小圈子中生活的虚拟主播。Virtual Dove 鸽舍100期生 音游科技技术区 Stay Awesome~",
+            "face": "https://i1.hdslb.com/bfs/face/8cbe05937f8d9c07fcf49ffc90269062fefe57a5.jpg"
+        },
+        {
+            "uid": 18275424,
+            "room": 11338847,
+            "name": "吃粽子的大粽子",
+            "group": "Vi-D",
+            "description": "性别？别问！问就是futa！元气满满的超速vup(神秘代码828814133)  pixiv: @吃粽子的大粽子",
+            "face": "https://i0.hdslb.com/bfs/face/998397df5280f0796081a39cbe55d06b65583795.jpg"
+        },
+        {
+            "uid": 475052410,
+            "room": 21627660,
+            "name": "小青草Official",
+            "group": "Vi-D",
+            "description": "憨憨草，说草不说早，呆毛要不保！直播内容：唱歌、读书、杂谈、绘画",
+            "face": "https://i1.hdslb.com/bfs/face/cdc070b6eee986ac1869e5b99e5e5d34a193e293.jpg"
+        },
+        {
+            "uid": 7064077,
+            "room": 207869,
+            "name": "影奈音绪Neo",
+            "group": "Vi-D",
+            "description": "＜虚研学园＞个兔势帕里单推系✨目标是拥有2w粉或50舰！！联动＆合作欢迎私信✨\n等一个舰长都没时就毕业趴",
+            "face": "https://i1.hdslb.com/bfs/face/6ff5b2524dac0605b9b0c221286a3005d9e9e6ef.jpg"
+        },
+        {
+            "uid": 2542009,
+            "room": 823077,
+            "name": "摸鱼拾柒柒",
+            "group": "Vi-D",
+            "description": "",
+            "face": "https://i1.hdslb.com/bfs/face/88a04a4731357134629d8fc21cd74bc02255ab22.jpg"
+        },
+        {
+            "uid": 487304729,
+            "room": 21723891,
+            "name": "星月凛channel",
+            "group": "Vi-D",
+            "description": "Hi~Hi~这里是Virtual Dove居民星月凛~~是バ美肉松鼠，喜欢虚拟歌姬！唔唔，我这么可爱点个关注再走嘛w~",
+            "face": "http://i2.hdslb.com/bfs/face/837d8cc74692c40230bb011bfd459725edab0687.jpg"
+        },
+        {
+            "uid": 10046401,
+            "room": 4167082,
+            "name": "綿飴Wataame",
+            "group": "Vi-D",
+            "description": "练画画的傻子",
+            "face": "https://i1.hdslb.com/bfs/face/ff8861670d1f3d65b9176279dec96e3504a1aa2b.jpg"
+        },
+        {
+            "uid": 50980433,
+            "room": 2058508,
+            "name": "醋泡栗",
+            "group": "Vi-D",
+            "description": "「Virtual Dove 100期生」 好好唱歌 少管闲事 独当一面。",
+            "face": "https://i2.hdslb.com/bfs/face/b9674aa077845e39d7877ab9170ff916cab7e9c6.jpg"
+        },
+        {
+            "uid": 373263,
+            "room": 709219,
+            "name": "犬神汪汪",
+            "group": "Vi-D",
+            "description": "汪汪汪~！",
+            "face": "https://i0.hdslb.com/bfs/face/11ae6efe0ec42302c43942a97ad838e3658e8de3.jpg"
+        },
+        {
+            "uid": 12348934,
+            "room": 956114,
+            "name": "浅蓝-血余_Official",
+            "group": "Vi-D",
+            "description": "浮舟轻入梦，枕风至南柯/ Vid鸽舍&纸片人计划所属，有个闲聊小群：1042357477，感谢支持！",
+            "face": "https://i1.hdslb.com/bfs/face/bc7036c31a7825da8f0f056ca2e46f63ae9b1d84.jpg"
+        },
+        {
+            "uid": 4613840,
+            "room": 62462,
+            "name": "希洛Shiro_",
+            "group": "Vi-D",
+            "description": "<Virtual Dove>个猫势，是白毛猫猫~",
+            "face": "https://i2.hdslb.com/bfs/face/72f95842f42f296a4d5bef2f136431965e694434.jpg"
+        },
+        {
+            "uid": 151702,
+            "room": 6517607,
+            "name": "理曦明火",
+            "group": "Vi-D",
+            "description": "额，普通虚拟人一个",
+            "face": "https://i1.hdslb.com/bfs/face/06fac0e150a69c4bafa4a8e33c380f383b794a93.jpg"
+        },
+        {
+            "uid": 5710594,
+            "room": 4858390,
+            "name": "由季Yuki",
+            "group": "Vi-D",
+            "description": "随缘直播型由季，小窝:1073708502，联动请私信～",
+            "face": "https://i1.hdslb.com/bfs/face/96a2657b5e163eb15849b0349c15d25728299ec4.jpg"
+        },
+        {
+            "uid": 7780379,
+            "room": 428571,
+            "name": "知更ちゃん",
+            "group": "Vi-D",
+            "description": "【个人势VUP】希望有一天，我的声音能传到更远的地方.･*’’*･. ⸝꙳\n\n交流群646094676 ✞ 合作请私信",
+            "face": "https://i2.hdslb.com/bfs/face/f58e7303bb00a079e31d2ff3ffd8d08552ecb224.jpg"
+        },
+        {
+            "uid": 18055906,
+            "room": 11851558,
+            "name": "神宫镜子",
+            "group": "Vi-D",
+            "description": "【Virtual dove11期生】魂游爱好者",
+            "face": "https://i1.hdslb.com/bfs/face/a2f1c8d0fde221bddc6db1001eea80682c228a6e.jpg"
+        },
+        {
+            "uid": 3375371,
+            "room": 10801,
+            "name": "竹菇笙Official",
+            "group": "Vi-D",
+            "description": "无性别荪菇，单机游戏势Vup，直播通知群：682978613，养菇场：661966455 。希望能努力给大家安心跟欢乐w",
+            "face": "https://i2.hdslb.com/bfs/face/f2e87eebe270d59d28db1c8bb579078bb63fd57d.jpg"
+        },
+        {
+            "uid": 546968968,
+            "room": 22294737,
+            "name": "翎Lynne",
+            "group": "Vi-D",
+            "description": "【纸片人计划所属】拯救绝望终局的阴影术师。",
+            "face": "https://i1.hdslb.com/bfs/face/f524d68cae85e715b53d42730f69f373d7ed4b57.jpg"
+        },
+        {
+            "uid": 484981678,
+            "room": 21733132,
+            "name": "艾斯特_official",
+            "group": "Vi-D",
+            "description": "这里是一个除了玩游戏什么都会的游戏区up\n聊天群:729442118",
+            "face": "http://i1.hdslb.com/bfs/face/adf06a2eab2680f234f30d5301aba0b59fe7bd50.jpg"
+        },
+        {
+            "uid": 79415186,
+            "room": 22115361,
+            "name": "零空-Zero-",
+            "group": "Vi-D",
+            "description": "鸽舍所属Staff一位，三项全不能的十八线一体机‍(｀・ω・´) 群号1042275357可以来玩呀",
+            "face": "https://i2.hdslb.com/bfs/face/9fd8bba883caea3df2362abdf73cedb473d1a2cc.jpg"
+        },
+        {
+            "uid": 5628025,
+            "room": 3948864,
+            "name": "茶羽沫",
+            "group": "Vi-D",
+            "description": "记住我就好，或者说，能记住就好。",
+            "face": "https://i1.hdslb.com/bfs/face/3aad936d2e684e3caa1b8589519e18f92ac53316.jpg"
+        },
+        {
+            "uid": 59672668,
+            "room": 12536829,
+            "name": "RaiS_X",
+            "group": "Vi-D",
+            "description": "【中丨粤VUP准备中】我的心剧烈跳动起来。",
+            "face": "https://i1.hdslb.com/bfs/face/f373e9f321a101953528ed43183830ce0f570398.jpg"
+        },
+        {
+            "uid": 3057684,
+            "room": 516338,
+            "name": "幸祐树_Yuki",
+            "group": "Vi-D",
+            "description": "个人势虚拟主播，是一名普通的中学男生✧٩(ˊωˋ*)و✧不要老把我认成是女孩子！！！箱庭咖啡：946496642",
+            "face": "https://i0.hdslb.com/bfs/face/353ce3f9a74c8a7bc19f7a269dea2de1e898dac3.jpg"
+        },
+        {
+            "uid": 296133,
+            "room": 126370,
+            "name": "乐园的骆驼巫",
+            "group": "Vi-D",
+            "description": "游戏区屎尿屁up主，职业通下水，应援群→256431964 ",
+            "face": "https://i0.hdslb.com/bfs/face/0b770038403b78e51c797c86e5cd695df60c33a0.jpg"
+        },
+        {
+            "uid": 14131991,
+            "room": 2559734,
+            "name": "鱼兔子哒哟Official",
+            "group": "Vi-D",
+            "description": "首席摸鱼大师  自闭社恐套皮人 不是v 直播随缘 \n没动静就是在摸鱼或在看美少女",
+            "face": "https://i2.hdslb.com/bfs/face/0cffd53d30a1be3947dee77584e4a9f195368ddb.jpg"
+        },
+        {
+            "uid": 308459,
+            "room": 140953,
+            "name": "龙崎Ryuz4k1",
+            "group": "Vi-D",
+            "description": "生来为了出众 何必费力合群 /FPS爱好者/微博@龙崎_Ryuz4k1/商业合作V:Ryuz4k1",
+            "face": "https://i2.hdslb.com/bfs/face/505b03475cf9f396917a095fdf424a71a341e2a8.jpg"
+        }
+    ]
+}

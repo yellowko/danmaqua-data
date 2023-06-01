@@ -1,0 +1,47 @@
+{
+    "version": 2,
+    "name": "光年神话",
+    "title": "光年神话",
+    "data": [
+        {
+            "uid": 487402608,
+            "room": 26336970,
+            "name": "托尔赛斯Taurus",
+            "group": "光年神话",
+            "description": "【光年神话·十二宫企划所属】对我的歌声说“yes”或者“汪”~",
+            "face": "https://i0.hdslb.com/bfs/face/233a61d090eb45de657f0d915e0e54ec7f780ca0.jpg"
+        },
+        {
+            "uid": 1584039005,
+            "room": 24954295,
+            "name": "星见汐娅",
+            "group": "光年神话",
+            "description": "【光年神话 十二宫企划所属】水瓶座。\n直播时间 星期一:上午10:00-12:00。星期二到星期六:22:00-24:00。周日休息。",
+            "face": "https://i2.hdslb.com/bfs/face/734e8fff35d2911e30796629c0b712c2653c68f0.jpg"
+        },
+        {
+            "uid": 324897535,
+            "room": 25497805,
+            "name": "柯罗诺斯Chronus",
+            "group": "光年神话",
+            "description": "❖降临于病弱少女之身\n——失落纪元的时间之神❖\n▹随心所欲、不被定义、快乐是唯一主题◃\n直播时间：每天21:30-23:30 周二休息\n",
+            "face": "https://i1.hdslb.com/bfs/face/afb27e197f1a0182c9f66fac2e377ee6edbafc8d.jpg"
+        },
+        {
+            "uid": 473244363,
+            "room": 22992234,
+            "name": "蕾尔娜Leona",
+            "group": "光年神话",
+            "description": "未来一起前进吧！微博『蕾尔娜呀』商务私信\n",
+            "face": "https://i0.hdslb.com/bfs/face/5ebe2e61dc5b65d563df6bd7437870c7badc2384.jpg"
+        },
+        {
+            "uid": 2006452883,
+            "room": 24778741,
+            "name": "路希维德Wiede",
+            "group": "光年神话",
+            "description": "【光年神话·十二宫企划所属】谢谢你喜欢我，商务+v：leierna2333",
+            "face": "https://i2.hdslb.com/bfs/face/1d86fb262a08dae1ee86a01e7387e78aef7482c7.jpg"
+        }
+    ]
+}
