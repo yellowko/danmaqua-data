@@ -1,0 +1,615 @@
+{
+    "version": 2,
+    "name": "NIJISANJI",
+    "title": "NIJISANJI",
+    "data": [
+        {
+            "uid": 441666968,
+            "room": 21501731,
+            "name": "德比鲁Official",
+            "group": "NIJISANJI",
+            "description": "沉迷于百合小说和冰淇淋的恶魔德比德比・德比鲁",
+            "face": "http://i2.hdslb.com/bfs/face/49579d24e5620c6d0e66e51c6c8eb80b66a3e446.jpg"
+        },
+        {
+            "uid": 452100632,
+            "room": 22361551,
+            "name": "阿露丝的脸部消肿院",
+            "group": "NIJISANJI",
+            "description": "にじさんじ所属阿露丝•阿尔玛的非公式搬运组，依照彩虹社二创条例搬运  \n单推群:193094779  长期吃人：697364349",
+            "face": "https://i2.hdslb.com/bfs/face/6538f3dd7d79da4dce3505f7f3b1c61a345f9818.jpg"
+        },
+        {
+            "uid": 628292888,
+            "room": 22543148,
+            "name": "阿露丝Official",
+            "group": "NIJISANJI",
+            "description": "",
+            "face": "http://i0.hdslb.com/bfs/face/member/noface.jpg"
+        },
+        {
+            "uid": 458154143,
+            "room": 21575228,
+            "name": "安洁Official",
+            "group": "NIJISANJI",
+            "description": "久等了，是不是等很久啦？你们好，我是美少女炼金术师安洁。想要炼成恋人的话，就先做好失去一只手的心理准备吧。",
+            "face": "http://i2.hdslb.com/bfs/face/61729ccd8c03cd3b3d98030629409c28620607dd.jpg"
+        },
+        {
+            "uid": 457885809,
+            "room": 22432588,
+            "name": "艾莉柯妮法的妖精公馆",
+            "group": "NIJISANJI",
+            "description": "休养中的2434所属花之妖精艾莉•柯妮法非官方字幕组根据彩虹社二创条例进行搬运 粉丝群：617888898 ",
+            "face": "https://i0.hdslb.com/bfs/face/b9f54f8a968a2b486e1a3d0fe410f658a0df25d9.jpg"
+        },
+        {
+            "uid": 477780496,
+            "room": 21656036,
+            "name": "修女克蕾雅Official",
+            "group": "NIJISANJI",
+            "description": "为了治愈身心疲惫的你而直播的哟。平时的直播内容以杂谈和唱歌为主。我会努力「治愈」大家的！",
+            "face": "http://i1.hdslb.com/bfs/face/82b25d9a9fd0f14e934822d35b16b409a25b32c4.jpg"
+        },
+        {
+            "uid": 441666967,
+            "room": 21501730,
+            "name": "贝尔蒙德Official",
+            "group": "NIJISANJI",
+            "description": "大家\"Ban\"上好!にじさんじ公式バーチャルライバー、ベルモンド・バンデラスと申します。欢迎你。",
+            "face": "http://i1.hdslb.com/bfs/face/92e12cc889dd140247ce1992b02608ce0d18d8e3.jpg"
+        },
+        {
+            "uid": 434563934,
+            "room": 21449068,
+            "name": "叶Official",
+            "group": "NIJISANJI",
+            "description": "我是NIJISANJI的虚拟主播叶！我喜欢玩游戏，希望能和大家一起享受乐趣！",
+            "face": "http://i2.hdslb.com/bfs/face/f1488328cdf862052eee235672fbee6fa5e98242.jpg"
+        },
+        {
+            "uid": 1809637,
+            "room": 14713062,
+            "name": "小熊猫家的电视机",
+            "group": "NIJISANJI",
+            "description": "【备用转播台：7115949、8034362】【ラトナ・プティ】搬运，非公式，组交流群570272871，粉丝群：709610918",
+            "face": "https://i1.hdslb.com/bfs/face/6a725ca452ac8d2da7b4c2f9512f5c638d9e7a7e.jpg"
+        },
+        {
+            "uid": 263238,
+            "room": 836535,
+            "name": "三枝明那搬运组",
+            "group": "NIJISANJI",
+            "description": "【三枝明那非公式搬运组】粉丝交流群498815822  烤肉工作群938757063 ",
+            "face": "https://i0.hdslb.com/bfs/face/0e96c46e6eca969026fedf55c456b2d3d8f3a41d.jpg"
+        },
+        {
+            "uid": 38337667,
+            "room": 13207721,
+            "name": "东堂琥珀的蜜罐",
+            "group": "NIJISANJI",
+            "description": "审核群 1137712748 粉丝群 1059283474  网易云电台「东堂琥珀的蜜罐」",
+            "face": "https://i1.hdslb.com/bfs/face/06301052dae279b5898d7ba2b2196dd78b8d8ca9.jpg"
+        },
+        {
+            "uid": 690608708,
+            "room": 23465043,
+            "name": "伊卜拉新Official",
+            "group": "NIJISANJI",
+            "description": "NIJISANJI所属虚拟主播。イブラヒム/Ibrahim/伊卜拉新",
+            "face": "https://i2.hdslb.com/bfs/face/0043213e73cf72222e172fad6d6427c60345186d.jpg"
+        },
+        {
+            "uid": 386764545,
+            "room": 15092246,
+            "name": "健屋花那的诊疗所",
+            "group": "NIJISANJI",
+            "description": "にじさんじ所属健屋花那官方字幕组 审核群：130161226",
+            "face": "https://i0.hdslb.com/bfs/face/92465b1d6ce2882231e7b9d7b1dfb3d2766c149f.jpg"
+        },
+        {
+            "uid": 666726798,
+            "room": 22470179,
+            "name": "健屋花那_Official",
+            "group": "NIJISANJI",
+            "description": "NIJISANJI所属虚拟主播。健屋花那/Kana Sukoya",
+            "face": "http://i0.hdslb.com/bfs/face/03e9834ce24b15d3e276f685f04654cf08a0dbe5.jpg"
+        },
+        {
+            "uid": 104561147,
+            "room": 12008500,
+            "name": "先斗宁的烤蓝莓饼摊",
+            "group": "NIJISANJI",
+            "description": "先斗宁非公式搬运组，急募翻译/校对/剪辑。有意请加群：478125169，拉拉裤不拉裤（粉丝群）：622525590",
+            "face": "https://i2.hdslb.com/bfs/face/6053aff08deb32204121b6bc13050aaee0f73023.jpg"
+        },
+        {
+            "uid": 595407556,
+            "room": 22376018,
+            "name": "利维Official",
+            "group": "NIJISANJI",
+            "description": "にじさんじ所属レヴィ・エリファでス！ お父様は魔物 お母様は人間 の亜人だゾウ",
+            "face": "http://i1.hdslb.com/bfs/face/3b15c9ab87819f7cfc4094daf8efd52813350dea.jpg"
+        },
+        {
+            "uid": 666726795,
+            "room": 22470168,
+            "name": "加贺美隼人Official",
+            "group": "NIJISANJI",
+            "description": "NIJISANJI所属虚拟主播。加賀美ハヤト/Hayato Kagami/加贺美隼人",
+            "face": "https://i0.hdslb.com/bfs/face/9ea4a897f721dff9d0794bb743e55250343f7b92.jpg"
+        },
+        {
+            "uid": 1660351669,
+            "room": 23368615,
+            "name": "劳伦伊罗斯的通缉名单",
+            "group": "NIJISANJI",
+            "description": "にじさんじ所属劳伦·伊罗斯非公式搬运组，长期招收轴翻剪校美后转，审核群970085480",
+            "face": "https://i1.hdslb.com/bfs/face/1b430a088d707b1b0b5e04930c14351ef033a615.jpg"
+        },
+        {
+            "uid": 123012539,
+            "room": 22464832,
+            "name": "北小路翡翠的糖果屋",
+            "group": "NIJISANJI",
+            "description": "堂堂正正的比赛开始！粉丝群：828261531  搬运组：477977515",
+            "face": "https://i2.hdslb.com/bfs/face/5defc78025eff8e59c4523f9ee9121c890ed3841.jpg"
+        },
+        {
+            "uid": 662550612,
+            "room": 22532331,
+            "name": "周央珊瑚的帕恰狗乐园",
+            "group": "NIJISANJI",
+            "description": "周央サンゴ非官方搬运，长期招收翻校美，审核群1080538010，粉丝群730298382",
+            "face": "https://i0.hdslb.com/bfs/face/932242d16a6253c57cc85f5409e3ae8b124c82e6.jpg"
+        },
+        {
+            "uid": 595407555,
+            "room": 22376014,
+            "name": "多拉Official",
+            "group": "NIJISANJI",
+            "description": "よう人間ども！ファイアードレイクのドーラじゃよ～！今日もいいことありますように！",
+            "face": "http://i0.hdslb.com/bfs/face/20c7cc8848784535fa914f1f0f94d8d3e411b48d.jpg"
+        },
+        {
+            "uid": 390967949,
+            "room": 21147122,
+            "name": "火龙地下城的烤肉店",
+            "group": "NIJISANJI",
+            "description": "指路→多拉official长期招收剪辑，翻译，时轴，校对。搬运组审核群号：770262525粉丝群号：342369586",
+            "face": "http://i2.hdslb.com/bfs/face/0063ac78bc4bb89599dd6d9b65e18837d44d1014.jpg"
+        },
+        {
+            "uid": 628292890,
+            "room": 22543160,
+            "name": "夜见蕾娜Official",
+            "group": "NIJISANJI",
+            "description": "NIJISANJI所属虚拟主播夜见蕾娜。夜見れな/Rena Yorumi/夜见蕾娜",
+            "face": "http://i1.hdslb.com/bfs/face/99e6ae43890b8f8ec483dcb06decfb898e3d31cf.jpg"
+        },
+        {
+            "uid": 477780499,
+            "room": 21656050,
+            "name": "梦月萝娅Official",
+            "group": "NIJISANJI",
+            "description": "噢！噢！NIJISANJI所属的萝娅呐喏哒！为了对人类搞恶作剧从魔界来的恶魔呐喏哒！在人间每天和大家一起玩游戏聊天喏哒！",
+            "face": "http://i1.hdslb.com/bfs/face/8d097b0a2e7c889a877fd631630f35bd339b3b1f.jpg"
+        },
+        {
+            "uid": 511613154,
+            "room": 21908182,
+            "name": "梦追翔Official",
+            "group": "NIJISANJI",
+            "description": "我是虚拟创作歌手，梦追翔!",
+            "face": "http://i0.hdslb.com/bfs/face/f0b1d968e4b71cf4dfb40d3fbf5f52fab6039fb0.jpg"
+        },
+        {
+            "uid": 488976342,
+            "room": 22324250,
+            "name": "天宫心的新新人搬运",
+            "group": "NIJISANJI",
+            "description": "遵循彩虹二创条例成立之あまみや搬运组（非官方/二度）。审核群599085602。粉丝群771321001",
+            "face": "https://i0.hdslb.com/bfs/face/8098e5f6e443a9fdecefeee2a33a23523787aa32.jpg"
+        },
+        {
+            "uid": 690608699,
+            "room": 23465036,
+            "name": "天宫心Official",
+            "group": "NIJISANJI",
+            "description": "NIJISANJI所属虚拟主播。天宮こころ/あまみやこころ/天宫心",
+            "face": "https://i2.hdslb.com/bfs/face/a0f2a89a81c2cf7620c929c4d9665c1cc1b05a03.jpg"
+        },
+        {
+            "uid": 436596837,
+            "room": 21463227,
+            "name": "家长麦Official",
+            "group": "NIJISANJI",
+            "description": "我是NIJISANJI的家长麦！来和我交朋友，一起玩吧~我随时等着大家！",
+            "face": "http://i0.hdslb.com/bfs/face/8846f1ad82201653b223041c71e6f53775ad3da8.jpg"
+        },
+        {
+            "uid": 35958802,
+            "room": 22724917,
+            "name": "山神的天狗神社",
+            "group": "NIJISANJI",
+            "description": "山神组永远招剪轴翻校特 组号：494484171",
+            "face": "http://i1.hdslb.com/bfs/face/57184e213d7161983a3490c4d34f7b416146e1f8.jpg"
+        },
+        {
+            "uid": 436596838,
+            "room": 21463238,
+            "name": "御伽原江良Official",
+            "group": "NIJISANJI",
+            "description": "",
+            "face": "http://i1.hdslb.com/bfs/face/8c3fe8ee603a4a89088ecf0aa277b6e86e75eab9.jpg"
+        },
+        {
+            "uid": 458154142,
+            "room": 21575226,
+            "name": "戌亥床Official",
+            "group": "NIJISANJI",
+            "description": "歌うことが大好き！ケルベロスの戌亥とこです。",
+            "face": "http://i1.hdslb.com/bfs/face/d0d7d4cff558ed3c910e1cdc4efc59c193f4676a.jpg"
+        },
+        {
+            "uid": 595407554,
+            "room": 22376010,
+            "name": "摩伊拉Official",
+            "group": "NIJISANJI",
+            "description": "にじさんじ所属の運命を司る女神モイラ なのだわー！女神は食べることが好きなのでおすすめの中華料理を教えてほしいのだわー！",
+            "face": "http://i2.hdslb.com/bfs/face/fd9b9c59c8e515ca64f376cf72c103259774e95a.jpg"
+        },
+        {
+            "uid": 410542957,
+            "room": 22306697,
+            "name": "星川莎拉搬运",
+            "group": "NIJISANJI",
+            "description": "这里是星川莎拉搬运翻译组。我们长期招募剪辑、校对、美工等职位，欢迎有能人士加入！审核群号849936395",
+            "face": "https://i1.hdslb.com/bfs/face/ca4ed52c644d4c92cd72cee541e6bdb1b7968769.jpg"
+        },
+        {
+            "uid": 666726796,
+            "room": 22470212,
+            "name": "星川莎拉_Official",
+            "group": "NIJISANJI",
+            "description": "NIJISANJI所属虚拟主播。 星川サラ/Sara Hoshikawa/星川莎拉",
+            "face": "http://i1.hdslb.com/bfs/face/a6515b4f74f35d016eb56917517a785244096c4a.jpg"
+        },
+        {
+            "uid": 109891,
+            "room": 278936,
+            "name": "委员长杂鱼搬运",
+            "group": "NIJISANJI",
+            "description": "无情的烤肉机器，感谢各位组员和野生烤肉man。非公式杂鱼搬运，長期招募翻校剪1161238129囚人群545171261",
+            "face": "https://i1.hdslb.com/bfs/face/05b998452dbfa865ede630583b1825dacfeb60cc.jpg"
+        },
+        {
+            "uid": 690608703,
+            "room": 23465065,
+            "name": "朝日南茜Official",
+            "group": "NIJISANJI",
+            "description": "NIJISANJI所属虚拟主播。朝日南アカネ/Akane Asahina/朝日南茜",
+            "face": "https://i0.hdslb.com/bfs/face/b734478957b6c9620d5f2a022ed4818156a33a76.jpg"
+        },
+        {
+            "uid": 403928672,
+            "room": 21302477,
+            "name": "本间向日葵Official",
+            "group": "NIJISANJI",
+            "description": "我是本间向日葵！请多关照～！やぁやぁ(・ワ・)",
+            "face": "http://i2.hdslb.com/bfs/face/c2ed0abc0a9a47750ce64b60f3f81fc099f6f7b4.jpg"
+        },
+        {
+            "uid": 267382755,
+            "room": 14845842,
+            "name": "本間ひまわり搬运组",
+            "group": "NIJISANJI",
+            "description": "彩虹社阿葵(ひまわり)搬运，阿葵粉丝三群（硬核真爱群）949601003审核群304655325",
+            "face": "https://i0.hdslb.com/bfs/face/68d4d9bdb54542cb61cb01af4b8075ec7917d8ad.jpg"
+        },
+        {
+            "uid": 23760783,
+            "room": 497385,
+            "name": "柴卡的游戏王连锁军团",
+            "group": "NIJISANJI",
+            "description": "nijisanji所属虚拟主播花畑嘉依卡的未授权海盗搬运组缺轴缺剪辑缺翻译缺校对缺美工审核群:905860814 粉丝群:893654053",
+            "face": "http://i0.hdslb.com/bfs/face/dca0f147ee583399f7d7ccd1c4b7c31a86f33dae.jpg"
+        },
+        {
+            "uid": 690608707,
+            "room": 23465062,
+            "name": "梅丽莎・金莲花Official",
+            "group": "NIJISANJI",
+            "description": "NIJISANJI所属虚拟主播。",
+            "face": "https://i1.hdslb.com/bfs/face/331228e9c6ecd7f5499ae1cbc4e00a8b69f1d3c5.jpg"
+        },
+        {
+            "uid": 436596836,
+            "room": 21463224,
+            "name": "森中花咲Official",
+            "group": "NIJISANJI",
+            "description": "る〜るるる〜！にじさんじ所属バーチャルライバーの森中花咲です！billbill動画でも楽しく活動していきたいと思います！",
+            "face": "http://i2.hdslb.com/bfs/face/5161fbf4494ddedcd85dc16393f20d05b3d33793.jpg"
+        },
+        {
+            "uid": 403927583,
+            "room": 21302469,
+            "name": "椎名唯华Official",
+            "group": "NIJISANJI",
+            "description": "にじさんじ所属、高校１年、霊能力者です。",
+            "face": "http://i2.hdslb.com/bfs/face/3ae4408b6d6946d5867cf82a4c7a8568c6ae2da6.jpg"
+        },
+        {
+            "uid": 410455162,
+            "room": 21449061,
+            "name": "樋口枫Official",
+            "group": "NIJISANJI",
+            "description": "でろーんでろーんでろんはお！にじさんじ公式バーチャルライバ－の樋口楓です。みんなを思いっきり笑わせたいです！",
+            "face": "http://i1.hdslb.com/bfs/face/e42478e20a4c6edff2b07a1b39f7fc3adad90e99.jpg"
+        },
+        {
+            "uid": 434565011,
+            "room": 21449083,
+            "name": "物述有栖Official",
+            "group": "NIJISANJI",
+            "description": "我还在学中文，但也想来bilibili和大家一起开愉快的茶会！请多关照啦！",
+            "face": "http://i2.hdslb.com/bfs/face/b47463d917ec2dc7ef34951d51df490fa7f89531.jpg"
+        },
+        {
+            "uid": 203365648,
+            "room": 9680769,
+            "name": "物述有栖-爱丽丝搬运",
+            "group": "NIJISANJI",
+            "description": "粉丝群 二群902821691  三群1043883885 搬运组审核群 808288640(进群请注明职位)\n收藏夹有野生熟肉MMD等视频",
+            "face": "https://i1.hdslb.com/bfs/face/77aab7d07316d73b1b639c71749d158e72620268.jpg"
+        },
+        {
+            "uid": 19959581,
+            "room": 1672899,
+            "name": "亚萝解阵线",
+            "group": "NIJISANJI",
+            "description": "我来我看我寻思\n已取得授权：米田らん＊ 栗原さくら 海月ねう 无端转载：merry-milk ",
+            "face": "https://i2.hdslb.com/bfs/face/7b041aaf33e10cd8a47a6482a89a15ad6747aee1.jpg"
+        },
+        {
+            "uid": 484764631,
+            "room": 22303021,
+            "name": "白雪巴的夜王国",
+            "group": "NIJISANJI",
+            "description": "にじさんじ所属バーチャルライバー白雪 巴(しらゆき ともえ) 的字幕组，审核群924539586 粉丝新群915685920",
+            "face": "https://i1.hdslb.com/bfs/face/44bdcb0a6b204e09e999b36b250d833df8e156c3.jpg"
+        },
+        {
+            "uid": 666726797,
+            "room": 22470202,
+            "name": "白雪巴_Official",
+            "group": "NIJISANJI",
+            "description": "NIJISANJI所属虚拟主播。 白雪巴/Tomoe Shirayuki",
+            "face": "http://i2.hdslb.com/bfs/face/0e7fcb55094b8af9bc77d9e0ed292c811c1bc1c7.jpg"
+        },
+        {
+            "uid": 586880202,
+            "room": 22232141,
+            "name": "相羽初叶_Official",
+            "group": "NIJISANJI",
+            "description": "にじさんじ所属アイドルライバー相羽ういはの公式チャンネルです。",
+            "face": "http://i0.hdslb.com/bfs/album/cb23f5583a7d0f19170831208819f6bb3b827719.jpg"
+        },
+        {
+            "uid": 112469835,
+            "room": 22308967,
+            "name": "真白的灵异事件簿",
+            "group": "NIJISANJI",
+            "description": "真白(ましろ)的灵异事件簿。根据彩虹社二创条例进行搬运，粉丝群278882478，审核群691263554",
+            "face": "https://i0.hdslb.com/bfs/face/b554ef1da91a2beb5bba7ba6c6c6ea76e7a4661d.jpg"
+        },
+        {
+            "uid": 458154141,
+            "room": 21575222,
+            "name": "社筑Official",
+            "group": "NIJISANJI",
+            "description": "中国のオタクな感じの皆さん、こんにちハッカ！ 我来自日本，想要和你们交流！ 好きなものを語り合いましょう！",
+            "face": "http://i0.hdslb.com/bfs/face/fdf2856976fb62a986d99515acb5813b6489a6cf.jpg"
+        },
+        {
+            "uid": 434564604,
+            "room": 21450685,
+            "name": "龙胆尊Official",
+            "group": "NIJISANJI",
+            "description": "妾身乃NIJISANJI的虚拟主播龙胆尊，今后多多关照！",
+            "face": "http://i0.hdslb.com/bfs/face/9bddeddb2be6b4057f6b6a13f7bc0adba2b2882a.jpg"
+        },
+        {
+            "uid": 384064360,
+            "room": 14892076,
+            "name": "龙胆尊搬运组",
+            "group": "NIJISANJI",
+            "description": "往期熟肉请看收藏夹，官方已入驻，字幕组缺人中，自主剪辑，翻译，校对，后期大欢迎。妈宝一群:893025543，妈宝二群:747675193",
+            "face": "https://i1.hdslb.com/bfs/face/a1c3abd69cab1a709c3b82cb3ef6a57fd772d100.jpg"
+        },
+        {
+            "uid": 458154140,
+            "room": 21575216,
+            "name": "童田明治Official",
+            "group": "NIJISANJI",
+            "description": "嘎卟嘎卟~！我是NIJISANJI的童田明治！喜欢动画、唱歌和玩游戏！好想和大家一起玩得开心呀~！ヾ('ω')ﾉ",
+            "face": "http://i2.hdslb.com/bfs/face/e7fb4ff1f721c4b2a831eab931268dc43155836f.jpg"
+        },
+        {
+            "uid": 436596839,
+            "room": 21463219,
+            "name": "笹木咲Official",
+            "group": "NIJISANJI",
+            "description": "ゲームだいすき、高校２年生。笹木咲やよ〜。",
+            "face": "https://i2.hdslb.com/bfs/face/30e14407d62161c2d6072ffaa90e5398d0ca085f.jpg"
+        },
+        {
+            "uid": 403930401,
+            "room": 21302479,
+            "name": "绿仙Official",
+            "group": "NIJISANJI",
+            "description": "大家好，我是NIJISANJI的绿仙。多多给我留言评论我会很开心的。请多关照！",
+            "face": "https://i0.hdslb.com/bfs/face/cf23495d3c01b93dd0c15fa24c24872f9b54d5f8.jpg"
+        },
+        {
+            "uid": 690608697,
+            "room": 22543132,
+            "name": "纽伊Official",
+            "group": "NIJISANJI",
+            "description": "NIJISANJI所属虚拟主播纽伊·索西艾瑞。ニュイ・ソシエール/Nui Sociere",
+            "face": "http://i0.hdslb.com/bfs/face/44adb323679c998511904053059db12b93fde04c.jpg"
+        },
+        {
+            "uid": 477780497,
+            "room": 21656037,
+            "name": "舞元启介Official",
+            "group": "NIJISANJI",
+            "description": "大家好！我是NIJISANJI所属虚拟主播舞元启介！是一个喜欢运动喜欢酒，还喜欢打游戏的VTuber！请多指教！",
+            "face": "http://i2.hdslb.com/bfs/face/b5adebf493c76fe4a4411548f9991930698b1244.jpg"
+        },
+        {
+            "uid": 477780498,
+            "room": 21656043,
+            "name": "艾克斯Official",
+            "group": "NIJISANJI",
+            "description": "エクス・アルビオと申します!!主に夜、いろんなゲーム配信をしているのでよろしくお願いします!!",
+            "face": "http://i0.hdslb.com/bfs/face/2ce6cc3205e9997074dbb410e6ff88d1a3835b4e.jpg"
+        },
+        {
+            "uid": 690608705,
+            "room": 23465045,
+            "name": "芙莲Official",
+            "group": "NIJISANJI",
+            "description": "NIJISANJI所属虚拟主播。",
+            "face": "https://i2.hdslb.com/bfs/face/01f986ad3e7b07fbcc98859e4436b208301bcd8c.jpg"
+        },
+        {
+            "uid": 436596841,
+            "room": 21463249,
+            "name": "莉泽Official",
+            "group": "NIJISANJI",
+            "description": "bilibili的大家，你好！我是莉泽·赫露艾斯塔，赫露艾斯塔王国的第二位公主。为了作为良好的公主，天天努力！请多多关照",
+            "face": "http://i1.hdslb.com/bfs/face/c6557b71d881c32607b1e64f3989ef38b30a1a9e.jpg"
+        },
+        {
+            "uid": 628292889,
+            "room": 22543154,
+            "name": "叶加濑冬雪Official",
+            "group": "NIJISANJI",
+            "description": "NIJISANJI所属虚拟主播。葉加瀬冬雪/Fuyuki Hakase/叶加濑冬雪",
+            "face": "http://i0.hdslb.com/bfs/face/2731af17c97f85ea748e421c5b1b7105f1317f26.jpg"
+        },
+        {
+            "uid": 434563422,
+            "room": 21449065,
+            "name": "葛叶Official",
+            "group": "NIJISANJI",
+            "description": "我是虚拟主播葛叶，请多多关照。",
+            "face": "http://i0.hdslb.com/bfs/face/834f2dbd22c2ddf279e9add510cf0a716be5926f.jpg"
+        },
+        {
+            "uid": 237428079,
+            "room": 22472468,
+            "name": "西园千草的喵面鱼塘",
+            "group": "NIJISANJI",
+            "description": "这里是2434所属vtuber西园千草的非公式搬运组，不定期产出熟肉。审核群号：1025555212，很缺人啥都吃",
+            "face": "https://i0.hdslb.com/bfs/face/f229d92fafd4e66ec6df26e6ca88bacaebc6f712.jpg"
+        },
+        {
+            "uid": 9254842,
+            "room": 2296153,
+            "name": "语部纺的幽灵社",
+            "group": "NIJISANJI",
+            "description": "主啊，您不用怜悯死去的人，要怜悯那些至今活着却没能拥有爱的人",
+            "face": "https://i1.hdslb.com/bfs/face/72e048848e1d546dc60ca2bc6a8ce90aa9210f88.jpg"
+        },
+        {
+            "uid": 586880203,
+            "room": 22232161,
+            "name": "轰京子Official",
+            "group": "NIJISANJI",
+            "description": "ちょり～っす！你好！にじさんじの轟京子です。目指せ！エナジードリンク系バーチャルライバー",
+            "face": "http://i1.hdslb.com/bfs/album/e508ce18a35f2fe14ce30faef773152e8b4f9707.jpg"
+        },
+        {
+            "uid": 458154139,
+            "room": 21575212,
+            "name": "郡道美玲Official",
+            "group": "NIJISANJI",
+            "description": "郡道美玲、高校教師です。 座右の銘は『人生は長めの自己紹介』です。",
+            "face": "http://i1.hdslb.com/bfs/face/7d82e2488a190dea98c60008fbef7bcf370b49f9.jpg"
+        },
+        {
+            "uid": 16706112,
+            "room": 10571456,
+            "name": "郡道美玲的养豚厂",
+            "group": "NIJISANJI",
+            "description": "にじさんじ所属郡道美玲  粉丝群：767062755  审核群：698401055",
+            "face": "https://i0.hdslb.com/bfs/face/103633a9fda3b61f935f5c827c3dec46f3fa68fe.jpg"
+        },
+        {
+            "uid": 458154144,
+            "room": 21575231,
+            "name": "铃鹿诗子Official",
+            "group": "NIJISANJI",
+            "description": "这里是超喜欢BL和可爱的男孩子，有一点危险的唱歌大姐姐。动漫歌曲和酒也都很喜欢！26岁单身，正在相亲中！",
+            "face": "https://i0.hdslb.com/bfs/face/a8429a51887e79a5388504d7ac0272535ef3d1dd.jpg"
+        },
+        {
+            "uid": 428424219,
+            "room": 21402450,
+            "name": "铃原艺术研究社",
+            "group": "NIJISANJI",
+            "description": "遵守彩虹社二创条例 非官方搬运组 露露粉丝群：929297862 有意者请b站私信或者加粉丝群联系管理",
+            "face": "https://i0.hdslb.com/bfs/face/a28dbc9833daee760a5562f9968d808ca8474aa4.jpg"
+        },
+        {
+            "uid": 666726794,
+            "room": 22470215,
+            "name": "铃原露露_Official",
+            "group": "NIJISANJI",
+            "description": "NIJISANJI所属虚拟主播。鈴原るる/lulu suzuhara/铃原露露",
+            "face": "http://i2.hdslb.com/bfs/face/a3882f427e6f5313a34faccb023f95bb9589eb52.jpg"
+        },
+        {
+            "uid": 586880205,
+            "room": 22232169,
+            "name": "铃木胜Official",
+            "group": "NIJISANJI",
+            "description": "我是NIJISANJI所属的铃木胜！虚拟中学2年级的男生。 在哔哩哔哩也请多关照哦！",
+            "face": "https://i0.hdslb.com/bfs/face/f44e4a161231fa5a17dc1f12d49e31e1237c9b30.jpg"
+        },
+        {
+            "uid": 586880204,
+            "room": 22232167,
+            "name": "雪城真寻Official",
+            "group": "NIJISANJI",
+            "description": "こんまひ〜！にじさんじの雪城眞尋です！よろしくね！",
+            "face": "https://i2.hdslb.com/bfs/face/da3d7173e18109fb4d40619dbe32633e1ad6ebf2.jpg"
+        },
+        {
+            "uid": 4092,
+            "room": 7183898,
+            "name": "魔界之莉莉姆搬运组",
+            "group": "NIJISANJI",
+            "description": "魔界之莉莉姆的非公式搬运组（生熟肉合集在频道^p^收藏有传教用合集）交流群：874044452 烤肉群：725152042",
+            "face": "https://i0.hdslb.com/bfs/face/c4c05b8e2423a3789b68d958e5b0d3545d146786.jpg"
+        },
+        {
+            "uid": 436596840,
+            "room": 21463247,
+            "name": "鹰宫莉音Official",
+            "group": "NIJISANJI",
+            "description": "我是NIJISANJI的超级美少女大小姐VTuber鹰宫莉音，在私立帝华高校读二年级，各位请多多关照！",
+            "face": "http://i0.hdslb.com/bfs/face/2cb1407e3a5589cfbc204e8eee3c1f6321cc46c6.jpg"
+        },
+        {
+            "uid": 628292887,
+            "room": 22543135,
+            "name": "黛灰Official",
+            "group": "NIJISANJI",
+            "description": "NIJISANJI所属虚拟主播黛灰。黛灰/Kai Mayuzumi/黛灰",
+            "face": "http://i1.hdslb.com/bfs/face/fe62a3a1160c21e3bf2956f7cedbd1337d0f0bda.jpg"
+        }
+    ]
+}
