@@ -1,5 +1,5 @@
 {
-    "version": 2,
+    "version": 3,
     "name": "魂喵Official",
     "title": "魂喵Official",
     "data": [
@@ -24,7 +24,7 @@
             "room": 21768883,
             "name": "魂喵喵Official",
             "group": "魂喵Official",
-            "description": "魂喵科技所属吉祥物/来人间拯救大家的不开心/合作请注明来意QQ2124342319",
+            "description": "魂喵科技所属吉祥物/来人间拯救大家的不开心/",
             "face": "https://i1.hdslb.com/bfs/face/a11e30793983dcc15ab0051365d9607701e6801e.jpg"
         }
     ]

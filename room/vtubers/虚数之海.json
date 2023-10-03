@@ -1,0 +1,31 @@
+{
+    "version": 3,
+    "name": "虚数之海",
+    "title": "虚数之海",
+    "data": [
+        {
+            "uid": 3493256853719250,
+            "room": 27853268,
+            "name": "杰特贝思_Official",
+            "group": "虚数之海",
+            "description": "你只管踩油门，剩下的交给你杰哥  有个群:785912497 录像在@虚数录播姬",
+            "face": "https://i0.hdslb.com/bfs/face/3def55a613b4ade3839eb367564e91524275d8bc.jpg"
+        },
+        {
+            "uid": 3461570965277362,
+            "room": 26005781,
+            "name": "疾风Haya_Official",
+            "group": "虚数之海",
+            "description": "HayaTikaze 群:673392681 录播在@虚数录播姬",
+            "face": "https://i1.hdslb.com/bfs/face/352619af1df6d7b3258b8cd0f0df4ae1213bc0ec.jpg"
+        },
+        {
+            "uid": 7937906,
+            "room": 981522,
+            "name": "雀雀Paissa",
+            "group": "虚数之海",
+            "description": "【从心直播】摸！都可以摸！直播交流群：681927114",
+            "face": "https://i2.hdslb.com/bfs/face/8c54eff3c4ae5e0e29dc220fe47e8543ba049b7f.jpg"
+        }
+    ]
+}

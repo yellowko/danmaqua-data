@@ -1,5 +1,5 @@
 {
-    "version": 2,
+    "version": 3,
     "name": "V_G研究所",
     "title": "V_G研究所",
     "data": [
@@ -72,7 +72,7 @@
             "room": 223317,
             "name": "北極星スター",
             "group": "V_G研究所",
-            "description": "✨泡泡茶会✨ 个人摸鱼势，不良，工作第一，正在与平行世界交汇中。",
+            "description": "✨泡泡茶会✨ 个人摸鱼势，是不良，臭打游戏的，啥都玩。迎接展新的自我吧。",
             "face": "https://i2.hdslb.com/bfs/face/17802ae106cea2096653e286616a7cb3b4d2beb6.jpg"
         },
         {
@@ -97,7 +97,7 @@
             "name": "黎绾的小熊",
             "group": "V_G研究所",
             "description": "我永远爱卡古拉没牙",
-            "face": "https://i1.hdslb.com/bfs/face/2dd2ca9382308f90f481831b83e6d310d65aea6e.jpg"
+            "face": "http://i1.hdslb.com/bfs/face/2dd2ca9382308f90f481831b83e6d310d65aea6e.jpg"
         },
         {
             "uid": 854442,
@@ -105,15 +105,15 @@
             "name": "礼斗Ayato",
             "group": "V_G研究所",
             "description": "【个人势】半吸血鬼的酒馆老板，蓝玫瑰的花语是奇迹与不可能。地下酒窖/聊天群：1045578843",
-            "face": "https://i0.hdslb.com/bfs/face/d16641893fe201c61b8aa8233a37a8ec5ee628d9.jpg"
+            "face": "https://i0.hdslb.com/bfs/face/9e5f8369ef14da87856c2f3a64804408eb20d2fc.jpg"
         },
         {
             "uid": 20319918,
             "room": 12555833,
-            "name": "杜姆杜姆是前川未来p",
+            "name": "杜姆杜姆只想快乐生活",
             "group": "V_G研究所",
             "description": "",
-            "face": "https://i0.hdslb.com/bfs/face/5c2451bb6cc6fe5615ca046b8da519cc78977e93.jpg"
+            "face": "https://i0.hdslb.com/bfs/face/9f810b0754b86079e1a1bb5c9e8f14db4347e1e2.jpg"
         },
         {
             "uid": 13855085,
@@ -126,7 +126,7 @@
         {
             "uid": 82209262,
             "room": 3246865,
-            "name": "犬神西Official",
+            "name": "薩卡薩卡班班甲魚魚",
             "group": "V_G研究所",
             "description": "拯救地球",
             "face": "https://i1.hdslb.com/bfs/face/673e959be9a1917a0df3fb6e1c1580a12d94f0b3.jpg"
@@ -136,7 +136,7 @@
             "room": 563906,
             "name": "甘味子",
             "group": "V_G研究所",
-            "description": "一个专注于声音的杂食UP，一直鸽，一直爽。\n微博：@甘味子半糖去冰\n合作请私信～",
+            "description": "一个专注于声音的杂食UP，一直鸽，一直爽。微博：@甘味子半糖去冰【合作请私信～】",
             "face": "https://i0.hdslb.com/bfs/face/1549dfa0c84ea7c46195bd2a1f81af87abc117b8.jpg"
         },
         {
@@ -152,7 +152,7 @@
             "room": 5667763,
             "name": "矢瀧YATAKI",
             "group": "V_G研究所",
-            "description": "【档期到六月】//米画师：矢泷YATAKI",
+            "description": "【档期空闲】//米画师：矢泷YATAKI",
             "face": "https://i0.hdslb.com/bfs/face/6f33a192e9ab516832f7e8416e125de49bfa4c3a.jpg"
         },
         {
@@ -169,7 +169,7 @@
             "name": "茶茶channel",
             "group": "V_G研究所",
             "description": "【个大尾巴猫势】是大yi巴猪茶茶！会作曲*绘画*打游戏*画师麻麻是呆呆兽哦⌯'ㅅ'⌯",
-            "face": "http://i0.hdslb.com/bfs/face/d1517d1b4ff6d010c4f09d7aedc7b08fe4f32265.jpg"
+            "face": "http://i1.hdslb.com/bfs/face/d1517d1b4ff6d010c4f09d7aedc7b08fe4f32265.jpg"
         },
         {
             "uid": 3337432,

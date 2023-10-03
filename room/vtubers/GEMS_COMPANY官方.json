@@ -1,5 +1,5 @@
 {
-    "version": 2,
+    "version": 3,
     "name": "GEMS_COMPANY官方",
     "title": "GEMS_COMPANY官方",
     "data": [
@@ -17,7 +17,7 @@
             "name": "水科葵搬运",
             "group": "GEMS_COMPANY官方",
             "description": "宝石社的猫耳虚拟偶像搬运。欢迎加入粉丝群：858547295",
-            "face": "http://i2.hdslb.com/bfs/face/02bcc44c95501845b2d15c05ec03530706e0606d.jpg"
+            "face": "http://i1.hdslb.com/bfs/face/02bcc44c95501845b2d15c05ec03530706e0606d.jpg"
         },
         {
             "uid": 1205886701,
@@ -26,6 +26,14 @@
             "group": "GEMS_COMPANY官方",
             "description": "我是出生于大阪府的喜欢音乐的猫耳少女水科葵，喜欢豆沙，特长是弹唱，“自宅警备员”一名。",
             "face": "https://i2.hdslb.com/bfs/face/7cbdc864b651b41c29f32b47c695e5b5924cf0db.jpg"
+        },
+        {
+            "uid": 603811931,
+            "room": 22993397,
+            "name": "长谷美琴_official",
+            "group": "GEMS_COMPANY官方",
+            "description": "我是出生于神奈川县的喜欢白米饭和水母的毒舌少女长谷美琴，特长是画插画，想要将来成为世界上最可爱的偶像！",
+            "face": "https://i2.hdslb.com/bfs/face/c26c313ed959d2fe7c396f0cdb298639644ba219.jpg"
         }
     ]
 }

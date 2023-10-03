@@ -1,5 +1,5 @@
 {
-    "version": 2,
+    "version": 3,
     "name": "TTUP",
     "title": "TTUP",
     "data": [
@@ -8,7 +8,7 @@
             "room": 26928634,
             "name": "安婧_Tiffany",
             "group": "TTUP",
-            "description": "是偶像也是Gamer。每周三20:30直播",
+            "description": "是偶像也是Gamer。每周一21:00和周三19:30直播",
             "face": "https://i2.hdslb.com/bfs/face/432a4c46f7494d9339ec9fd1a169bdc3ecfc0fad.jpg"
         },
         {
@@ -16,7 +16,7 @@
             "room": 26878897,
             "name": "里沙_Tesia",
             "group": "TTUP",
-            "description": "会翻跳让自己开心的舞蹈～偶尔会原创～每周四20:30直播",
+            "description": "会翻跳让自己开心的舞蹈～偶尔会原创～每周二21:00和周四19:30直播",
             "face": "https://i1.hdslb.com/bfs/face/0f3b89ab54c1b2559f6859fa677f382af6d4f4c4.jpg"
         },
         {
@@ -24,7 +24,7 @@
             "room": 26883130,
             "name": "零一_Uri",
             "group": "TTUP",
-            "description": "2025喝奶世界冠军，有什么烦恼可以偷偷告诉我哦～每周一20:30直播",
+            "description": "2025喝奶世界冠军，有什么烦恼可以偷偷告诉我哦～每周一19:30和周三21:00直播",
             "face": "https://i1.hdslb.com/bfs/face/dfbd3ffc69978d9e23ee8bbe67eac7744a1f4f47.jpg"
         }
     ]

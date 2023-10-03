@@ -1,5 +1,5 @@
 {
-    "version": 2,
+    "version": 3,
     "name": "A-SOUL",
     "title": "A-SOUL",
     "data": [
@@ -9,7 +9,7 @@
             "name": "向晚大魔王",
             "group": "A-SOUL",
             "description": "关注...也不是不可以啦！",
-            "face": "https://i0.hdslb.com/bfs/face/566078c52b408571d8ae5e3bcdf57b2283024c27.jpg"
+            "face": "https://i0.hdslb.com/bfs/face/599aa32d217cdf6c8ce113b37aca5b19b9f07b3e.jpg"
         },
         {
             "uid": 672328094,
@@ -17,7 +17,7 @@
             "name": "嘉然今天吃什么",
             "group": "A-SOUL",
             "description": "这里是嘉然！别看我小小的，我超能吃还超可爱的哦~",
-            "face": "https://i2.hdslb.com/bfs/face/d399d6f5cf7943a996ae96999ba3e6ae2a2988de.jpg"
+            "face": "https://i2.hdslb.com/bfs/face/619f378852ebac9fdf87e20418d6f99bfa750c7f.jpg"
         },
         {
             "uid": 351609538,
@@ -33,7 +33,7 @@
             "name": "贝拉kira",
             "group": "A-SOUL",
             "description": "元气满满的A-SOUL舞担参上~目标TOP IDOL，一起加油！",
-            "face": "https://i2.hdslb.com/bfs/face/31b0d4177a204e95e3489d5c420cea8d53c93fae.jpg"
+            "face": "https://i2.hdslb.com/bfs/face/e032799dc64270e3f8951f1c71b2a7e9823c2182.jpg"
         }
     ]
 }

@@ -1,5 +1,5 @@
 {
-    "version": 2,
+    "version": 3,
     "name": "Virtopia",
     "title": "Virtopia",
     "data": [
@@ -30,7 +30,7 @@
         {
             "uid": 1523623,
             "room": 3668335,
-            "name": "不吃人的红也",
+            "name": "紅やAkaya",
             "group": "Virtopia",
             "description": "偶尔牢骚有点多的码农+设计。自己的号想发啥发啥爱看不看，别四处转发指指点点的。",
             "face": "https://i1.hdslb.com/bfs/face/080c8a9b6a53d458e2a23a93308bb56adb1879b9.jpg"
@@ -40,7 +40,7 @@
             "room": 77224,
             "name": "宫本夏凌",
             "group": "Virtopia",
-            "description": "",
+            "description": "weibo@猫田花凛",
             "face": "https://i1.hdslb.com/bfs/face/f167a10ff99c94c9cc49bb88094d8bd9b759634a.jpg"
         },
         {

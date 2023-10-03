@@ -1,5 +1,5 @@
 {
-    "version": 2,
+    "version": 3,
     "name": "WACTOR",
     "title": "WACTOR",
     "data": [
@@ -16,7 +16,7 @@
             "room": 21300316,
             "name": "日月咪玉-官方",
             "group": "WACTOR",
-            "description": "META-MUSIC的虚拟歌手日月咪玉！官方粉丝群是1014648717",
+            "description": "META-MUSIC的虚拟歌手日月咪玉! ",
             "face": "https://i1.hdslb.com/bfs/face/2fbe0a5a52a8b717270972608233ef654981bb86.jpg"
         },
         {

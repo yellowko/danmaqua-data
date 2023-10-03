@@ -1,5 +1,5 @@
 {
-    "version": 2,
+    "version": 3,
     "name": "风云社",
     "title": "风云社",
     "data": [
@@ -16,7 +16,7 @@
             "room": 12443363,
             "name": "Hakuyaaaaa",
             "group": "风云社",
-            "description": "柏喙攻略组摸鱼后期Hakuyaです～//日常分享一些游戏生活，祝大家天天开心！",
+            "description": "一只快乐的社畜，主坑FF14/FGO/舟/白夜/原/星铁～",
             "face": "https://i0.hdslb.com/bfs/face/ea74687985eb7aea7750ab3f89d7eb8b2e71ecc7.jpg"
         },
         {
@@ -49,7 +49,7 @@
             "name": "飕鹿法_SO",
             "group": "风云社",
             "description": "一个穿越到人类界的魔女SO。游戏势，主机白金党一枚。",
-            "face": "https://i0.hdslb.com/bfs/face/2e8a6932fced90a96294edebf35422757d93e402.jpg"
+            "face": "https://i0.hdslb.com/bfs/face/08c2f6615c78055e566234711697645f7dcd09da.jpg"
         }
     ]
 }

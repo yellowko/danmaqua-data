@@ -1,5 +1,5 @@
 {
-    "version": 2,
+    "version": 3,
     "name": "Palette",
     "title": "Palette",
     "data": [
@@ -24,8 +24,8 @@
             "room": 22815234,
             "name": "咪诺今天也要元气满满",
             "group": "Palette",
-            "description": "会者定离，一期一祈",
-            "face": "https://i0.hdslb.com/bfs/face/2cf5a0284aa606d69a85dc7be4172ed6e7b985b1.jpg"
+            "description": "✨照亮～",
+            "face": "https://i0.hdslb.com/bfs/face/ff71a79ee44256acfd9c248382822fd36a93a41b.jpg"
         },
         {
             "uid": 4929299,
@@ -34,14 +34,6 @@
             "group": "Palette",
             "description": "Epoch Link所属，从虚拟世界下凡来扯淡的码字摸鱼牛，生活不易，且摸且珍惜。录播号：托莉の奶制品加工车间",
             "face": "https://i2.hdslb.com/bfs/face/b01030b75b5b75538ba7d29ed80564daf3bc2242.jpg"
-        },
-        {
-            "uid": 11537944,
-            "room": 23986450,
-            "name": "梨子_Riko",
-            "group": "Palette",
-            "description": "Epoch link所属，以游戏杂谈势活动的可爱猫猫梨子喵！性格声音大概是邻家妹妹型，但其实内心是细腻的大姐姐。粉丝群：904319567",
-            "face": "https://i1.hdslb.com/bfs/face/0347e4375c8f7f3897c2cf16bbca05b5cbd22cf1.jpg"
         },
         {
             "uid": 361546291,
@@ -56,7 +48,7 @@
             "room": 22769032,
             "name": "可爱玥宝",
             "group": "Palette",
-            "description": "天天开心",
+            "description": " ",
             "face": "https://i0.hdslb.com/bfs/face/b2a7b0373c661424669a608da3cf4bb209189db1.jpg"
         },
         {
@@ -65,14 +57,14 @@
             "name": "葡冷尔子gagako",
             "group": "Palette",
             "description": "来自精灵国的蛾子精歌势vup、翻唱唱见/epoch link社团所属/ Qq群：233746070/ 网易云b站同名/ 商务音乐合作私信。",
-            "face": "https://i2.hdslb.com/bfs/face/92fca11d5ed4728f08bee0764a5241d7a010fe2a.jpg"
+            "face": "https://i2.hdslb.com/bfs/face/0c210fdcadbf6f1d0bde9e804e7083a43895d320.jpg"
         },
         {
             "uid": 393885664,
             "room": 22882574,
             "name": "诺可Noko",
             "group": "Palette",
-            "description": "沦落人类世界的恶魔歌势，Epoch link所属，商务合作联系 jiujiuPalett。Q群:1074482253 ",
+            "description": "沦落人类世界的恶魔歌势，Epoch link所属，禁言通知群：904658534",
             "face": "https://i1.hdslb.com/bfs/face/04297bfa06c4759fefbfce65628ad137ebd61873.jpg"
         },
         {

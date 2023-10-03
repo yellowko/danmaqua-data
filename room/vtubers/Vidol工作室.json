@@ -1,5 +1,5 @@
 {
-    "version": 2,
+    "version": 3,
     "name": "Vidol工作室",
     "title": "Vidol工作室",
     "data": [
@@ -33,7 +33,7 @@
             "name": "安宫颯翼__Dingt",
             "group": "Vidol工作室",
             "description": "是非二元电波系无性别VUP//：堂堂电子天使登场//：不知道的看置顶应该就知道了//：嘘，我在听可不在意",
-            "face": "https://i0.hdslb.com/bfs/face/6b76532c83b9b09ebeccc77dbc894f77fe35c779.jpg"
+            "face": "https://i0.hdslb.com/bfs/face/c980d4ea0992f62de478d293959090c8d839bc1b.webp"
         },
         {
             "uid": 3783584,
@@ -57,7 +57,7 @@
             "name": "祀羽Seyyu",
             "group": "Vidol工作室",
             "description": "喜欢射击游戏的少年，打游戏顺便直播+切片，突出一个分享快乐",
-            "face": "https://i0.hdslb.com/bfs/face/2af00250d9f1cc86e4597228a4dc678608adc28d.jpg"
+            "face": "https://i0.hdslb.com/bfs/face/4d1f4ca6f32995db3c790e1b09b334f837158ea6.jpg"
         },
         {
             "uid": 1859899876,
@@ -70,18 +70,10 @@
         {
             "uid": 1788955,
             "room": 76735,
-            "name": "桃子馅的奶黄包",
+            "name": "吃章鱼的无一郎",
             "group": "Vidol工作室",
-            "description": "每天都是爱IU的一天，每天都是幸福的一天",
-            "face": "https://i1.hdslb.com/bfs/face/c48fc0e967a33d212bbc6f8838522eef0856087a.jpg"
-        },
-        {
-            "uid": 281680,
-            "room": 6386652,
-            "name": "柯络奕",
-            "group": "Vidol工作室",
-            "description": "多坑发店弔话bot 记录生活的小柯",
-            "face": "https://i1.hdslb.com/bfs/face/dc69306f4deadd14bda61bf20af064762c486095.jpg"
+            "description": "任何时间，任何地点，随时随地，都能睡着",
+            "face": "https://i1.hdslb.com/bfs/face/b95ea02221c0e6027fd4d1b260db04873afed9e2.jpg"
         }
     ]
 }

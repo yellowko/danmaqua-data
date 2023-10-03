@@ -5,8 +5,11 @@ import time
 import requests
 import json
 import sys
+import os
 
-version = 2
+os.chdir(sys.path[0]) 
+
+version = 3
 
 data = dict({
     "version": version,

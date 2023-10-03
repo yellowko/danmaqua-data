@@ -1,5 +1,5 @@
 {
-    "version": 2,
+    "version": 3,
     "name": "Croven教团",
     "title": "Croven教团",
     "data": [
@@ -49,7 +49,7 @@
             "name": "果汁erR",
             "group": "Croven教团",
             "description": "-Croven教团-是一个家道中落的狐仙少爷！歌势vup每晚八点直播！商务请私信",
-            "face": "https://i0.hdslb.com/bfs/face/9870aa6f0aee230f4d11a565845c618938fabbc3.jpg"
+            "face": "https://i0.hdslb.com/bfs/face/587be4f460abec46bbd0e5a21c3409b218244a09.jpg"
         },
         {
             "uid": 1844336971,
@@ -73,7 +73,7 @@
             "name": "盖乃希亞Galaxy",
             "group": "Croven教团",
             "description": "-Croven教团-  外星人/五语歌势Vup/酷姐/金属er",
-            "face": "https://i1.hdslb.com/bfs/face/32db4dc342ec2a28c5b1e11d5b4dfc1d26a7fd4a.jpg"
+            "face": "https://i1.hdslb.com/bfs/face/4cbdf417e12fff87b16c25f6c3ce64c009f3abf6.jpg"
         },
         {
             "uid": 1112031857,
@@ -84,20 +84,12 @@
             "face": "https://i2.hdslb.com/bfs/face/b70f6e62e4582d4fa5d48d86047e64eb57d7504e.jpg"
         },
         {
-            "uid": 10759587,
-            "room": 22143763,
-            "name": "裔书Izu的旧书区",
-            "group": "Croven教团",
-            "description": "请关注新号@裔书Izu，谢谢！",
-            "face": "https://i0.hdslb.com/bfs/face/4b1092dda6792b1d71da6a9598df30c59b1eed84.jpg"
-        },
-        {
             "uid": 47791562,
             "room": 22861834,
             "name": "赫拉Kris",
             "group": "Croven教团",
             "description": "✨低音酷酷猫头鹰｜展示约稿请看置顶动态！｜做不完了呜呜✨-croven-",
-            "face": "https://i2.hdslb.com/bfs/face/7924b38811066f9aa8e8b2367fe826fc2d92d514.jpg"
+            "face": "https://i2.hdslb.com/bfs/face/5d0ad65389353374f96bf940606ee99adaed89b1.jpg"
         }
     ]
 }

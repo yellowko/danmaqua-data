@@ -1,5 +1,5 @@
 {
-    "version": 2,
+    "version": 3,
     "name": "winks",
     "title": "winks",
     "data": [
@@ -17,7 +17,7 @@
             "name": "可可洛cocola",
             "group": "winks",
             "description": "碳酸饮料有气泡的时候才好喝哦～官方@winks事务所 群聊：681025674",
-            "face": "http://i0.hdslb.com/bfs/face/03b08fb685193b3f7d310fc53ff2ab1151df8434.jpg"
+            "face": "http://i2.hdslb.com/bfs/face/03b08fb685193b3f7d310fc53ff2ab1151df8434.jpg"
         },
         {
             "uid": 387091887,
@@ -40,7 +40,7 @@
             "room": 13917541,
             "name": "小亚的幽灵古堡",
             "group": "winks",
-            "description": "AI is the future",
+            "description": "只玩原神",
             "face": "https://i1.hdslb.com/bfs/face/0575abafdea5ae82cd150df4b1879864a4c803b0.jpg"
         },
         {
@@ -78,7 +78,7 @@
         {
             "uid": 431573732,
             "room": 21430508,
-            "name": "灯笼鱼2023",
+            "name": "咪奈mina",
             "group": "winks",
             "description": "一个练习御姐音用的号——",
             "face": "https://i2.hdslb.com/bfs/face/a747e245a385bb701fcbd57e0890680d6937ef97.jpg"
@@ -88,7 +88,7 @@
             "room": 15142311,
             "name": "莉姬LIJI",
             "group": "winks",
-            "description": "2018年出道，虽然最近生活很累 但不会消失的啦~ 家有一只边牧 还领养了一只泰迪和橘猫 一家四口哦o>_<o",
+            "description": "2018年出道 以上 一般晚上21点啵啵 偶尔早播 ",
             "face": "https://i1.hdslb.com/bfs/face/3fb0a7c569bae9730d65dd2c5275723e129f5548.jpg"
         },
         {

@@ -1,5 +1,5 @@
 {
-    "version": 2,
+    "version": 3,
     "name": "kenlos",
     "title": "kenlos",
     "data": [
@@ -24,7 +24,7 @@
             "room": 22319739,
             "name": "娅沙Channel",
             "group": "kenlos",
-            "description": "Kenlos所属，娅家大姐姐娅沙，最近喜欢上了Kpop。欢迎来娅家玩：903607646",
+            "description": "Kenlos所属，娅家大姐姐娅沙，感谢相逢",
             "face": "https://i2.hdslb.com/bfs/face/558a69c6fdead914d8b8f868f35b746a361a3e87.jpg"
         },
         {
@@ -41,7 +41,7 @@
             "name": "娅羽Channel",
             "group": "kenlos",
             "description": "Kenlos所属，娅家老三，粉丝群：683376579",
-            "face": "https://i1.hdslb.com/bfs/face/fb0c9405ae3c21d9e65aa2ce3d50f1f3153e8dfc.jpg"
+            "face": "https://i1.hdslb.com/bfs/face/373a283847013a1fdaf8c2573ea861e9a97e894b.jpg"
         },
         {
             "uid": 13096224,
@@ -56,7 +56,7 @@
             "room": 1245856,
             "name": "千狩かり_Channel",
             "group": "kenlos",
-            "description": "纯粹的游戏玩家！学徒的道路很长。励志做六边形战士/游戏势虚拟主播「Kenlos」所属/医疗佣兵/ 雇主群：780517319",
+            "description": "擅长FPS的退休佣兵/励志做六边形战士/游戏势虚拟主播「Kenlos」所属/医疗佣兵/ 雇主群：425017135",
             "face": "https://i0.hdslb.com/bfs/face/68ea788cf8b94449f5ff27b3bf0f64502cb693f2.jpg"
         },
         {
@@ -64,7 +64,7 @@
             "room": 21167948,
             "name": "Kenlos网咖_胧玥",
             "group": "kenlos",
-            "description": "",
+            "description": "团子",
             "face": "https://i2.hdslb.com/bfs/face/6732a86d41664012a172a09868d49537531ea0d5.jpg"
         }
     ]

@@ -1,5 +1,5 @@
 {
-    "version": 2,
+    "version": 3,
     "name": "尼比陆",
     "title": "尼比陆",
     "data": [
@@ -8,7 +8,7 @@
             "room": 25381972,
             "name": "久城忍Sinobu-8-",
             "group": "尼比陆",
-            "description": "清楚又不会骂人^^  #章鱼波# 尼比陆 Friends所属^恶魔^  商务合作：friends@nibiru.work",
+            "description": "清楚又不会骂人^^｜ #蒸汽章鱼波# ｜录播见收藏夹｜尼比陆 Friends所属^恶魔^  商务合作：friends@nibiru.work",
             "face": "https://i2.hdslb.com/bfs/face/5128da24823b38108673d6abac4121a16c8ee50e.jpg"
         },
         {
@@ -36,12 +36,28 @@
             "face": "https://i2.hdslb.com/bfs/face/12796dd8de75eb944840b5f5250c3afcbbdad087.jpg"
         },
         {
-            "uid": 5430008,
-            "room": 25804137,
-            "name": "wbgdudnsgh",
+            "uid": 5500045,
+            "room": 27677515,
+            "name": "艾伊布Aivee-8-",
             "group": "尼比陆",
-            "description": "\n。",
-            "face": "https://i2.hdslb.com/bfs/face/6e24dc3929c0f4a2982277068cc76d12b0e0f4c6.jpg"
+            "description": "Your Divine Fox has arrived!\n尼比陆 Friends所属 商务：friends @nibiru.work",
+            "face": "https://i1.hdslb.com/bfs/face/4fd0ee92cf611e9a643e131d6590c898d9697e30.jpg"
+        },
+        {
+            "uid": 5500096,
+            "room": 27824141,
+            "name": "阴阳Chester-8-",
+            "group": "尼比陆",
+            "description": "damn U live like this? 尼比陆 Friends所属 商务：friends @nibiru.work",
+            "face": "https://i1.hdslb.com/bfs/face/cc7061b9afda5bfac5f6df80dbc1ae2c60a9361a.jpg"
+        },
+        {
+            "uid": 5500001,
+            "room": 30370538,
+            "name": "阿尤沙德",
+            "group": "尼比陆",
+            "description": "这位姐姐已经准备好学习中文了。 你会教我么？尼比陆Bestlive所属，工商bestlive@nibiru.work",
+            "face": "https://i2.hdslb.com/bfs/face/51df5f124419c3359e9b21915507cb6ce45d2583.jpg"
         }
     ]
 }

@@ -1,5 +1,5 @@
 {
-    "version": 2,
+    "version": 3,
     "name": "狄灵计划",
     "title": "狄灵计划",
     "data": [
@@ -16,8 +16,8 @@
             "room": 21426806,
             "name": "初焰Hatsuhomura",
             "group": "狄灵计划",
-            "description": "来自帕图姆的狐狸 好久不见~  直播复建中：每天晚上9点。 投稿内容：切片 歌",
-            "face": "https://i0.hdslb.com/bfs/face/8b89d657309303a5e6f9e704219f9ff426c0fd4f.jpg"
+            "description": "来自帕图姆的狐狸 主要投稿vlog 音乐相关 ",
+            "face": "https://i0.hdslb.com/bfs/face/d8eae37583042425e8ebf5176ba84bfb4c6aacff.jpg"
         },
         {
             "uid": 109798,

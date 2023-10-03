@@ -1,5 +1,5 @@
 {
-    "version": 2,
+    "version": 3,
     "name": "C-Live_Project",
     "title": "C-Live_Project",
     "data": [
@@ -8,16 +8,8 @@
             "room": 25985019,
             "name": "安西娅Anthea",
             "group": "C-Live_Project",
-            "description": "C-Live的看板娘之一，非专业歌势，希望我笨拙的歌声也能带给你感动",
+            "description": "C-Live所属-非专业歌势 只想快乐唱歌  录播:C-Live录播组",
             "face": "https://i0.hdslb.com/bfs/face/5c3a27972527ff04525688f251642730acedcd3e.jpg"
-        },
-        {
-            "uid": 1578580407,
-            "room": 25985006,
-            "name": "希芙莉Sifly",
-            "group": "C-Live_Project",
-            "description": "降临于世间的小恶魔！才不是屑恶魔！C-Live社团看板娘之一，超级爱打游戏——",
-            "face": "https://i0.hdslb.com/bfs/face/607023427ad0cebbb7a9d62d5d4a668ba0f843cb.jpg"
         },
         {
             "uid": 1395549000,
@@ -44,14 +36,6 @@
             "face": "https://i1.hdslb.com/bfs/face/03d838cb3fb8faaba012f81cecbae6fea50db0fd.jpg"
         },
         {
-            "uid": 1599964809,
-            "room": 26511839,
-            "name": "裁月电量百分百",
-            "group": "C-Live_Project",
-            "description": "傻子猫，没有智商，好看好养活，会自己上厕所\n粉丝群：281259916 ",
-            "face": "https://i0.hdslb.com/bfs/face/1adc3cd3aec96ade9968e8c6ada25a3726c85cd6.jpg"
-        },
-        {
             "uid": 3493090323073043,
             "room": 26552829,
             "name": "言玉楼Yulo",
@@ -65,15 +49,7 @@
             "name": "豹豹达凛",
             "group": "C-Live_Project",
             "description": "量产系甜甜地下偶像｜紫色雪豹｜交流群：653189863\n来自@C-liveProject",
-            "face": "https://i1.hdslb.com/bfs/face/313bb5aeb7f97f853c81d37c2fa969b7dbb9868a.jpg"
-        },
-        {
-            "uid": 650363356,
-            "room": 26855029,
-            "name": "馍馍Pann",
-            "group": "C-Live_Project",
-            "description": "你小子别太爱了！粉丝群：285533236",
-            "face": "https://i1.hdslb.com/bfs/face/36fccb220452df7237458adaa1237eb310b5c254.jpg"
+            "face": "https://i1.hdslb.com/bfs/face/3d2f4bc9eb7efa4fd62407015eaa2ad4af42fbb7.jpg"
         }
     ]
 }

@@ -1,5 +1,5 @@
 {
-    "version": 2,
+    "version": 3,
     "name": "upd8",
     "title": "upd8",
     "data": [
@@ -114,6 +114,14 @@
             "group": "upd8",
             "description": "kirakky ~ 非官方 (已收到官方回复)\n交流群336390985 烤肉群617900079",
             "face": "https://i2.hdslb.com/bfs/face/fd7d3226206655dd4702167fc0fa2c9936c3d84e.jpg"
+        },
+        {
+            "uid": 434973578,
+            "room": 21455366,
+            "name": "响木青Official",
+            "group": "upd8",
+            "description": " 大家好，我是响木青！希望能和大家一起回响~",
+            "face": "http://i2.hdslb.com/bfs/face/7edb7fe5b487180997196992a2e0c6f79439edb1.jpg"
         }
     ]
 }

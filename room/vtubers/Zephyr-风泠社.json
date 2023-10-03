@@ -1,14 +1,22 @@
 {
-    "version": 2,
+    "version": 3,
     "name": "Zephyr-风泠社",
     "title": "Zephyr-风泠社",
     "data": [
+        {
+            "uid": 1142597056,
+            "room": 25524210,
+            "name": "冬眠zZ",
+            "group": "Zephyr-风泠社",
+            "description": "是被雷劈了的槐树desu~",
+            "face": "https://i1.hdslb.com/bfs/face/9834d709b236eb0ec6054c9de222ec86f0e7d7a1.jpg"
+        },
         {
             "uid": 3461570877197190,
             "room": 26013678,
             "name": "白果Shiroka",
             "group": "Zephyr-风泠社",
-            "description": "Zephyr所属歌势，麻辣兔头试播中﻿！直播内容以歌回、杂谈为主，喜欢唱歌、弹琴、打游戏、配音~欢迎入群rua兔子捏：752408121",
+            "description": "个人兔势，麻辣兔头试播中﻿！直播内容以歌回、杂谈为主，喜欢唱歌、弹琴、打游戏、配音~欢迎入群rua兔子捏：752408121",
             "face": "https://i0.hdslb.com/bfs/face/f78fc87e07228f94feaa212b0b145d8915ef1586.jpg"
         },
         {
@@ -16,7 +24,7 @@
             "room": 26013717,
             "name": "纪星娴tsuki",
             "group": "Zephyr-风泠社",
-            "description": "Zephyr所属杂谈&游戏势，喜欢各种各样亮闪闪的东西，在寻遍世间珍宝后与大家相遇！欢迎进入粉丝群：686011759",
+            "description": "个人游戏势 ✦ 喜欢闪闪发光的宝物！【粉丝群：686011759】",
             "face": "https://i2.hdslb.com/bfs/face/a8abbf17e33e5a218b9f30e2acf0bc734d29d83f.jpg"
         }
     ]

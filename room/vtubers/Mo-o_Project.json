@@ -1,0 +1,23 @@
+{
+    "version": 3,
+    "name": "Mo-o_Project",
+    "title": "Mo-o_Project",
+    "data": [
+        {
+            "uid": 3494350206012317,
+            "room": 27912753,
+            "name": "弥饭MIF",
+            "group": "Mo-o_Project",
+            "description": "Mo-o一期生 酒精中毒的小小山雀~！ 饭饭的电饭煲（粉丝群）：566931829",
+            "face": "https://i2.hdslb.com/bfs/face/de706a8173f8a1b61e6dc4e446715716705b1061.jpg"
+        },
+        {
+            "uid": 3494364267415768,
+            "room": 30104411,
+            "name": "阙丘_Kylin",
+            "group": "Mo-o_Project",
+            "description": "Mo-o一期生 喜欢打游戏从不摸鱼的歌势~ 肥啾啾の日常护理：579673818",
+            "face": "https://i1.hdslb.com/bfs/face/36bb52e1d224cccc753bb77ac4af2a4a425156d6.jpg"
+        }
+    ]
+}

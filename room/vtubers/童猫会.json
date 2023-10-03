@@ -1,5 +1,5 @@
 {
-    "version": 2,
+    "version": 3,
     "name": "童猫会",
     "title": "童猫会",
     "data": [
@@ -8,8 +8,8 @@
             "room": 21681228,
             "name": "茉茉Official",
             "group": "童猫会",
-            "description": "进修中\n有一个直播通知闲聊群 912623102",
-            "face": "https://i0.hdslb.com/bfs/face/3c8b4d19b9d6e53f1143c7b7745b60854c1b5f26.jpg"
+            "description": " 进修中 养成系 欢迎来一起养牛牛！\n有一个直播通知闲聊群 912623102",
+            "face": "https://i0.hdslb.com/bfs/face/84f2e63addb2dc8a537c6058e760349dc98c201e.jpg"
         }
     ]
 }

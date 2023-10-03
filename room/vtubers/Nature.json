@@ -1,5 +1,5 @@
 {
-    "version": 2,
+    "version": 3,
     "name": "Nature",
     "title": "Nature",
     "data": [
@@ -32,7 +32,7 @@
             "room": 6528212,
             "name": "姬野うつせみ",
             "group": "Nature",
-            "description": "mhs：姬野空蝉   -委托开放中-智能live2d水獭机器人 粉丝群：954989744",
+            "description": " -委托开放中-智能live2d水獭机器人 粉丝群：954989744",
             "face": "https://i2.hdslb.com/bfs/face/91c6ac45ca733eed81ac770dc5bd13addc9a0a26.jpg"
         },
         {
@@ -62,10 +62,10 @@
         {
             "uid": 6855974,
             "room": 12457621,
-            "name": "歧爻泽_こうたく",
+            "name": "永生龙龙こうたく",
             "group": "Nature",
-            "description": "个人摆烂诈尸v，改名惯犯，没了",
-            "face": "https://i2.hdslb.com/bfs/face/1e1a5febd22cc675660f01ee46b94c488e124ffd.jpg"
+            "description": "长眠了——",
+            "face": "https://i2.hdslb.com/bfs/face/e218a40aad0b5b8706147b45a33f9b90c995c2e0.jpg"
         },
         {
             "uid": 701546862,

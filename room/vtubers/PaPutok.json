@@ -1,5 +1,5 @@
 {
-    "version": 2,
+    "version": 3,
     "name": "PaPutok",
     "title": "PaPutok",
     "data": [
@@ -8,7 +8,7 @@
             "room": 497020,
             "name": "春日千代Chiyo",
             "group": "PaPutok",
-            "description": "PaPutok一期生 多声系猫鲨丨网易云同名丨APEX游戏主播喵丨粉丝群：807591611",
+            "description": "晚安",
             "face": "https://i0.hdslb.com/bfs/face/82f8969f01333bd7460efda4895e051efdf6c35e.jpg"
         },
         {
@@ -16,7 +16,7 @@
             "room": 11499540,
             "name": "绘星不会撞地球",
             "group": "PaPutok",
-            "description": "好想你们",
+            "description": "晚安",
             "face": "https://i1.hdslb.com/bfs/face/5de9c99c45ec53411e7a934ff63294df6d3040df.jpg"
         }
     ]

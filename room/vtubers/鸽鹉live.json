@@ -1,15 +1,15 @@
 {
-    "version": 2,
+    "version": 3,
     "name": "鸽鹉live",
     "title": "鸽鹉live",
     "data": [
         {
             "uid": 97439580,
             "room": 3927637,
-            "name": "毛毛躁躁地",
+            "name": "almzqp1212",
             "group": "鸽鹉live",
             "description": "账号已毕业！以后只发一下作品展示",
-            "face": "https://i0.hdslb.com/bfs/face/9f6502fb3ca343f47039d0e4b3ef2205ae5afd32.jpg"
+            "face": "https://i0.hdslb.com/bfs/face/1151fa7251c378b9d36f491ad2062d4b78404192.jpg"
         },
         {
             "uid": 247765047,
@@ -18,14 +18,6 @@
             "group": "鸽鹉live",
             "description": "鸽鹉live所属个人势VUP。失忆魔女。维多利亚大图书馆的见习馆员。",
             "face": "https://i0.hdslb.com/bfs/face/b2370239ee4c2040107eccc6f87ba1fb05641b36.jpg"
-        },
-        {
-            "uid": 442714125,
-            "room": 22798787,
-            "name": "叫啥好呢-我不到啊",
-            "group": "鸽鹉live",
-            "description": "海星帝国遗民  最受欢迎の威尼斯总督",
-            "face": "https://i0.hdslb.com/bfs/face/bdb1cde53a42a1e6cd9b17cbc828de0deb73f4ab.jpg"
         },
         {
             "uid": 878070,
@@ -38,10 +30,10 @@
         {
             "uid": 9354907,
             "room": 3261650,
-            "name": "鱼宝今天写代码了吗",
+            "name": "seraphina瑜",
             "group": "鸽鹉live",
-            "description": "neu-upc，是科研废物（粉丝数达到1000抽一箱辣条",
-            "face": "https://i1.hdslb.com/bfs/face/11e3abf51a2742c56e27c6e7a9a7a1b2a9197f6c.jpg"
+            "description": "普信女本女",
+            "face": "https://i1.hdslb.com/bfs/face/84f8bd77059ef805e594f97abf17bce928d978a9.jpg"
         },
         {
             "uid": 15184909,
@@ -65,7 +57,7 @@
             "name": "零月月酱",
             "group": "鸽鹉live",
             "description": "还想再次点燃、初心。",
-            "face": "https://i1.hdslb.com/bfs/face/d6ba75ccc05e2f76814cd97df02950bdc8196701.jpg"
+            "face": "https://i1.hdslb.com/bfs/face/1013ad1d82594b4270f047454d5bb7209b77a93a.jpg"
         },
         {
             "uid": 785445,
@@ -80,7 +72,7 @@
             "room": 516993,
             "name": "黑子莺",
             "group": "鸽鹉live",
-            "description": "【少来烦姐】",
+            "description": "【我爱睡觉】人设是自设oc。",
             "face": "https://i1.hdslb.com/bfs/face/d5ee8af94c2333e5ef9f0ce7810091518f42e4e3.jpg"
         }
     ]

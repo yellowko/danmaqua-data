@@ -1,5 +1,5 @@
 {
-    "version": 2,
+    "version": 3,
     "name": "VOMNIS",
     "title": "VOMNIS",
     "data": [
@@ -24,8 +24,8 @@
             "room": 3590295,
             "name": "转圈再转个圈",
             "group": "VOMNIS",
-            "description": "这里转圈，画点画做点模，有没有妹妹想和我一起玩ow的",
-            "face": "https://i2.hdslb.com/bfs/face/cdf4ad42d907826e5c8ced2489b60a475bd6c933.jpg"
+            "description": "这里转圈，画师/建模师，平时直播聊天/游戏为主，ow大师辅",
+            "face": "https://i2.hdslb.com/bfs/face/d1cf48eefbf32340caf178056ef39f6e73d74a14.jpg"
         }
     ]
 }

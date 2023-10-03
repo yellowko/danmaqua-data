@@ -1,5 +1,5 @@
 {
-    "version": 2,
+    "version": 3,
     "name": "Hololive",
     "title": "Hololive",
     "data": [
@@ -16,8 +16,8 @@
             "room": 21219990,
             "name": "亚绮-罗森Official",
             "group": "Hololive",
-            "description": "hololive一期生，来自异世界的虚拟治愈系半精灵\n❖担当画师：安雲アキタケ\n协力：夏露伊苏字幕组。商务合作与问题反馈请私信",
-            "face": "http://i0.hdslb.com/bfs/face/f352e9db3fb077cd688c9442168489e56333f5e7.jpg"
+            "description": "hololive一期生，来自异世界的虚拟治愈系半精灵❖担当画师：安雲アキタケ",
+            "face": "https://i0.hdslb.com/bfs/face/f352e9db3fb077cd688c9442168489e56333f5e7.jpg"
         },
         {
             "uid": 20813493,
@@ -48,32 +48,32 @@
             "room": 13946381,
             "name": "夏色祭Official",
             "group": "Hololive",
-            "description": "holoIive一期生，虚拟女子高中生！喜欢祭典之类的有趣的活动！❖担当画师：皆村春樹 协力：夏色祭字幕组。",
-            "face": "http://i1.hdslb.com/bfs/face/7e1f8b141392370fa206252f608d3e0c89d119ab.jpg"
+            "description": "holoIive一期生，虚拟女子高中生！喜欢祭典之类的有趣的活动！❖担当画师：皆村春樹",
+            "face": "https://i1.hdslb.com/bfs/face/7e1f8b141392370fa206252f608d3e0c89d119ab.jpg"
         },
         {
             "uid": 389856447,
             "room": 21131813,
             "name": "夜空梅露Official",
             "group": "Hololive",
-            "description": "某喜欢西印度樱桃汁的吸血鬼之半身，于此长眠。",
-            "face": "http://i0.hdslb.com/bfs/face/3936f2e9963e855499124b91a28a166be4912021.jpg"
+            "description": "",
+            "face": "https://i0.hdslb.com/bfs/face/3936f2e9963e855499124b91a28a166be4912021.jpg"
         },
         {
             "uid": 389862071,
             "room": 21133979,
             "name": "大神澪Official",
             "group": "Hololive",
-            "description": "我们曾经相信科学，直到她拿出了塔罗牌",
-            "face": "http://i2.hdslb.com/bfs/face/93317138e700a5ff41e49c460894e4d89612b8a8.jpg"
+            "description": "",
+            "face": "https://i2.hdslb.com/bfs/face/93317138e700a5ff41e49c460894e4d89612b8a8.jpg"
         },
         {
             "uid": 389859190,
             "room": 21129632,
             "name": "大空昴Official",
             "group": "Hololive",
-            "description": "holo-live二期生，我是E-Sports部经理大空昴的说!\n❖担当画师：しぐれうい\n协力：大空昴字幕组",
-            "face": "http://i1.hdslb.com/bfs/face/ae818814a8173fffdc45aaac740ebab8c4448033.jpg"
+            "description": "holo-live二期生，我是E-Sports部经理大空昴的说!❖担当画师：しぐれうい",
+            "face": "https://i1.hdslb.com/bfs/face/ae818814a8173fffdc45aaac740ebab8c4448033.jpg"
         },
         {
             "uid": 491474048,
@@ -88,8 +88,8 @@
             "room": 21752719,
             "name": "姬森璐娜Official",
             "group": "Hololive",
-            "description": "#快进到____#",
-            "face": "http://i0.hdslb.com/bfs/face/8aa352675fe066f6c089b03b4bd030f9c930f3be.jpg"
+            "description": "",
+            "face": "https://i0.hdslb.com/bfs/face/8aa352675fe066f6c089b03b4bd030f9c930f3be.jpg"
         },
         {
             "uid": 454955503,
@@ -112,8 +112,8 @@
             "room": 21752710,
             "name": "常暗永远Official",
             "group": "Hololive",
-            "description": "我醒了，我没了",
-            "face": "http://i2.hdslb.com/bfs/face/671559fd23e31381b029f73d6207fcdc5e0c17cf.jpg"
+            "description": "",
+            "face": "https://i2.hdslb.com/bfs/face/671559fd23e31381b029f73d6207fcdc5e0c17cf.jpg"
         },
         {
             "uid": 412135619,
@@ -128,16 +128,16 @@
             "room": 190577,
             "name": "星街彗星Official",
             "group": "Hololive",
-            "description": "HOLOLIVE所属，虚拟偶像星街彗星！协力：星街彗星的观星人。商务合作与问题反馈请私信",
-            "face": "http://i1.hdslb.com/bfs/face/63585f1563aff2f22be97ddbd01105e31ff9ec8a.jpg"
+            "description": "HOLOLIVE所属，虚拟偶像星街彗星！",
+            "face": "https://i1.hdslb.com/bfs/face/63585f1563aff2f22be97ddbd01105e31ff9ec8a.jpg"
         },
         {
             "uid": 624252709,
             "room": 22349492,
             "name": "桃铃音音Official",
             "group": "Hololive",
-            "description": "nene，我们该走了aru",
-            "face": "http://i1.hdslb.com/bfs/face/889eb71b316eeec33d49256b37d5f5ba92e4c716.jpg"
+            "description": "",
+            "face": "https://i1.hdslb.com/bfs/face/889eb71b316eeec33d49256b37d5f5ba92e4c716.jpg"
         },
         {
             "uid": 491474049,
@@ -152,8 +152,8 @@
             "room": 14917277,
             "name": "湊-阿库娅Official",
             "group": "Hololive",
-            "description": "holoIive二期生、虚拟女仆、湊(みなと)あくあ！❖担当画师：がおう协力：湊阿库娅字幕组。商务合作与问题反馈请私信",
-            "face": "http://i0.hdslb.com/bfs/face/a7195c09c6ba4722966d745d6f692035d3fe4d95.jpg"
+            "description": "holoIive二期生、虚拟女仆、湊(みなと)あくあ！❖担当画师：がおう",
+            "face": "https://i0.hdslb.com/bfs/face/a7195c09c6ba4722966d745d6f692035d3fe4d95.jpg"
         },
         {
             "uid": 443300418,
@@ -184,16 +184,16 @@
             "room": 21107534,
             "name": "癒月巧可Official",
             "group": "Hololive",
-            "description": "hololive二期生，来自魔界的虚拟保健医生癒月巧可。❖画师担当：桝石きのと様协力：时空字幕组",
-            "face": "http://i0.hdslb.com/bfs/face/62da20011aec4993e4c26341fdd46bd7cb5db12d.jpg"
+            "description": "hololive二期生，来自魔界的虚拟保健医生癒月巧可。❖画师担当：桝石きのと様 ",
+            "face": "https://i0.hdslb.com/bfs/face/62da20011aec4993e4c26341fdd46bd7cb5db12d.jpg"
         },
         {
             "uid": 332704117,
             "room": 11588230,
             "name": "白上吹雪Official",
             "group": "Hololive",
-            "description": "hololive一期生，虚拟白发狐狸白上吹雪是也(^・ω・^§)ﾉ 画师：凪白みと 协力：白上吹雪字幕组 商务合作请私信",
-            "face": "http://i1.hdslb.com/bfs/face/7aff7cd75b5c60cb50a224cf1313a69700be8558.jpg"
+            "description": "hololive一期生，虚拟白发狐狸白上吹雪是也(^・ω・^§)ﾉ 画师：凪白みと",
+            "face": "https://i1.hdslb.com/bfs/face/7aff7cd75b5c60cb50a224cf1313a69700be8558.jpg"
         },
         {
             "uid": 454733056,
@@ -208,24 +208,24 @@
             "room": 21130785,
             "name": "百鬼绫目Official",
             "group": "Hololive",
-            "description": "Hololive二期生虚拟鬼神￤百鬼绫目（Nakiri Ayame）￤担当画师：ななかぐら￤协力：百鬼组￤商务合作与问题反馈请查看公告",
-            "face": "http://i2.hdslb.com/bfs/face/6dd6b25a3b00e31efde32ae0da799fda6f10d068.jpg"
+            "description": "Hololive二期生虚拟鬼神￤百鬼绫目（Nakiri Ayame）￤担当画师：ななかぐら",
+            "face": "https://i2.hdslb.com/bfs/face/6dd6b25a3b00e31efde32ae0da799fda6f10d068.jpg"
         },
         {
             "uid": 389857640,
             "room": 21132965,
             "name": "紫咲诗音Official",
             "group": "Hololive",
-            "description": "holoIive二期生，魔法使紫咲诗音！❖担当画师：Tam-U 协力： 名字天天在变official。问题反馈请私信留言。",
-            "face": "http://i2.hdslb.com/bfs/face/7a98da1550c333c3cd8e786ca48fa629b060dfd9.jpg"
+            "description": "holoIive二期生，魔法使紫咲诗音！❖担当画师：Tam-U ",
+            "face": "https://i2.hdslb.com/bfs/face/7a98da1550c333c3cd8e786ca48fa629b060dfd9.jpg"
         },
         {
             "uid": 491474050,
             "room": 21752694,
             "name": "角卷绵芽Official",
             "group": "Hololive",
-            "description": "HOLOLIVE所属四期生角卷绵芽！一边做着吟游诗人，一边悠然旅行的羊。担当画师：ふーみ 协力：角卷绵芽字幕组",
-            "face": "http://i1.hdslb.com/bfs/face/01274cb73d4f539c8709bbc296535812283aa624.jpg"
+            "description": "HOLOLIVE所属四期生角卷绵芽！一边做着吟游诗人，一边悠然旅行的羊。担当画师：ふーみ",
+            "face": "https://i1.hdslb.com/bfs/face/01274cb73d4f539c8709bbc296535812283aa624.jpg"
         },
         {
             "uid": 339567211,
@@ -240,8 +240,8 @@
             "room": 22349508,
             "name": "雪花菈米Official",
             "group": "Hololive",
-            "description": "住在杳无人烟的银白色大地上的，雪之一族的少女。角色设计：リン ユウ。协力：雪花菈米的雪山小屋。商务合作与问题反馈请私信",
-            "face": "http://i1.hdslb.com/bfs/face/15c87f807385bcf4377d75639b03d230f9e9d12f.jpg"
+            "description": "住在杳无人烟的银白色大地上的，雪之一族的少女。角色设计：リン ユウ",
+            "face": "https://i1.hdslb.com/bfs/face/15c87f807385bcf4377d75639b03d230f9e9d12f.jpg"
         },
         {
             "uid": 624252711,

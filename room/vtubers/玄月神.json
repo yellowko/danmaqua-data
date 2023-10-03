@@ -1,5 +1,5 @@
 {
-    "version": 2,
+    "version": 3,
     "name": "玄月神",
     "title": "玄月神",
     "data": [
@@ -8,15 +8,15 @@
             "room": 22596544,
             "name": "希爱Noah",
             "group": "玄月神",
-            "description": "形象还在制作中···但是很想见到大家 所以先用免费模型给大家直播！",
+            "description": "",
             "face": "https://i2.hdslb.com/bfs/face/2553b7a202382efc3b4554a5571abf49f68df611.jpg"
         },
         {
             "uid": 628061724,
             "room": 22371829,
-            "name": "神月萤hotaru",
+            "name": "神月萤切片组",
             "group": "玄月神",
-            "description": "冬眠～感谢陪伴过我的每一个人～",
+            "description": "萤萤切片号",
             "face": "https://i0.hdslb.com/bfs/face/4cca8d7f64e3c34e0a2959883399f83c1df9e2fa.jpg"
         },
         {
@@ -24,7 +24,7 @@
             "room": 22510936,
             "name": "诸星晓_Official",
             "group": "玄月神",
-            "description": "原型是神刀的个人势vup诸星晓，很会摸鱼，谢谢关注。",
+            "description": "原型是神刀的个人势vup诸星晓，很会摸鱼，目前因为身心状态欠佳停播中，谢谢关注！粉丝群:818069627",
             "face": "https://i2.hdslb.com/bfs/face/74973e2d62e27e04b25ef7502734b88344a253aa.jpg"
         }
     ]

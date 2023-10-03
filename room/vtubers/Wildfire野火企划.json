@@ -1,5 +1,5 @@
 {
-    "version": 2,
+    "version": 3,
     "name": "Wildfire野火企划",
     "title": "Wildfire野火企划",
     "data": [
@@ -17,7 +17,7 @@
             "name": "鹤鸣Crene",
             "group": "Wildfire野火企划",
             "description": "有事无事，都可以来我的茶馆小坐，开心的不开心的都能告诉我",
-            "face": "https://i0.hdslb.com/bfs/face/eb0191aa2301f24a4f9a2f7d8391780905e937b5.jpg"
+            "face": "https://i0.hdslb.com/bfs/face/402e9a8dc6ed086ff963f8ca09e126a8663e5053.jpg"
         }
     ]
 }

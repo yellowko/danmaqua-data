@@ -1,5 +1,5 @@
 {
-    "version": 2,
+    "version": 3,
     "name": "inkschool",
     "title": "inkschool",
     "data": [
@@ -64,7 +64,7 @@
             "room": 343638,
             "name": "鸩_zzz",
             "group": "inkschool",
-            "description": "鸩，一般路过肉食爱好者。群：635826789",
+            "description": "鸩，一般路过肉食爱好者。聊天群:635826789",
             "face": "https://i2.hdslb.com/bfs/face/e7dcd36f1a45cc790ac6dac1b7554c277f0dd87e.jpg"
         }
     ]

@@ -1,5 +1,5 @@
 {
-    "version": 2,
+    "version": 3,
     "name": "hOuOu_Project",
     "title": "hOuOu_Project",
     "data": [
@@ -16,8 +16,8 @@
             "room": 25038353,
             "name": "岐夭夭",
             "group": "hOuOu_Project",
-            "description": "话很多的爱死机模人/什么都会一点的小神仙/姑且还算是个Vup/当神仙嘛，开心就好啦~【人财两空cp头子2号】",
-            "face": "https://i0.hdslb.com/bfs/face/c93655f0bf80b6ead04939639af0ca7ce55457c3.jpg"
+            "description": "话很多爱唱歌的爱死机模人/正比live2d委托2024年开放谢谢喜欢/姑且还算是个Vup/当神仙嘛，开心就好啦~",
+            "face": "https://i0.hdslb.com/bfs/face/85e1f872cb8b79cb34156ff262ba4d97974c6e9c.jpg"
         },
         {
             "uid": 752015,
@@ -32,7 +32,7 @@
             "room": 24494586,
             "name": "库若米Kuromi",
             "group": "hOuOu_Project",
-            "description": "hOuOu虚拟艺人团体成员。我只需要从你身上获得一点点魔力就行啦~商务：houou_project@163.com",
+            "description": "hOuOu虚拟艺人团体成员。我只需要从你身上获得一点点魔力就行啦~商务：houou_project@163.com ",
             "face": "https://i0.hdslb.com/bfs/face/bc3620fb3e63c66ad428bec2bfa8dab76746a527.jpg"
         },
         {
@@ -40,8 +40,16 @@
             "room": 22967698,
             "name": "散华蓝SankaAI",
             "group": "hOuOu_Project",
-            "description": "hOuOu虚拟艺人团体成员。 -夜空总有最大密度的蓝- 商务：houou_project@163.com",
-            "face": "https://i0.hdslb.com/bfs/face/40eb85ef45d2bac99c342e671f234799c77a3cec.jpg"
+            "description": "hOuOu虚拟艺人团体成员。 -夜空总有最大密度的蓝- 商务：houou_project@163.com｜weibo@SankaAI",
+            "face": "https://i0.hdslb.com/bfs/face/d00eba803cee311596a2715b86da82780bb6900f.jpg"
+        },
+        {
+            "uid": 1395971192,
+            "room": 24103724,
+            "name": "月森透Tsukimori",
+            "group": "hOuOu_Project",
+            "description": "【歇业中】hOuOu虚拟艺人团体成员。—— 商务：houou_project@163.com",
+            "face": "https://i2.hdslb.com/bfs/face/51ecd15907b1701abe3c2db2b01b1bd57e537c12.jpg"
         },
         {
             "uid": 1123156073,
@@ -57,7 +65,7 @@
             "name": "白鸟Asuta_Channel",
             "group": "hOuOu_Project",
             "description": "hOuOu虚拟艺人团体成员。就像是打开菠萝汽水的那一瞬间~ 商务：houou_project@163.com ",
-            "face": "https://i2.hdslb.com/bfs/face/9b768b11fd0080c3826aaa1ab3a6cc0ef6e0d74a.jpg"
+            "face": "https://i2.hdslb.com/bfs/face/4685283bc821a6eedc282feb835921f032d587cd.jpg"
         },
         {
             "uid": 1202416628,
@@ -65,15 +73,15 @@
             "name": "眠特Mint",
             "group": "hOuOu_Project",
             "description": "hOuOu虚拟艺人团体成员。直播安排见置顶动态~商务：houou_project@163.com",
-            "face": "https://i2.hdslb.com/bfs/face/03ca68df93fd6dd88a6229db02df48d4b70b8464.jpg"
+            "face": "https://i2.hdslb.com/bfs/face/d3f34b7b83cfbbfc1271ae595d2cc71e55d5e373.jpg"
         },
         {
             "uid": 2114905950,
             "room": 24145047,
             "name": "石榴ZaKuRo_Channel",
             "group": "hOuOu_Project",
-            "description": "不被定义的新·昭和宅女偶像，在此！平时一生悬命打工中！晚上活动！hOuOu虚拟艺人团体成员。商务：houou_project@163.com",
-            "face": "https://i0.hdslb.com/bfs/face/b29f7e118b794158b06b86d1ae759f08c8f1d287.jpg"
+            "description": "不被定义的新·昭和宅女偶像，在此！hOuOu虚拟艺人团体成员。商务：houou_project@163.com",
+            "face": "https://i0.hdslb.com/bfs/face/350119a2f19c928e6305602049dabfeedf5d2fe9.jpg"
         },
         {
             "uid": 1381403831,
@@ -81,7 +89,7 @@
             "name": "索托斯Sothoth",
             "group": "hOuOu_Project",
             "description": "hOuOu虛拟艺人团体成员。构成怪诞的谎言与妄想。商务：houou_project@163.com【人财两空cp头子】",
-            "face": "https://i2.hdslb.com/bfs/face/a19cad9f15b472114e47315a8f70e3eba9ba2a8b.jpg"
+            "face": "https://i2.hdslb.com/bfs/face/78089c41cd2b6d4a837f55b9eb3fac78f7305378.jpg"
         },
         {
             "uid": 2064389464,
@@ -89,7 +97,7 @@
             "name": "芋言Lila",
             "group": "hOuOu_Project",
             "description": "hOuOu虚拟艺人团体成员。「听完这首歌，要陪我回月宫种芋头吗？」 商务：houou_project@163.com",
-            "face": "https://i1.hdslb.com/bfs/face/15ea0424a9868b0fe995e4694d2d366ea1570944.jpg"
+            "face": "https://i1.hdslb.com/bfs/face/62cabcdabc019d4bbaba3650ea3b35277111f893.jpg"
         },
         {
             "uid": 2064099563,
@@ -124,12 +132,20 @@
             "face": "https://i1.hdslb.com/bfs/face/af455e40e546a46c27f8f4bf7eb6690ee859feea.jpg"
         },
         {
+            "uid": 3494351384611564,
+            "room": 27948670,
+            "name": "阿久_Aku",
+            "group": "hOuOu_Project",
+            "description": "hOuOu虚拟艺人团体成员。风大得像要吃掉我，果不其然被风梳了个大背头。",
+            "face": "https://i1.hdslb.com/bfs/face/007d045f1ad77a80c94b84c18f1bf20f9669c39a.jpg"
+        },
+        {
             "uid": 3493075747867553,
             "room": 26312997,
             "name": "青月AO",
             "group": "hOuOu_Project",
             "description": "hOuOu虚拟艺人团体成员。   嗷嗷嗷嗷嗷嗷呜呜呜呜      商务：houou_project@163.com",
-            "face": "https://i2.hdslb.com/bfs/face/f87b07f09d4e9c3c9663129891310d1febcdda67.jpg"
+            "face": "https://i2.hdslb.com/bfs/face/9480f1045476b0caf6150c723ba0f8b9b2fa6eaa.jpg"
         },
         {
             "uid": 1550656130,

@@ -1,5 +1,5 @@
 {
-    "version": 2,
+    "version": 3,
     "name": "コーロンサス学園",
     "title": "コーロンサス学園",
     "data": [
@@ -22,10 +22,10 @@
         {
             "uid": 8435856,
             "room": 7404017,
-            "name": "熊木兔Kumagi",
+            "name": "狗熊木兔_Kumagi",
             "group": "コーロンサス学園",
-            "description": "是画师，live2D模型师，不是单身 >< 虚拟女儿们：宫园凛、Ash冴雪、雅ん，鸢鸟夜 .etc",
-            "face": "https://i0.hdslb.com/bfs/face/7315b53c99bae24183c75dd32dfe0e8dad0c8b03.jpg"
+            "description": "因为拖稿所以暂时变身成为狗熊木兔，稿子完成后变回来！熊木兔是画师，live2D模型师，28岁，不是单身",
+            "face": "https://i0.hdslb.com/bfs/face/278636ba27731bbf389d7a8046f9d93cd5eb5d2a.jpg"
         },
         {
             "uid": 158636881,
@@ -50,6 +50,14 @@
             "group": "コーロンサス学園",
             "description": "你好！我是新人Vtuber!所属于コーロンサス学園零班の青木ルア！正在学习中文！",
             "face": "http://i0.hdslb.com/bfs/face/770455b1294bd6032e905b9a6dd377c242202fac.jpg"
+        },
+        {
+            "uid": 430828121,
+            "room": 21412553,
+            "name": "青玉Safaia",
+            "group": "コーロンサス学園",
+            "description": "这个世界是什么样的呢？",
+            "face": "http://i2.hdslb.com/bfs/face/b7efcb03174b3b071b3fb7c8ac5991b867f72c01.jpg"
         }
     ]
 }

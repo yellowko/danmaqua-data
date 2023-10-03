@@ -1,5 +1,5 @@
 {
-    "version": 2,
+    "version": 3,
     "name": "chaoslive",
     "title": "chaoslive",
     "data": [
@@ -9,22 +9,22 @@
             "name": "无有白_",
             "group": "chaoslive",
             "description": "<ChaosLive.s>约稿走米画师，可私信交流",
-            "face": "https://i2.hdslb.com/bfs/face/9b79b6effd6787fded527c6e7cecc98fb0a2bbe4.jpg"
+            "face": "https://i2.hdslb.com/bfs/face/a115a1491dc01056f1deb437b47513fcf25375c3.jpg"
         },
         {
             "uid": 327334535,
             "room": 14409049,
             "name": "HiyoriQuQ",
             "group": "chaoslive",
-            "description": "<CLS所属/Nir>我好像做了个很长的梦，从星光璀璨到落幕黄昏。",
-            "face": "https://i2.hdslb.com/bfs/face/b614be096563025af83e1727442f6889bc2e5954.jpg"
+            "description": "<CLS所属/Nir>我是恶灵低手（九月档期已满）",
+            "face": "https://i2.hdslb.com/bfs/face/2031616e41d84e7ba97a13227fb460fca9c65433.jpg"
         },
         {
             "uid": 1950658,
             "room": 41682,
             "name": "早稻叽",
             "group": "chaoslive",
-            "description": "<ChaosLive>励志给人类带来幸福的光之恶魔✨❤微博@纯白早稻叽✨商务合作请戳：911998640",
+            "description": "<ChaosLive>励志给人类带来幸福的光之恶魔✨❤微博@纯白早稻叽✨商务合作请戳：520060132（不看私信，谢）",
             "face": "https://i1.hdslb.com/bfs/face/a6a169ebc03ed22ece55926954711fb0a7903d59.jpg"
         },
         {
@@ -33,7 +33,7 @@
             "name": "七海ナナミ",
             "group": "chaoslive",
             "description": "<ChaosLive>2021.7.1出道预备。.......",
-            "face": "http://i0.hdslb.com/bfs/face/85fd51f9e1fd0d03291425d6ffed302affb0aed0.jpg"
+            "face": "http://i2.hdslb.com/bfs/face/85fd51f9e1fd0d03291425d6ffed302affb0aed0.jpg"
         },
         {
             "uid": 32242019,
@@ -56,8 +56,8 @@
             "room": 21816863,
             "name": "星川铃Rin",
             "group": "chaoslive",
-            "description": "<ChaosLive>多声线VUP！复活准备中….",
-            "face": "https://i2.hdslb.com/bfs/face/69ae07c8ca209ff1f5ae191a434267e51943b19f.jpg"
+            "description": "<ChaosLive>多声线VUP！ʚ画师麻麻：KT。ɞ每晚19:00直播 合作请私信",
+            "face": "https://i2.hdslb.com/bfs/face/ea079dee100d1f045996dedc1e9eda341b1bbf6d.jpg"
         },
         {
             "uid": 484431273,
@@ -80,16 +80,16 @@
             "room": 27134874,
             "name": "绯奈Hina_official",
             "group": "chaoslive",
-            "description": "<ChaosLive> ̊ଳ ̊听说在大城市里喵喵叫就会有小鱼干吃！｜@绯奈录播喵  直播通知群：726273822",
-            "face": "https://i1.hdslb.com/bfs/face/15697aebb182c710bbb12e7fa692e3e1759d7703.jpg"
+            "description": "<ChaosLive> ̊ଳ ̊听说在大城市里喵喵叫就会有小鱼干吃！｜@绯奈录播喵  直播通知群：726273822（非禁言）",
+            "face": "https://i1.hdslb.com/bfs/face/1c8aea3a16eb545c0511d5776f67beaf5d2297c0.jpg"
         },
         {
             "uid": 473967891,
             "room": 23091156,
             "name": "莓里_Channel",
             "group": "chaoslive",
-            "description": "<ChaosLive·S>所属个人势\n（合作联系：513805170）",
-            "face": "https://i0.hdslb.com/bfs/face/fb1ba54bb1736c451d0e4813ab2683459a6a089a.jpg"
+            "description": "<ChaosLive·S>所属个人势。\n想在有限的时间里尽情地做自己喜欢的事，希望这条路上能有你的陪伴。喜欢的人@生姜_channel",
+            "face": "https://i0.hdslb.com/bfs/face/f743e225e229748b368c423211e03edd68badffb.jpg"
         },
         {
             "uid": 1344926320,
@@ -97,15 +97,15 @@
             "name": "银杏Kyou",
             "group": "chaoslive",
             "description": "<ChaosLive>穿越五百年的人类军官 喜欢说中文的韩国歌势vup 晚上七点开播！｜开播通知禁言群：985383656",
-            "face": "https://i1.hdslb.com/bfs/face/6f26a28c7611ee2df61a1af6e754f1e5d517c6d1.jpg"
+            "face": "https://i1.hdslb.com/bfs/face/0fd65684ebb848659367f7ff1de99055f02b0b1f.jpg"
         },
         {
             "uid": 703055595,
             "room": 24071352,
             "name": "阿绿Midori",
             "group": "chaoslive",
-            "description": "<ChaosLive> 唱歌的混沌魔女，愿黑猫与你同在 ❤丨禁言通知群：425465839丨录播号@阿绿的林中小屋",
-            "face": "https://i0.hdslb.com/bfs/face/b08cb6a855ab1c4ef8739d39737afa09a83b5360.jpg"
+            "description": "<ChaosLive> 善良的混沌魔女，愿黑猫与你同在 ❤丨交流群：425465839丨录播号@阿绿的林中小屋",
+            "face": "https://i0.hdslb.com/bfs/face/db435d47dc23a3a853ce5358384965b8845fdf7b.jpg"
         },
         {
             "uid": 12278659,
@@ -113,7 +113,7 @@
             "name": "霜树Lointa",
             "group": "chaoslive",
             "description": "<Chaoslive·S>所属/Kanae Project/未出道个人势/大尾巴松鼠妖怪/恐解独立游戏&k团&日常烹饪",
-            "face": "https://i1.hdslb.com/bfs/face/696d380e0a8c660f0a83c61acbc629e4ad65a04c.jpg"
+            "face": "https://i1.hdslb.com/bfs/face/e2b4205e281c242a86babe2fb176fb58adbef7c9.jpg"
         }
     ]
 }

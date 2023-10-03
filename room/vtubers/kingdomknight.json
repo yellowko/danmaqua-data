@@ -1,16 +1,8 @@
 {
-    "version": 2,
+    "version": 3,
     "name": "kingdomknight",
     "title": "kingdomknight",
     "data": [
-        {
-            "uid": 14280897,
-            "room": 45746,
-            "name": "是伊梵娜呀",
-            "group": "kingdomknight",
-            "description": "伊梵娜Ivana的录播账号！营业账号指路→伊梵娜_Ivana",
-            "face": "https://i0.hdslb.com/bfs/face/4212dcb89b1b0e1b1bda93f36d0cd5298f09dcba.jpg"
-        },
         {
             "uid": 341122517,
             "room": 23896124,

@@ -1,5 +1,5 @@
 {
-    "version": 2,
+    "version": 3,
     "name": "P.K.S",
     "title": "P.K.S",
     "data": [
@@ -16,7 +16,7 @@
             "room": 22196167,
             "name": "小魔-Chima",
             "group": "P.K.S",
-            "description": "跟魔女村的伙伴们一起在人界成为偶像组合！ QQ应援群：902023030 魔法工坊：witchstudio.net/CN",
+            "description": "跟魔女村的伙伴们一起在人界成为偶像组合！ QQ应援群：902023030 魔法工坊：witchstudio.cn",
             "face": "https://i1.hdslb.com/bfs/face/3ba59169fba6ca1ec3bd817a63ff266343d56052.jpg"
         },
         {
@@ -25,7 +25,7 @@
             "name": "璃璃觉得不错",
             "group": "P.K.S",
             "description": "建模咨询：2586441646",
-            "face": "https://i1.hdslb.com/bfs/face/aaebd54eb5e3533ed76029905f5e949910289e3c.jpg"
+            "face": "https://i1.hdslb.com/bfs/face/f7f4f0201e6bec34a280a41140bed9e4c9f7ac6b.jpg"
         },
         {
             "uid": 628276383,

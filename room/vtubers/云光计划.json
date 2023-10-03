@@ -1,5 +1,5 @@
 {
-    "version": 2,
+    "version": 3,
     "name": "云光计划",
     "title": "云光计划",
     "data": [
@@ -16,15 +16,15 @@
             "room": 23998995,
             "name": "哒叽luna",
             "group": "云光计划",
-            "description": "这个人很龙，什么也不势",
-            "face": "https://i2.hdslb.com/bfs/face/935b72e5fdf4394eb4df6c9a123a1267116f31b4.jpg"
+            "description": "希望你好运鸭",
+            "face": "https://i2.hdslb.com/bfs/face/79aba9fe31d4cc9a8538502f2fe7528149728e33.jpg"
         },
         {
             "uid": 9000964,
             "room": 9226050,
             "name": "夜萤秋月",
             "group": "云光计划",
-            "description": "个人势‖明年6月25毕业 本体是巧克力的不明触手怪、“清楚”的杂谈系主播，偶尔发出扭曲呓语、有时唱歌 QQ群：725560216",
+            "description": "个人势‖一年后毕业 本体是巧克力的不明触手怪、“清楚”的杂谈系主播，偶尔发出扭曲呓语、有时唱歌 QQ群：725560216",
             "face": "https://i1.hdslb.com/bfs/face/0bb99cfca150e3ac4540361574191e0e02def37f.jpg"
         },
         {
@@ -72,7 +72,7 @@
             "room": 561668,
             "name": "芄Makino",
             "group": "云光计划",
-            "description": "搜索穆瓜Muga喵，关注穆瓜Muga谢谢喵。",
+            "description": "已毕业，感谢陪伴！",
             "face": "https://i2.hdslb.com/bfs/face/031eda91f276ab737e3ad9321f492a0b9e9c9dea.jpg"
         },
         {
@@ -105,14 +105,14 @@
             "name": "雀雀Official",
             "group": "云光计划",
             "description": "在中国留学的中国jk今年17岁",
-            "face": "https://i1.hdslb.com/bfs/face/4ac1bb25930c54664da298743b77e71d68d60ee7.jpg"
+            "face": "https://i1.hdslb.com/bfs/face/354b6b50843c9cb90dbac498094b6b8caa3b8ce6.jpg"
         },
         {
             "uid": 545530293,
             "room": 22563900,
             "name": "饭团喵にゃん",
             "group": "云光计划",
-            "description": "❤自由又奇怪的大白猫❤直播时间为傍晚，内容是杂谈⭐每周还有几场额外随机掉落⭐饭醉集团内部群：861571816",
+            "description": "❤自由又奇怪的大白猫❤直播内容基本全是杂谈⭐时间比较随机⭐饭醉集团内部群：861571816",
             "face": "https://i0.hdslb.com/bfs/face/2b5c3282672253425413c4192f781629c77f3bc6.jpg"
         }
     ]

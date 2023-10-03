@@ -1,5 +1,5 @@
 {
-    "version": 2,
+    "version": 3,
     "name": "LepusLive",
     "title": "LepusLive",
     "data": [
@@ -8,8 +8,8 @@
             "room": 515759,
             "name": "宋三岁sss",
             "group": "LepusLive",
-            "description": "mua~谢谢喜欢~你和我一样超可爱的！\n约定好一起变成老头老太，打游戏激动得假牙飞起来我会帮你们塞回去的ヽ(*´з｀*)ﾉ\n每晚8点虽迟但到",
-            "face": "https://i1.hdslb.com/bfs/face/04aad6ff326d377c82f9dc6b99d5b0d35312e86e.jpg"
+            "description": "经营着【猫咪魔法书店】的少女法师✓mua~谢谢你的喜欢~约定好一起变成老头老太，打游戏激动得假牙飞起来我会帮你们塞回去的ヽ(*´з｀*）\n ",
+            "face": "https://i1.hdslb.com/bfs/face/0df9502313fc02a5888b8c40062883b5c54806cd.jpg"
         },
         {
             "uid": 1243266187,
@@ -17,7 +17,7 @@
             "name": "林莉奈RinaHayashi",
             "group": "LepusLive",
             "description": "@LepusLive. Trilingual Vsinger & 有点脱线 illust@藤真拓哉 L2D@chakun",
-            "face": "https://i1.hdslb.com/bfs/face/387513c8610b02896a76c7f665f3f3470b13249b.jpg"
+            "face": "https://i1.hdslb.com/bfs/face/b39af716e6f2a2985035b16a7b6ee6b7ec06fd72.jpg"
         },
         {
             "uid": 1278321533,
@@ -32,7 +32,7 @@
             "room": 1123743,
             "name": "阿尔瓦Alvar",
             "group": "LepusLive",
-            "description": "@LepusLive一期生       ",
+            "description": "",
             "face": "https://i0.hdslb.com/bfs/face/b05cc877bfab236e49f347d4bd6c83ff49a59e68.webp"
         },
         {
@@ -41,14 +41,14 @@
             "name": "鬼狐狸OniKitsune",
             "group": "LepusLive",
             "description": "@LepusLive所属 炸厨房之王 咖喱料理の神 猪扒和红烧肉之主",
-            "face": "https://i0.hdslb.com/bfs/face/c64f0d68f3915bb59c579ab77ad431254a145e79.jpg"
+            "face": "https://i0.hdslb.com/bfs/face/fc07e83f00f8bf378f4455af379dd11964574fe1.jpg"
         },
         {
             "uid": 1903502807,
             "room": 24750843,
             "name": "鸠羽lin",
             "group": "LepusLive",
-            "description": "@LepusLive所属 二期生 每天8点半直播~请大家一定要来看哦！   新三窝 ：744459392",
+            "description": "@LepusLive所属 二期生 每天8点半直播~请大家一定要来看哦！  直播通知群 ：744459392",
             "face": "https://i2.hdslb.com/bfs/face/7a35927a6cbb9cb126d1df853f11712104de4604.jpg"
         }
     ]

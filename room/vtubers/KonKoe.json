@@ -1,5 +1,5 @@
 {
-    "version": 2,
+    "version": 3,
     "name": "KonKoe",
     "title": "KonKoe",
     "data": [
@@ -24,8 +24,8 @@
             "room": 21240069,
             "name": "眠叶绀Channel",
             "group": "KonKoe",
-            "description": "家道中落的社畜大小姐就是本小姐啦！粉丝群：732477414",
-            "face": "https://i1.hdslb.com/bfs/face/4b3f0a4084c44af1f5ca4c93df2d70280b913c45.jpg"
+            "description": "家道中落的社畜大小姐就是本小姐啦！粉丝群：732477414；无关浮名，只求同好",
+            "face": "https://i1.hdslb.com/bfs/face/8de90a60060ac246b3fdc8cdc1321f1fa82bb68e.jpg"
         },
         {
             "uid": 38728593,

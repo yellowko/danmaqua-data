@@ -1,5 +1,5 @@
 {
-    "version": 2,
+    "version": 3,
     "name": "Providence",
     "title": "Providence",
     "data": [
@@ -16,15 +16,23 @@
             "room": 488283,
             "name": "倾澜Chiram",
             "group": "Providence",
-            "description": "欢迎回家‖ 虚拟治愈系管家‖普罗维登Magicros成员(2.5期生)‖粉丝群：1143393944‖冲击3w粉中▷填词✟翻唱✟编曲学习中",
-            "face": "https://i1.hdslb.com/bfs/face/0df628c4bdfb1df68fb2761563ca4df6a77d04c9.jpg"
+            "description": "【免费直播版】欢迎回家‖ 虚拟治愈系管家‖想为你带来安心的力量‖粉丝群：1143393944‖▷填词✟翻唱✟编曲学习中",
+            "face": "https://i1.hdslb.com/bfs/face/975cbc17d870b27b875b1435542a2eabea2721a3.jpg"
+        },
+        {
+            "uid": 3494369699039624,
+            "room": 30182902,
+            "name": "冥夜一二三",
+            "group": "Providence",
+            "description": "普罗维登所属4期生，冥夜一二三大人。一起和我堕入地狱吧。-welcome to the hell-       ",
+            "face": "https://i2.hdslb.com/bfs/face/98aa40613ebe40f85f39a9d68274ffb4764aa04d.jpg"
         },
         {
             "uid": 1453221585,
             "room": 22937884,
             "name": "原野牟牟Mumu",
             "group": "Providence",
-            "description": "普罗维登二期生小红牛！喜欢坦克和小女孩！商务合作：contact@pdplive.net",
+            "description": "喜欢坦克和小女孩！本账号在10月1日封存啦！",
             "face": "https://i0.hdslb.com/bfs/face/d37211727d21cce50410cf2bdbb9e8783c02b10b.jpg"
         },
         {
@@ -32,7 +40,7 @@
             "room": 22566228,
             "name": "咲间妮娜Official",
             "group": "Providence",
-            "description": "普罗维登企划所属。从天而降的超级美少女！ / 宠物群：1154567581 / 商业合作:contact@pdplive.net",
+            "description": "我会回应期待。宠物群：1154567581 / 没有舰长群",
             "face": "https://i2.hdslb.com/bfs/face/dee6497da2525d956aadf471fed9f2793e5b9a09.jpg"
         },
         {
@@ -40,7 +48,7 @@
             "room": 3012597,
             "name": "喵田弥夜Miya",
             "group": "Providence",
-            "description": "梦想是成为大艺术家的小猫咪！普罗维登oi，妈妈是自己。约稿见工房有空会开~",
+            "description": "梦想是成为大艺术家的小猫咪！妈妈是自己。百日绘挑战中！",
             "face": "https://i0.hdslb.com/bfs/face/1a396c7d216fce280fc7dc4864c928d404dea108.jpg"
         },
         {
@@ -56,7 +64,7 @@
             "room": 10354150,
             "name": "弑色木真理",
             "group": "Providence",
-            "description": "普罗维登所属自由发癫势，很忙的甜丧系(社畜)人妻",
+            "description": "甜妹人妻，因病休养中zzZZ..",
             "face": "https://i0.hdslb.com/bfs/face/95fd315e9abdeebe11b573980275f2c9ac3a9426.jpg"
         },
         {
@@ -64,8 +72,8 @@
             "room": 23848559,
             "name": "徒花院紅Beni",
             "group": "Providence",
-            "description": "✿想要与你一同踏上修行之路！✿Providence三期生✿凛然绽放的真红剑士！徒花院红，参上！✿群：948967389",
-            "face": "https://i1.hdslb.com/bfs/face/0eb480efe132fbbd05f4864083a218231f7c0791.jpg"
+            "description": "✿ 想要与你一同踏上修行之路！✿ 凛然绽放的真红剑士！徒花院红，参上！✿ 群：948967389",
+            "face": "https://i1.hdslb.com/bfs/face/ee9a6d42e62cf376de7a269136d56532e7badd5a.jpg"
         },
         {
             "uid": 384085516,
@@ -73,14 +81,14 @@
             "name": "怜奈Leciel",
             "group": "Providence",
             "description": "Providence企划三期生❉异世界的鸟系打工战士！直播时间一般在工作日晚7点和休息日中午12点！",
-            "face": "https://i1.hdslb.com/bfs/face/5d5384caf4f4b3edbac3733525a3cd8a01bf95f7.jpg"
+            "face": "https://i1.hdslb.com/bfs/face/89c8786381002aa84661cd40c5700b10affb59e8.jpg"
         },
         {
             "uid": 3209150,
             "room": 22330292,
             "name": "星宫颜Ekira",
             "group": "Providence",
-            "description": "普罗维登Magicros所属,一只从星光中掉落的迷之种族✨宇宙来的，来加入大家！微博同名/群150070028",
+            "description": "星光中掉落的迷之种族✨颜究所 :150070028",
             "face": "https://i2.hdslb.com/bfs/face/a792acee243535127bd24da2c1c678a77e4b880f.jpg"
         },
         {
@@ -88,7 +96,7 @@
             "room": 21292831,
             "name": "月隐空夜",
             "group": "Providence",
-            "description": "我永远喜欢言峰绮礼！普罗维登oi成员，每晚19点直播！商务QQ：271374252，直播通知群1014701277，同人配音/翻唱可直接私信",
+            "description": "",
             "face": "https://i0.hdslb.com/bfs/face/7d1db38f3e9b1bd02d2323bee418cfb0baa44de5.jpg"
         },
         {
@@ -104,15 +112,15 @@
             "room": 23615209,
             "name": "森川雪yuki",
             "group": "Providence",
-            "description": "❄️Providence企划三期生，最最喜欢玩游戏，想成为偶像的狐仙大人~都是为了修炼啊~",
-            "face": "https://i1.hdslb.com/bfs/face/73d3e7aaf61017ce1f7b5506b8cd536d48b7d7a8.jpg"
+            "description": "❄️Providence企划三期生，最最喜欢玩游戏，希望可以成为你们心里的小太阳❤努力修炼的狐仙sama！大家一起加油呀",
+            "face": "https://i1.hdslb.com/bfs/face/f2e6233591706dfff6d979bf91813f431624fb26.jpg"
         },
         {
             "uid": 576858552,
             "room": 22323445,
             "name": "毬亚Maria",
             "group": "Providence",
-            "description": "个人势，非全职，杂谈拉胯，唱歌难听，联动地藏。画师：ande❤/爱发电：@akumaria",
+            "description": "个人势，非全职。| 画师：ande❤ | afd：@akumaria | 直播通知群：1139063948",
             "face": "https://i0.hdslb.com/bfs/face/8852fd8d342d33cc52868aa857b012bbcf43aabe.jpg"
         },
         {
@@ -128,32 +136,40 @@
             "room": 21570295,
             "name": "满月Channel",
             "group": "Providence",
-            "description": "普罗维登打工阿飘，爆破阿普小队（2/999）",
-            "face": "https://i0.hdslb.com/bfs/face/f745fe77217725d09e91a701ddcc6ba594063388.jpg"
+            "description": "编辑个性签名",
+            "face": "https://i0.hdslb.com/bfs/face/c1cc088caa6adde20fa31b0ffcd14aa579f30394.jpg"
         },
         {
             "uid": 1848290057,
             "room": 23404362,
             "name": "灯瑠hiru",
             "group": "Providence",
-            "description": "我们的目标是星辰大海！我是Providence企划所属三期生灯瑠hiru！二创组审核群：903798670",
-            "face": "https://i2.hdslb.com/bfs/face/db0de673075d47582966a1f569aa35629499b87f.jpg"
+            "description": "我们的目标是星辰大海！afd：@灯瑠hiru 二创组审核群：903798670",
+            "face": "https://i2.hdslb.com/bfs/face/d08364516fcf3720bd27a179b968bd80ee43f7ca.jpg"
         },
         {
             "uid": 440772821,
             "room": 21502501,
             "name": "灰音Haine",
             "group": "Providence",
-            "description": "普罗维登企划2.5期生、Magicros组合成员￤名为海涅的虚拟云属性折耳猫～ ￤微博@灰音Haine￤群115108587",
-            "face": "https://i2.hdslb.com/bfs/face/9247673c7682b8a7bb5fdb2ccd54b112907d8138.jpg"
+            "description": "【配信休止】普罗维登企划2.5期生(Magicros组合)￤名为海涅的虚拟云属性折耳猫～￤微博@灰音Haine￤直播通知群115108587",
+            "face": "https://i2.hdslb.com/bfs/face/c021763fc2e85e05a37cc6af8778565531e6bad2.jpg"
         },
         {
             "uid": 567234492,
             "room": 22321043,
             "name": "玛安娜Myanna",
             "group": "Providence",
-            "description": "暗精灵大姐姐，喜欢吃美少女。普罗维登企划一期生。妈妈：阿二/商务合作：contact@pdplive.net",
-            "face": "https://i0.hdslb.com/bfs/face/2651a00f84c756620d6ca1d48fa5678620dfe387.jpg"
+            "description": "暗精灵大姐姐，喜欢吃美少女。",
+            "face": "https://i0.hdslb.com/bfs/face/4a59fa7da4d86e26c6820880e296e3e173da7bdf.jpg"
+        },
+        {
+            "uid": 2102060913,
+            "room": 30182969,
+            "name": "白井Choco",
+            "group": "Providence",
+            "description": "一期一会❤️ 爱发电同名@白井Choco",
+            "face": "https://i0.hdslb.com/bfs/face/d1de20d0bf9032a8c9229b431aa85e5e679ff79e.jpg"
         },
         {
             "uid": 1516482,
@@ -172,11 +188,19 @@
             "face": "https://i0.hdslb.com/bfs/face/530706f159a23fe26075e19f764ab4b4d4bb4a1e.jpg"
         },
         {
+            "uid": 3494368979716634,
+            "room": 30186736,
+            "name": "纱奈_Sana",
+            "group": "Providence",
+            "description": "普罗维登企划四期生|日本留学vlogger|喜欢水母的艺大生|穿越虚拟与现实，记录日本留学生活\n观众群：535887269",
+            "face": "https://i2.hdslb.com/bfs/face/70e8e7f326c307171793c2aae626892e2cf992b8.jpg"
+        },
+        {
             "uid": 12497617,
             "room": 4788550,
             "name": "胡桃Usa",
             "group": "Providence",
-            "description": "Providence企划 ✞ 才不是天使、绝对是堕天使 ✞ \n想要成为你的信仰，一起沉浸在这混沌中吧～(*ˊᗜˋ*)",
+            "description": "堕堕天使 ✞ 直播通知群：640778709 ✞ 爱发电：kurumiusa",
             "face": "https://i1.hdslb.com/bfs/face/afd36fa08235b0985d5f4369f6b48c37c10de6aa.jpg"
         },
         {
@@ -184,7 +208,7 @@
             "room": 7688602,
             "name": "花花Haya",
             "group": "Providence",
-            "description": "普罗维登企划所属~来自雪国的精灵酒馆老板花花Haya!\n商务合作联系haya@pdplive.net",
+            "description": "来自雪国的精灵酒馆老板花花Haya!\n商务合作请私信",
             "face": "https://i0.hdslb.com/bfs/face/7df8be22dc7152443d1906b5cebb6b265c5b78ab.jpg"
         },
         {
@@ -192,7 +216,7 @@
             "room": 22926711,
             "name": "茉吱Mojuko",
             "group": "Providence",
-            "description": "一只在日本打拼十年的中华田园猫猫鼠！商务联系：staff@yagimall.com",
+            "description": "一只想成为中日文化交流大使的猫猫鼠！商务联系：staff@yagimall.com",
             "face": "https://i1.hdslb.com/bfs/face/682dd1e3bea2816abd15ef6818ce210dae6a028e.jpg"
         },
         {
@@ -200,7 +224,7 @@
             "room": 1114551,
             "name": "莉夏Lecia",
             "group": "Providence",
-            "description": "普罗维登所属唯一指定清✩楚✩系！每晚8点开播。群：652482946。商务合作：lecia@pdplive.net",
+            "description": "明年夏天也一起去看海吧。商务合作：lecia@pdplive.net",
             "face": "https://i2.hdslb.com/bfs/face/9cbd8b85ed77322c2e40605756a59c17041e7bf6.jpg"
         },
         {
@@ -208,7 +232,7 @@
             "room": 22344968,
             "name": "蛙吹Keroro",
             "group": "Providence",
-            "description": "普罗维登企划Magicros成员 爱唱歌的电子青蛙~ 商务合作：contact@pdplive.net",
+            "description": "爱唱歌的电子青蛙~！",
             "face": "https://i1.hdslb.com/bfs/face/c1498c112d7bd4065a648753885f3799fde673a4.jpg"
         },
         {
@@ -216,7 +240,7 @@
             "room": 23126335,
             "name": "路伊丝Louise",
             "group": "Providence",
-            "description": "普罗维登二期生路伊丝๑在中国打工的外国蛇一枚呀๑晕3D种田流玩家๑๑直播时间晚9点๑相声日固定隔周一次",
+            "description": "路伊丝的蛇蛇煲移山计划进行中，粉丝群：436883784๑在中国打工的外国蛇一枚呀๑晕3D种田流玩家๑๑直播时间晚9点๑相声日固定隔周一次",
             "face": "https://i1.hdslb.com/bfs/face/80ca941c23e686170d6238ffee6068a7665fb091.jpg"
         },
         {
@@ -224,8 +248,8 @@
             "room": 11306,
             "name": "阿伊蕾特Ayelet",
             "group": "Providence",
-            "description": "耐久超高的梦魔。普罗维登的打游戏机器 画师麻麻：Aeroides艾茵 网上冲浪145353452",
-            "face": "https://i0.hdslb.com/bfs/face/9ed17af295e1fcd01e8b10ed311a75e523b4ab95.jpg"
+            "description": "耐久超高的梦魔。画师麻麻：Aeroides艾茵 网上冲浪145353452",
+            "face": "https://i0.hdslb.com/bfs/face/032407af4284822dcb7850bf57c790e3bee5e730.jpg"
         }
     ]
 }

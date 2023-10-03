@@ -1,23 +1,31 @@
 {
-    "version": 2,
+    "version": 3,
     "name": "极光社",
     "title": "极光社",
     "data": [
+        {
+            "uid": 1413880763,
+            "room": 30095933,
+            "name": "EOISvt",
+            "group": "极光社",
+            "description": "吧唧吧唧衔尾蛇蛇",
+            "face": "https://i2.hdslb.com/bfs/face/e8096b927ea5c19336cd02852aab052b69f42b99.jpg"
+        },
         {
             "uid": 11416708,
             "room": 23348061,
             "name": "九奈猹猹",
             "group": "极光社",
-            "description": "「极光社所属」 fairy zero二十四节气守护者-大暑 \n向我靠进一步的话 我就向你迈一万步好啦！\n商务VX：JGSAurora",
-            "face": "https://i1.hdslb.com/bfs/face/36280345404dfc8a98ef016245489ab361a45739.jpg"
+            "description": "「极光社所属」 fairy zero二十四节气守护者-大暑 \n如果能被你喜欢就好啦\n",
+            "face": "https://i1.hdslb.com/bfs/face/54c35104f29338a466fa6acb5b9d303f15e2f133.jpg"
         },
         {
             "uid": 2144805585,
             "room": 24847419,
             "name": "伊德琳Edelyn",
             "group": "极光社",
-            "description": "「极光社所属」新生的精灵祭司/正在努力成为更好的歌势",
-            "face": "https://i0.hdslb.com/bfs/face/ac6929bb680ae78433e017d2c5ed5a46dd798a4a.jpg"
+            "description": "「极光社所属」新生的精灵祭司/正在努力成为更好的歌势//世界以痛吻我，我要竖起中指，大骂一声去你**的，傻*。",
+            "face": "https://i0.hdslb.com/bfs/face/a430fb056a7198938c6f6d6f4e08c6ebf8314392.jpg"
         },
         {
             "uid": 1120494980,
@@ -44,19 +52,11 @@
             "face": "https://i1.hdslb.com/bfs/face/e48f11a03c13d594dd219b4177939ecf7cf34dfa.jpg"
         },
         {
-            "uid": 1803585918,
-            "room": 23251345,
-            "name": "千零莉露卡",
-            "group": "极光社",
-            "description": "【极光社所属】来自圣域的半龙人炼金术师-Riruka.大家请多关照๑ ❖画师：血泪君btkcyber，建模：猫ma",
-            "face": "https://i0.hdslb.com/bfs/face/8f71dcf86d5858578c67f3b077f0a34275747caa.jpg"
-        },
-        {
             "uid": 12548532,
             "room": 847916,
-            "name": "吱吱爱吃芝士",
+            "name": "予妮Yunii",
             "group": "极光社",
-            "description": "「极光社所属」陪伴养成系吱吱，哪种芝士都爱吃！也想给大家带来快乐！商务合作VX：JGSAurora",
+            "description": "「极光社所属」鼠鼠哪种芝士都爱吃！也想给大家带来快乐！商务合作VX：JGSAurora",
             "face": "https://i0.hdslb.com/bfs/face/6b31a7de4405a2e272b9a4f9bf0662ffb4ae314c.jpg"
         },
         {
@@ -64,8 +64,8 @@
             "room": 25158669,
             "name": "咩噗绒绒",
             "group": "极光社",
-            "description": "「极光社所属」\n我要月亮奔我而来。\n加村读研中，和国内有12小时时差 。\n商务合作VX：JGSAuror\n录播：咩噗绒绒二号机",
-            "face": "https://i0.hdslb.com/bfs/face/4114813d7a8bdda49bdad39c0ed72a83c5e71ec7.jpg"
+            "description": "「极光社所属」“热爱可抵岁月漫长。”\n加村读研中，和国内有12小时时差 。\n商务合作VX：JGSAurora",
+            "face": "https://i0.hdslb.com/bfs/face/d0ab62ed73ddc0ff7bfbf2227491bf9c98c11f2e.jpg"
         },
         {
             "uid": 1025491703,
@@ -73,7 +73,7 @@
             "name": "塞拉菲娜_Serafina",
             "group": "极光社",
             "description": "「极光社所属」◇胡狼半神Vup◇四语歌势◇直播不规律的留学在读研究牲◇油管：Serafina Ch.",
-            "face": "https://i2.hdslb.com/bfs/face/4491c0b4adeab665ff7bb08e942881f59beeee64.jpg"
+            "face": "https://i2.hdslb.com/bfs/face/0e3b8c78bec11570bdddef6bbd437a6e54b94288.jpg"
         },
         {
             "uid": 3338927,
@@ -81,14 +81,14 @@
             "name": "夏鲤鲤不是非酋",
             "group": "极光社",
             "description": "「极光社所属」 fairy zero二十四节气守护者-小暑 QQ群:700098853/录播号：鲤鲤专属录播机",
-            "face": "https://i2.hdslb.com/bfs/face/7d96bb91693c370ea3d34eea9e1f31fad85ca994.jpg"
+            "face": "https://i2.hdslb.com/bfs/face/80f1cbfcecbf5a47cdff9fa828b951e90de6b800.jpg"
         },
         {
             "uid": 207429670,
             "room": 25034895,
             "name": "奈祈Neki",
             "group": "极光社",
-            "description": "〔极光社所属〕好好好",
+            "description": "〔极光社所属〕已毕业",
             "face": "https://i1.hdslb.com/bfs/face/585adacc5cbac97cb00b9c91b23f264f341730e0.jpg"
         },
         {
@@ -126,17 +126,17 @@
         {
             "uid": 1943729690,
             "room": 23742584,
-            "name": "小天夏",
+            "name": "彦卿的小娇妻",
             "group": "极光社",
-            "description": "「极光社所属」只有100播放量，也要做10w的质量。指针如何导航，你是我唯一的方向。",
-            "face": "https://i2.hdslb.com/bfs/face/87cc29f1543732cfeb3c172e4a220325b68d3636.jpg"
+            "description": "指针如何导航，你是我唯一的方向。",
+            "face": "https://i2.hdslb.com/bfs/face/a0b19de6f98596c945fbca2b329711b0e201617a.jpg"
         },
         {
             "uid": 40386896,
             "room": 2838969,
             "name": "幻空_Sora",
             "group": "极光社",
-            "description": "【极光社所属】初次见面 人类，这里是幻空，狐狸哦～想要和大家好好相处下去～狐狸窝门牌号：764415703",
+            "description": "",
             "face": "https://i2.hdslb.com/bfs/face/0bee90a5bea6c5383075882a0f0581bc2c8b0204.jpg"
         },
         {
@@ -177,7 +177,7 @@
             "name": "是轻冰哒",
             "group": "极光社",
             "description": "【极光社】所属的一只天天都在咕视频的摸鱼鸮，鸟窝群559328004，商务合作VX：JGSAurora",
-            "face": "https://i1.hdslb.com/bfs/face/7ae5a2bc0ccb12477c03cf6fab3eadc046849f6e.jpg"
+            "face": "https://i1.hdslb.com/bfs/face/516bce074eafe2e54d388d458c45253148845cab.jpg"
         },
         {
             "uid": 480285421,
@@ -200,8 +200,8 @@
             "room": 25761859,
             "name": "Eriri梨梨",
             "group": "极光社",
-            "description": "「极光社所属」英国时差党>< 一只小蓝毛海豚 希望陪伴你一起欢笑~",
-            "face": "https://i0.hdslb.com/bfs/face/b8309b3f530525fffbec69bd3425bc490437f654.jpg"
+            "description": "个人势VUP｜英国时差党｜一只蓝毛小海豚，希望可以陪伴你在你身边～ 不喜欢请不要伤害",
+            "face": "https://i0.hdslb.com/bfs/face/7b3daaec30be5b9e586b6794583f950bfebb92e8.jpg"
         },
         {
             "uid": 476755934,
@@ -209,30 +209,22 @@
             "name": "沐原莉莉Official",
             "group": "极光社",
             "description": "✨涩气可爱吸血姬✨一只喜欢办茶会的血族大小姐（bushi）✨血族名 莉希娅·伊蒂丝✨（是一只八美肉）茶会:763860282",
-            "face": "https://i2.hdslb.com/bfs/face/ec62f2d965cd07e907e1a87d66200c96a79d028d.jpg"
-        },
-        {
-            "uid": 1045323785,
-            "room": 25004698,
-            "name": "海生三葉Umio",
-            "group": "极光社",
-            "description": "时刻保持真诚与谦逊( ･⊝･∞)\n野生水麒麟幼崽\n接受许愿中……\n『极光社』瑞兽企划所属",
-            "face": "https://i2.hdslb.com/bfs/face/2908f2dcc9148f5af08186bbfc82f14154bb5ad1.jpg"
+            "face": "https://i2.hdslb.com/bfs/face/c42a1e59eccb4734ae0d0b1db3db5aa41384c5d3.jpg"
         },
         {
             "uid": 2231439,
             "room": 7043142,
             "name": "牙牙丸绘",
             "group": "极光社",
-            "description": "你就当我是个皮套人吧.jpg【一个自由的灵魂！】",
+            "description": "OC人！出击！【一个自由的灵魂！】",
             "face": "https://i0.hdslb.com/bfs/face/f735f8cdfde29d581166e9d7774c4ecaa1ba1a3a.jpg"
         },
         {
             "uid": 384742859,
             "room": 14930062,
-            "name": "白梅雪見",
+            "name": "雪川晴",
             "group": "极光社",
-            "description": "一起走吧。直到无法行动，直到时间让我们分别。极光社所属误入人间梅花妖。想要联动请私信我！商务合作VX：JGSAurora",
+            "description": "INFP-T 雪啊，请落在我的心尖。商务合作VX：JGSAurora",
             "face": "https://i2.hdslb.com/bfs/face/1729c03859dd8188e1dc14e04332d1f21634fa6d.jpg"
         },
         {
@@ -248,8 +240,8 @@
             "room": 23613497,
             "name": "白露_Hakuro",
             "group": "极光社",
-            "description": "極光社所屬fairy zero二十四節氣守護者-白露喜歡恐怖遊戲 (粵語/普通話) ",
-            "face": "https://i2.hdslb.com/bfs/face/f71cf8cf625fa3dadb56fbd4b7605634387c3e22.jpg"
+            "description": "来自澳门vtuber 极光社所属的二十四节气守护者,为带给每一个身边的人幸褔努力着 (粤语/普通话)合作：1775993017",
+            "face": "https://i2.hdslb.com/bfs/face/d25093259deb6cb6247f4aaccb5049adef119b22.jpg"
         },
         {
             "uid": 2416879,
@@ -262,7 +254,7 @@
         {
             "uid": 58789280,
             "room": 22769467,
-            "name": "砂糖元_Channel",
+            "name": "一百天后新生的砂糖元",
             "group": "极光社",
             "description": "想要随心所欲的唱歌\n▽好好恶魔▲每日都被工作困扰的可怜社畜\n△画师妈咪是@抑制意识▼（我爱她）\n▽爱发电：砂糖元的委托板▲",
             "face": "https://i2.hdslb.com/bfs/face/d6c557b67d4f9f00236442e2d02cf583519dc320.jpg"
@@ -281,15 +273,15 @@
             "name": "绫濑Official",
             "group": "极光社",
             "description": "「极光社所属」【粤/国】异世界口音吸血鬼~喜欢杂谈和游戏~粉丝群：542703182 商务合作VX：JGSAurora ",
-            "face": "https://i0.hdslb.com/bfs/face/392ecee6d0d9353915c1d84add2edaa0efedc370.jpg"
+            "face": "https://i0.hdslb.com/bfs/face/62723490e41e4a77e149b3a37ccb4265802c81a2.jpg"
         },
         {
             "uid": 350754158,
             "room": 21799820,
             "name": "胜意uncle",
             "group": "极光社",
-            "description": "极光社所属Vup，【声优 全能杂谈系】你所见即我，好坏不解释。更多音频爱发电搜胜意uncle",
-            "face": "https://i2.hdslb.com/bfs/face/173f5aed5c7aecc9d46b5bbb16a5cb1e78010c5c.jpg"
+            "description": "极光社所属Vup，【声优 全能杂谈系】你所见即我，好坏不解释。爱发电搜索胜意mp3",
+            "face": "https://i2.hdslb.com/bfs/face/438dc3bfb8652a045b9b2c70957b7ca457ec2d2e.jpg"
         },
         {
             "uid": 1657906522,
@@ -297,14 +289,14 @@
             "name": "花雨春绘",
             "group": "极光社",
             "description": "「极光社所属」二十四节气守护者-立春~网易云同名。用歌声祈愿幸福的樱花鹿~商务合作VX：JGSAurora",
-            "face": "https://i1.hdslb.com/bfs/face/7927c411f49a2ce86abaeb59ab90eaca9499ffd1.jpg"
+            "face": "https://i1.hdslb.com/bfs/face/1c4a5337759060ab15a3550b7c0ea5161f244f71.jpg"
         },
         {
             "uid": 9962651,
             "room": 5575423,
             "name": "苍火Aoi",
             "group": "极光社",
-            "description": "【极光社所属】周二到周日早上直播。不是cv，不接台本投稿和配音。",
+            "description": "身体不适，停止活动。不是cv，不接台本投稿和配音。",
             "face": "https://i2.hdslb.com/bfs/face/142b4aa4b34ee2fd797469ff4b839e6d7fcb70c2.jpg"
         },
         {
@@ -326,10 +318,10 @@
         {
             "uid": 674955196,
             "room": 22729526,
-            "name": "綾小路千鶴_aya",
+            "name": "7zuru",
             "group": "极光社",
-            "description": "画画人 qq2294156416 直播赶稿子偶尔游戏随缘播",
-            "face": "https://i1.hdslb.com/bfs/face/cadffcfd04cd428871347be509e717e310619042.jpg"
+            "description": "綾小路千鶴qq2294156416",
+            "face": "https://i1.hdslb.com/bfs/face/48312b7a54c7e4c59801f5a208c5d2b61504dadd.jpg"
         },
         {
             "uid": 1635441928,

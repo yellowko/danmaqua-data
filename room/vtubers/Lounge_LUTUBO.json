@@ -1,5 +1,5 @@
 {
-    "version": 2,
+    "version": 3,
     "name": "Lounge_LUTUBO",
     "title": "Lounge_LUTUBO",
     "data": [
@@ -14,7 +14,7 @@
         {
             "uid": 124177,
             "room": 1299321,
-            "name": "森ノ目律channel",
+            "name": "森ノ目律",
             "group": "Lounge_LUTUBO",
             "description": "变成浣熊啦！ 麻麻是缇娅达契娅！qq群175193622！",
             "face": "https://i1.hdslb.com/bfs/face/edc98d1eadecf1b158a0828030c87d4905e727b6.jpg"
@@ -33,7 +33,7 @@
             "name": "辻蓝佳音瑠_channel",
             "group": "Lounge_LUTUBO",
             "description": "✝SwordUnionProject✝来自日本的德国混血吸血鬼（人間と吸血鬼の子！）✝︎某个酒吧的代理店长✝︎联系方法见公告",
-            "face": "https://i0.hdslb.com/bfs/face/2a3e655a04468d6ef837ed365ee25ee768fd4fb3.jpg"
+            "face": "https://i0.hdslb.com/bfs/face/92def1469eb1d488ab56a8854ac6895d74a70b7d.jpg"
         }
     ]
 }

@@ -1,5 +1,5 @@
 {
-    "version": 2,
+    "version": 3,
     "name": "猫邮社",
     "title": "猫邮社",
     "data": [
@@ -17,14 +17,14 @@
             "name": "可伊Koi",
             "group": "猫邮社",
             "description": "ฅ˙Ⱉ˙ฅ✧ 集合！关注斯比Suby！单推她！",
-            "face": "https://i2.hdslb.com/bfs/face/a8f15e1e2a2f0e18774d3c8b8368b4daff739cd6.jpg"
+            "face": "https://i2.hdslb.com/bfs/face/87ed5d4b2af424c917a1c0bd50aff40aa3591068.jpg"
         },
         {
             "uid": 1109759825,
             "room": 23993070,
             "name": "啾铃Jolin",
             "group": "猫邮社",
-            "description": "不会唱歌配音剪视频打游戏做建模的JoJo不是好替身使者！直播通知群931990241 猫邮社所属黑白小狼崽",
+            "description": "做自己想做的事情，努力活着，相信自己",
             "face": "https://i2.hdslb.com/bfs/face/a5b3af1aa9d50f8fdc3fe778add9b5d0b51cae9b.jpg"
         },
         {
@@ -34,14 +34,6 @@
             "group": "猫邮社",
             "description": "喜欢画画和配音，猫邮社所属多声线打工狐，晚20:00后随缘开播，联动/合作可以私信我~群:974280464",
             "face": "https://i2.hdslb.com/bfs/face/6b589baf9af895d3e36348610cbb1694613cdcdf.jpg"
-        },
-        {
-            "uid": 5450477,
-            "room": 7194103,
-            "name": "幸森诗音_Shion",
-            "group": "猫邮社",
-            "description": "今天也勉强的活着",
-            "face": "https://i2.hdslb.com/bfs/face/6966337c52d2d5fdfb1960a66a81b1377f5af70f.jpg"
         },
         {
             "uid": 1809810330,
@@ -73,7 +65,7 @@
             "name": "泛晓akarui",
             "group": "猫邮社",
             "description": "臭打游戏的笨蛋美少龙",
-            "face": "https://i2.hdslb.com/bfs/face/902ddb0d4cb5e82bff54292c993f51c21fb996d9.jpg"
+            "face": "https://i2.hdslb.com/bfs/face/4b3e339433d2dd04f63884c21c5cceee23e8f5da.jpg"
         },
         {
             "uid": 1854400894,
@@ -104,7 +96,7 @@
             "room": 24816392,
             "name": "苳灵Alma",
             "group": "猫邮社",
-            "description": "猫邮社所属小幽灵，不是狐狸！！\n禁言通知群：473853047\n",
+            "description": "开心就好\n禁言通知群：473853047\n",
             "face": "https://i1.hdslb.com/bfs/face/5769ead43ca6542534c9649b482c82f74dd6d720.jpg"
         }
     ]

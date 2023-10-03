@@ -1,0 +1,47 @@
+{
+    "version": 3,
+    "name": "ARP",
+    "title": "ARP",
+    "data": [
+        {
+            "uid": 3493279251302485,
+            "room": 27751132,
+            "name": "Dacapo_ARP",
+            "group": "ARP",
+            "description": "Maknae of ORION a celestial Boy Group from ARP",
+            "face": "https://i1.hdslb.com/bfs/face/4dc9b307af3b82aaeab9f305ec26772873cede6f.jpg"
+        },
+        {
+            "uid": 696613223,
+            "room": 30014472,
+            "name": "Effy_ARP",
+            "group": "ARP",
+            "description": "Algorhythm Project - 是实习月老哦",
+            "face": "https://i2.hdslb.com/bfs/face/82bb6a1380acd8d76962fe342b0f4ec66c20395e.jpg"
+        },
+        {
+            "uid": 3494357447478239,
+            "room": 30052480,
+            "name": "Eileennoir_ARP",
+            "group": "ARP",
+            "description": "《Algorhythm Project》爱林诺儿  (Thailand)",
+            "face": "https://i2.hdslb.com/bfs/face/707ab1dc677bcf64eed81af52f6d313b973d2043.jpg"
+        },
+        {
+            "uid": 3494357453768985,
+            "room": 30008814,
+            "name": "Evalia_ARP",
+            "group": "ARP",
+            "description": "《Algorhythm Project》 The Banshee VTuber #Evalostsoul (TH/EN)",
+            "face": "https://i0.hdslb.com/bfs/face/91758570c61b53594121026acf7ac0c61dd5ec22.jpg"
+        },
+        {
+            "uid": 3493279458921203,
+            "room": 27638044,
+            "name": "Schneider_ARP",
+            "group": "ARP",
+            "description": "Big Brother of ORION a celestial Boy Group from ARP",
+            "face": "https://i2.hdslb.com/bfs/face/2126d42e5e429839f072230d53d0a8c08901c69c.jpg"
+        }
+    ]
+}

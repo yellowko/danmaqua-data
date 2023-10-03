@@ -1,5 +1,5 @@
 {
-    "version": 2,
+    "version": 3,
     "name": "四禧丸子",
     "title": "四禧丸子",
     "data": [
@@ -17,7 +17,7 @@
             "name": "恬豆发芽了",
             "group": "四禧丸子",
             "description": "咦？这里有颗豆豆好像快要发芽了。",
-            "face": "https://i2.hdslb.com/bfs/face/3f9ad1805c09c66bc5185cba3fb025293744839d.jpg"
+            "face": "https://i2.hdslb.com/bfs/face/e60174e604c5d62840493320c5de157631e3b2df.jpg"
         },
         {
             "uid": 1900141897,
@@ -25,7 +25,7 @@
             "name": "梨安不迷路",
             "group": "四禧丸子",
             "description": "温柔的“高智商”美女。（店小二把引号去掉！！！）",
-            "face": "https://i1.hdslb.com/bfs/face/607a5703c92168d18acba0d5a0b18bcec3d73f16.jpg"
+            "face": "https://i1.hdslb.com/bfs/face/eda52304da13797cb604c61d99897731c01562e4.jpg"
         },
         {
             "uid": 1878154667,
@@ -33,7 +33,7 @@
             "name": "沐霂是MUMU呀",
             "group": "四禧丸子",
             "description": "来和我一起在雨中肆意奔跑吧！",
-            "face": "https://i2.hdslb.com/bfs/face/603ef874218e25155625aeac8c7b31c5211d24b0.jpg"
+            "face": "https://i2.hdslb.com/bfs/face/87ee111f11c5c46f4f7dbbb0334336a3bcc3ce3a.jpg"
         }
     ]
 }

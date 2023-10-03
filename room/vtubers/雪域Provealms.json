@@ -1,15 +1,39 @@
 {
-    "version": 2,
+    "version": 3,
     "name": "雪域Provealms",
     "title": "雪域Provealms",
     "data": [
+        {
+            "uid": 3493276038465661,
+            "room": 27544657,
+            "name": "弥撒Misaa",
+            "group": "雪域Provealms",
+            "description": "雪域Provealms所属来自教会的见习修女/合作请联系provealms@foxmail.com",
+            "face": "https://i1.hdslb.com/bfs/face/65f0cd12aa1c220d16ee42b36d1aec827d9ccba4.jpg"
+        },
         {
             "uid": 12939237,
             "room": 264788,
             "name": "有棵里里",
             "group": "雪域Provealms",
-            "description": "雪域Provealms所属小妹魔！\n粉丝群：660702422\n合作请联系provealms@foxmail.com",
-            "face": "https://i0.hdslb.com/bfs/face/be058ce1aa77aea9545b7665afb5f1eb83371c25.jpg"
+            "description": "努力的原创音乐魔 加油\n来自雪域Provealms",
+            "face": "https://i0.hdslb.com/bfs/face/cb0a8d07ed0daa6da5e8aecf5ea2440dccaba858.jpg"
+        },
+        {
+            "uid": 3493078824389254,
+            "room": 27399705,
+            "name": "朝月夜Asa",
+            "group": "雪域Provealms",
+            "description": "雪域provealms编外/爱唱歌的恶魔猎人/合作请联系provealms@foxmail.com",
+            "face": "https://i1.hdslb.com/bfs/face/1b9eea9ec145a4e0350cade5c65684bce49b1ef6.jpg"
+        },
+        {
+            "uid": 3493275287685266,
+            "room": 27870921,
+            "name": "珑歌Taki",
+            "group": "雪域Provealms",
+            "description": "雪域provealms所属，来自血族元老会的猎手/合作请联系provealms@foxmail.com",
+            "face": "https://i2.hdslb.com/bfs/face/0602f6bbf6b6805a0087188279c0a079ed9cb38f.jpg"
         },
         {
             "uid": 3461576189282324,
@@ -17,7 +41,15 @@
             "name": "纱依shayi",
             "group": "雪域Provealms",
             "description": "雪域provealms所属的闲散魔女 / 合作请联系provealms@foxmail.com",
-            "face": "https://i2.hdslb.com/bfs/face/c5caa02103cc6d3a71297d58da67c9df97d73a12.jpg"
+            "face": "https://i2.hdslb.com/bfs/face/aaa65263ed944cfaf5a42a5826c14c64de70c334.jpg"
+        },
+        {
+            "uid": 240686445,
+            "room": 9287995,
+            "name": "萝艻看着你",
+            "group": "雪域Provealms",
+            "description": "生的荒唐",
+            "face": "https://i0.hdslb.com/bfs/face/43d4ebe01a872c7d54127e2c196476e488957796.jpg"
         },
         {
             "uid": 3493078891497932,

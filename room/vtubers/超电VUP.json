@@ -1,5 +1,5 @@
 {
-    "version": 2,
+    "version": 3,
     "name": "超电VUP",
     "title": "超电VUP",
     "data": [
@@ -8,7 +8,7 @@
             "room": 5275,
             "name": "新月冰冰",
             "group": "超电VUP",
-            "description": "慈善福利送钱个人up主，商单联系QQ3406132，冰冰绿色饼饼黄色，配音演员，愿望是配神尾观铃！粉丝群：1314629",
+            "description": "职业配音演员，人生愿望是配《AIR》神尾观铃官方中文。粉丝群：1314629",
             "face": "https://i1.hdslb.com/bfs/face/6b9bd3b5b124ee8546a3739b30b5696b23c7e950.jpg"
         },
         {
@@ -40,7 +40,7 @@
             "room": 602283,
             "name": "蝶太",
             "group": "超电VUP",
-            "description": "正太虚拟偶像✨虚研社Mancraft 。合作请联系：dddietai@163.com。禁止搬运我的翻唱和视频。",
+            "description": "正太虚拟主播✨虚研社Mancraft所属 。商业合作请联系：dddietai@163.com。禁止搬运我的翻唱和视频。",
             "face": "https://i0.hdslb.com/bfs/face/8ac33ab588b2cf2d7b55c68ec5997a93153be528.jpg"
         },
         {
@@ -56,7 +56,7 @@
             "room": 876396,
             "name": "冰糖IO",
             "group": "超电VUP",
-            "description": "既是UP主也是虚拟主播（个人），同时还是3D动画师！\n制作：动画、配音、游戏实况、音乐、虚拟现实。\n商洽联络人vx：15000251667",
+            "description": "喜欢给大家带来快乐。 既是UP主也是个人势虚拟主播，同时还是3D动画师！制作：动画、配音、游戏实况、音乐、虚拟现实。",
             "face": "https://i0.hdslb.com/bfs/face/b4e9c733f9053493f0672d2375c215df26c39c97.jpg"
         }
     ]

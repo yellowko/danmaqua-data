@@ -1,0 +1,55 @@
+{
+    "version": 3,
+    "name": "—MSD一",
+    "title": "—MSD一",
+    "data": [
+        {
+            "uid": 2110900767,
+            "room": 22700052,
+            "name": "伊兹_Iz",
+            "group": "—MSD一",
+            "description": "-虚拟大学MSD一年级就读-喜欢唱歌的侦探一名",
+            "face": "https://i0.hdslb.com/bfs/face/58b579f5963e5f4716b62546b89080c84f583107.jpg"
+        },
+        {
+            "uid": 1849519124,
+            "room": 22700042,
+            "name": "律花_Ritsuka",
+            "group": "—MSD一",
+            "description": "—MSD一期生— 歌势/松鼠/不要冷吃",
+            "face": "https://i2.hdslb.com/bfs/face/e0861439797ec970af9535a77584895cfd5cc803.jpg"
+        },
+        {
+            "uid": 1577826459,
+            "room": 22700050,
+            "name": "继_Tsugi",
+            "group": "—MSD一",
+            "description": "—MSD一期生—  努力变得kirakira✨成为大家的宝 ",
+            "face": "https://i0.hdslb.com/bfs/face/b29a97a8525ff21dde3f3710ac2d4aa30bd5f9d4.jpg"
+        },
+        {
+            "uid": 1840878197,
+            "room": 22700048,
+            "name": "阿塔斯_Altas",
+            "group": "—MSD一",
+            "description": "-MaeSond一期生- 真是个有趣的新世界。",
+            "face": "https://i2.hdslb.com/bfs/face/b0cc7ab394110f7e8afeb465da807ea0c6a9fdee.jpg"
+        },
+        {
+            "uid": 1342629484,
+            "room": 22700041,
+            "name": "雨声奏_Kanade",
+            "group": "—MSD一",
+            "description": "—MSD一期生— 我们终将再会，在下一个雨天 \n绘师：Ayamy  模型师：尚尚",
+            "face": "https://i1.hdslb.com/bfs/face/80da773f5b3ba405e73d77dad08d27f847926034.jpg"
+        },
+        {
+            "uid": 2100944625,
+            "room": 22700040,
+            "name": "露珀塔_Ruperta",
+            "group": "—MSD一",
+            "description": "最特别的那一个。",
+            "face": "https://i0.hdslb.com/bfs/face/581da85496645531ed3c99b1e86251a987a8d51a.jpg"
+        }
+    ]
+}

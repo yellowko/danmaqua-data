@@ -1,5 +1,5 @@
 {
-    "version": 2,
+    "version": 3,
     "name": "神楽组",
     "title": "神楽组",
     "data": [
@@ -25,7 +25,7 @@
             "name": "神楽Mea_Official",
             "group": "神楽组",
             "description": "",
-            "face": "https://i1.hdslb.com/bfs/face/9d7dcfe1eb2b42ab4ca7684e1c3b136372944d84.jpg"
+            "face": "https://i1.hdslb.com/bfs/face/a2b280149e6f6f1f0faa17a543d9619e127e0cad.jpg"
         }
     ]
 }

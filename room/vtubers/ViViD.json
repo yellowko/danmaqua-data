@@ -1,5 +1,5 @@
 {
-    "version": 2,
+    "version": 3,
     "name": "ViViD",
     "title": "ViViD",
     "data": [
@@ -8,8 +8,8 @@
             "room": 21811136,
             "name": "猫芒ベル_Official",
             "group": "ViViD",
-            "description": " ViViD所属的Vtuber。见习魔女。‍#猫芒照相馆#",
-            "face": "https://i1.hdslb.com/bfs/face/652385c47e4742b6e26e19995a2407c83756b1f7.jpg"
+            "description": " Vividnia的Vtuber。见习魔女。‍#猫芒照相馆#",
+            "face": "https://i1.hdslb.com/bfs/face/7140adeb713ba9e89b168d125d6418feb5a7eded.jpg"
         },
         {
             "uid": 421347849,

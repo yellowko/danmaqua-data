@@ -1,5 +1,5 @@
 {
-    "version": 2,
+    "version": 3,
     "name": "幻home",
     "title": "幻home",
     "data": [
@@ -14,9 +14,9 @@
         {
             "uid": 36604989,
             "room": 2446210,
-            "name": "应星尘channel",
+            "name": "唐星尘channel",
             "group": "幻home",
-            "description": "✨泡泡茶会✨这里是个人势vup应星尘是也！是风铃家的带孝子，目前喜欢玩ff14和一些射击类游戏，欢迎一起来玩哦。",
+            "description": "✨泡泡茶会✨这里是个人势vup唐星尘是也！是风铃家的带孝子，目前喜欢玩ff14和一些射击类游戏，欢迎一起来玩哦。",
             "face": "https://i0.hdslb.com/bfs/face/5877305dc8df5cb841b15085036656923cebc467.jpg"
         },
         {
@@ -40,7 +40,7 @@
             "room": 21460916,
             "name": "--BB--",
             "group": "幻home",
-            "description": "BB跑路偷学画去了  前ID：哈库Hakuma  ",
+            "description": "BB跑路偷学画去了  前ID：哈库Hakuma   很懒，不怎么接 dT-Tb",
             "face": "https://i1.hdslb.com/bfs/face/145d5f5ed685face8319cd0ac522f0f20a2da235.jpg"
         }
     ]

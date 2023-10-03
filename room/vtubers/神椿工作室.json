@@ -1,5 +1,5 @@
 {
-    "version": 2,
+    "version": 3,
     "name": "神椿工作室",
     "title": "神椿工作室",
     "data": [
@@ -33,7 +33,7 @@
             "name": "春猿火_harusaruhi",
             "group": "神椿工作室",
             "description": "年轻人的想法与情绪，融入到歌声与说唱之中的虚拟说唱歌手 春猿火/HARUSARUHI。微博：春猿火_harusaruhi",
-            "face": "http://i2.hdslb.com/bfs/face/7207fd5f8c86ce0d2af96b052ed59fa8088ba92f.jpg"
+            "face": "https://i2.hdslb.com/bfs/face/20f15968ea238b8886376fcc60030e990486d80f.jpg"
         },
         {
             "uid": 489046950,
@@ -41,7 +41,7 @@
             "name": "理芽_RIM",
             "group": "神椿工作室",
             "description": "有着神秘眼睛的少女，喜欢日文、英文和韩文歌曲。在她不可思议的歌声里清澈与明艳共存。超越了音乐风格与国界的次世代虚拟歌手。微博：理芽_rime",
-            "face": "https://i0.hdslb.com/bfs/face/ab13251a9a58c35f620cae3794a79783d26fd7a1.jpg"
+            "face": "https://i0.hdslb.com/bfs/face/919a72117b2908a910b05bd22006e33edce999ba.jpg"
         },
         {
             "uid": 502445912,

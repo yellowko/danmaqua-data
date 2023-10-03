@@ -1,8 +1,16 @@
 {
-    "version": 2,
+    "version": 3,
     "name": "StarDust星云社",
     "title": "StarDust星云社",
     "data": [
+        {
+            "uid": 24924516,
+            "room": 5058245,
+            "name": "可诺Kino",
+            "group": "StarDust星云社",
+            "description": "「虚拟偶像企划StarDust所属」开心每一天！ 咖啡厅门牌号：836964098  欢迎大家来玩儿鸭~",
+            "face": "https://i0.hdslb.com/bfs/face/2509b808c4de7527122e72054a57eb21de83a95d.jpg"
+        },
         {
             "uid": 3461570239662267,
             "room": 26059927,
@@ -16,8 +24,8 @@
             "room": 22502982,
             "name": "悠米Umii",
             "group": "StarDust星云社",
-            "description": "「虚拟偶像企划StarDust所属」歌杂|祝你开心\n粉丝群：956140910  \n官网：StarDust.wiki/Umii",
-            "face": "https://i2.hdslb.com/bfs/face/1bab895e5d3e8c299c82a2b218a4b0aeabde8b00.jpg"
+            "description": "「虚拟偶像企划StarDust所属」歌杂|阿米只希望你开心\n粉丝群：956140910  \n官网：StarDust.wiki/Umii",
+            "face": "https://i2.hdslb.com/bfs/face/b227bd9279f4c1dea9231797a618bb783399ad32.jpg"
         },
         {
             "uid": 1806974352,
@@ -33,7 +41,7 @@
             "name": "桃泽美羽Miyu",
             "group": "StarDust星云社",
             "description": "「虚拟偶像企划StarDust所属」†是天使也是恶魔† 粉丝群：191991695 StarDust.wiki/Miyu",
-            "face": "https://i1.hdslb.com/bfs/face/b253a77cc562ede7ecc898b03fd15309918be23d.jpg"
+            "face": "https://i1.hdslb.com/bfs/face/1bf96c08d7c6c2b865cf241a71ed949180dd1d1d.jpg"
         },
         {
             "uid": 501218873,
@@ -41,7 +49,7 @@
             "name": "樱吹雪_Yuki",
             "group": "StarDust星云社",
             "description": "「虚拟偶像企划StarDust所属」吹雪神殿的转运巫女，运势不好的时候就来找我吧~粉丝群：871304994",
-            "face": "https://i2.hdslb.com/bfs/face/fa423a8d0c4b0ff863ba102b562da7da6edd16f3.jpg"
+            "face": "https://i2.hdslb.com/bfs/face/ea53a12a36d9125d238920ab0194981014b552be.jpg"
         },
         {
             "uid": 17206435,
